@@ -28,6 +28,20 @@
     "added_at": "2025-03-30"
   },
   {
+    "title": "12 Angry Men",
+    "year": 1957,
+    "genres": "Drama, Crime",
+    "studio": "United Artists",
+    "plot": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+    "cast": "Martin Balsam, John Fiedler, Lee J. Cobb",
+    "original_air_date": "1957-04-10",
+    "runtime_minutes": 96,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 15375,
+    "added_at": "2025-08-03"
+  },
+  {
     "title": "12 Monkeys",
     "year": 1995,
     "genres": "Science Fiction, Thriller",
@@ -1132,6 +1146,20 @@
     "plex_rating": "",
     "plex_guid": 13338,
     "added_at": "2025-05-09"
+  },
+  {
+    "title": "The Batman",
+    "year": 2022,
+    "genres": "Action, Drama",
+    "studio": "6th & Idaho Motion Picture Company",
+    "plot": "When a sadistic serial killer begins murdering key political figures in Gotham, the Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+    "cast": "Robert Pattinson, Zoë Kravitz, Jeffrey Wright",
+    "original_air_date": "2022-03-01",
+    "runtime_minutes": 176,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 15351,
+    "added_at": "2025-08-03"
   },
   {
     "title": "Batman: Mask of the Phantasm",
