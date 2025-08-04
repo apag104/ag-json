@@ -1134,6 +1134,20 @@
     "added_at": "2025-03-07"
   },
   {
+    "title": "Barbie",
+    "year": 2023,
+    "genres": "Comedy, Fantasy",
+    "studio": "LuckyChap Entertainment",
+    "plot": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+    "cast": "Margot Robbie, Ryan Gosling, America Ferrera",
+    "original_air_date": "2023-07-19",
+    "runtime_minutes": 114,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 15379,
+    "added_at": "2025-08-03"
+  },
+  {
     "title": "The Basketball Diaries",
     "year": 1995,
     "genres": "Drama, Crime",
@@ -13522,6 +13536,20 @@
     "plex_rating": "",
     "plex_guid": 12777,
     "added_at": "2025-05-04"
+  },
+  {
+    "title": "Top Secret!",
+    "year": 1984,
+    "genres": "Comedy, Crime",
+    "studio": "Paramount Pictures",
+    "plot": "An American rock and roll singer is invited to a cultural festival in East Germany in order to distract from a plot to destroy NATO submarines, but he accidentally becomes involved in a resistance plot to rescue an imprisoned scientist.",
+    "cast": "Val Kilmer, Lucy Gutteridge, Peter Cushing",
+    "original_air_date": "1984-06-22",
+    "runtime_minutes": 90,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 15390,
+    "added_at": "2025-08-04"
   },
   {
     "title": "Total Recall",
