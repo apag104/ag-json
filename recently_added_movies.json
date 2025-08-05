@@ -1498,6 +1498,20 @@
     "added_at": "2025-08-04"
   },
   {
+    "title": "Big Night",
+    "year": 1996,
+    "genres": "Drama, Romance",
+    "studio": "Rysher Entertainment",
+    "plot": "New Jersey, 1950s. Two brothers run an Italian restaurant. Business is not going well as a rival Italian restaurant is out-competing them. In a final effort to save the restaurant, the brothers plan to put on an evening of incredible food.",
+    "cast": "Minnie Driver, Ian Holm, Isabella Rossellini",
+    "original_air_date": "1996-09-20",
+    "runtime_minutes": 109,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15604,
+    "added_at": "2025-08-05"
+  },
+  {
     "title": "Big Trouble in Little China",
     "year": 1986,
     "genres": "Action, Adventure",
@@ -6893,7 +6907,7 @@
     "genres": "Horror, Thriller",
     "studio": "Summer Knowledge LLC",
     "plot": "After an accident on a winding road, four teens make the fatal mistake of dumping their victim's body into the sea. But exactly one year later, the dead man returns from his watery grave and he's looking for more than an apology.",
-    "cast": "Jennifer Love Hewitt, Sarah Michelle Gellar, Freddie Prinze Jr.",
+    "cast": "Jennifer Love Hewitt, Freddie Prinze Jr., Sarah Michelle Gellar",
     "original_air_date": "1997-10-17",
     "runtime_minutes": 100,
     "content_rating": "R",
@@ -7558,6 +7572,20 @@
     "plex_rating": "",
     "plex_guid": 8807,
     "added_at": "2025-02-17"
+  },
+  {
+    "title": "Jurassic World: Rebirth",
+    "year": 2025,
+    "genres": "Thriller, Action",
+    "studio": "Universal Pictures",
+    "plot": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
+    "cast": "Scarlett Johansson, Jonathan Bailey, Mahershala Ali",
+    "original_air_date": "2025-07-01",
+    "runtime_minutes": 133,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 15583,
+    "added_at": "2025-08-05"
   },
   {
     "title": "Just Before Dawn",
@@ -12486,6 +12514,20 @@
     "plex_rating": "",
     "plex_guid": 5856,
     "added_at": "2025-02-15"
+  },
+  {
+    "title": "Sorry, Baby",
+    "year": 2025,
+    "genres": "Drama, Comedy",
+    "studio": "PASTEL",
+    "plot": "Something bad happened to Agnes. But life goes on… for everyone else. When a friend visits on the brink of a milestone, Agnes realizes how stuck she’s been, in this bittersweet story of finding your way after your world comes crashing down.",
+    "cast": "Eva Victor, Naomi Ackie, Lucas Hedges",
+    "original_air_date": "2025-07-16",
+    "runtime_minutes": 103,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15602,
+    "added_at": "2025-08-05"
   },
   {
     "title": "Southland Tales",
