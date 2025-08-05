@@ -789,7 +789,7 @@
     "genres": "Drama, War",
     "studio": "United Artists",
     "plot": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
-    "cast": "Martin Sheen, Marlon Brando, Albert Hall",
+    "cast": "Martin Sheen, Marlon Brando, Frederic Forrest",
     "original_air_date": "1979-08-15",
     "runtime_minutes": 196,
     "content_rating": "R",
@@ -1454,6 +1454,20 @@
     "plex_rating": "",
     "plex_guid": 14680,
     "added_at": "2025-07-05"
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "genres": "Comedy, Crime",
+    "studio": "PolyGram Filmed Entertainment",
+    "plot": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+    "cast": "Jeff Bridges, John Goodman, Julianne Moore",
+    "original_air_date": "1998-03-06",
+    "runtime_minutes": 117,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15413,
+    "added_at": "2025-08-04"
   },
   {
     "title": "Big Trouble in Little China",
@@ -2210,6 +2224,20 @@
     "plex_rating": "",
     "plex_guid": 13066,
     "added_at": "2025-05-05"
+  },
+  {
+    "title": "Children of Men",
+    "year": 2006,
+    "genres": "Drama, Action",
+    "studio": "Universal Pictures",
+    "plot": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+    "cast": "Clive Owen, Clare-Hope Ashitey, Chiwetel Ejiofor",
+    "original_air_date": "2006-09-22",
+    "runtime_minutes": 109,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15394,
+    "added_at": "2025-08-04"
   },
   {
     "title": "Chime",
@@ -4324,6 +4352,20 @@
     "plex_rating": "",
     "plex_guid": 5990,
     "added_at": "2025-02-15"
+  },
+  {
+    "title": "Evil Dead",
+    "year": 2013,
+    "genres": "Horror",
+    "studio": "TriStar Pictures",
+    "plot": "Five twenty-something friends become holed up in a remote cabin. When they discover a Book of the Dead, they unwittingly summon up dormant demons living in the nearby woods, which possess the youngsters in succession until only one is left intact to fight for survival.",
+    "cast": "Jane Levy, Shiloh Fernandez, Lou Taylor Pucci",
+    "original_air_date": "2013-04-04",
+    "runtime_minutes": 91,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15403,
+    "added_at": "2025-08-04"
   },
   {
     "title": "Evil Dead II",
@@ -6682,7 +6724,7 @@
     "year": 1990,
     "genres": "Action, Adventure",
     "studio": "Paramount Pictures",
-    "plot": "In November 1984, the Soviet Union's best submarine captain violates orders and heads for the U.S. in a new undetectable sub. The American CIA and military must quickly determine: Is he trying to defect or to start a war?",
+    "plot": "This movie tells the story of Captain Marko Ramius (Sir Sean Connery), the skipper of the Soviet Union's newest nuclear submarine, the \"Red October.\" Jack Ryan (Alec Baldwin) of the C.I.A. gets involved in a tense, tangled hunt for this sub, when Ramius defects, taking the \"Red October\" with him. The story is an action packed techno-thriller.",
     "cast": "Sean Connery, Alec Baldwin, Scott Glenn",
     "original_air_date": "1990-03-02",
     "runtime_minutes": 135,
@@ -13261,7 +13303,7 @@
     "title": "The Thirteenth Floor",
     "year": 1999,
     "genres": "Mystery, Science Fiction",
-    "studio": "Centropolis Film Productions",
+    "studio": "Columbia Pictures",
     "plot": "Computer scientist Douglas Hall unknowingly gets involved in the murder of his colleague, Hannon Fuller, a computer genius, who is killed just before the testing of his newly launched virtual reality simulation programme.",
     "cast": "Craig Bierko, Armin Mueller-Stahl, Gretchen Mol",
     "original_air_date": "1999-04-16",
@@ -13468,6 +13510,20 @@
     "added_at": "2025-07-23"
   },
   {
+    "title": "Tokyo Sonata",
+    "year": 2008,
+    "genres": "Drama",
+    "studio": "Nikkatsu Corporation",
+    "plot": "The wind of change is blowing as a family grapples with unemployment, alienation, mistrust and a lack of communication. When a Japanese salaryman loses his job to outsourcing to China, it is just the beginning of a series of family shattering incidents leading to the implosion of the family unit.",
+    "cast": "Teruyuki Kagawa, Kyoko Koizumi, Kai Inowaki",
+    "original_air_date": "2008-09-27",
+    "runtime_minutes": 119,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 15393,
+    "added_at": "2025-08-04"
+  },
+  {
     "title": "Tombstone",
     "year": 1993,
     "genres": "Western, Action",
@@ -13639,7 +13695,7 @@
     "title": "Tremors",
     "year": 1990,
     "genres": "Action, Horror",
-    "studio": "Wilson-Maddock Production",
+    "studio": "No Frills Film",
     "plot": "A small town gradually becomes aware of a strange creature which picks off people one by one. But what is this creature, and where is it? At the same time, a seismologist is working in the area, she detects _tremors_. The creature lives underground, and can 'pop up' without warning. Trapped in their town, the town-folk have no escape.",
     "cast": "Kevin Bacon, Fred Ward, Finn Carter",
     "original_air_date": "1990-01-19",
@@ -14523,7 +14579,7 @@
     "genres": "Romance, Musical",
     "studio": "Universal Pictures",
     "plot": "Elphaba, a young woman ridiculed for her green skin, and Galinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads.",
-    "cast": "Cynthia Erivo, Ariana Grande, Jeff Goldblum",
+    "cast": "Cynthia Erivo, Ariana Grande, Michelle Yeoh",
     "original_air_date": "2024-11-20",
     "runtime_minutes": 161,
     "content_rating": "PG",
