@@ -1824,7 +1824,7 @@
     "year": 2012,
     "genres": "Action, Adventure",
     "studio": "Universal Pictures",
-    "plot": "An expansion of the universe from Robert Ludlum's novels, centered on a new hero whose stakes have been triggered by the events of the previous three films.",
+    "plot": "The Bourne Legacy takes the action-packed Bourne series to an explosive new level. On the verge of having their conspiracy exposed, members of the government's intelligence community will stop at nothing to erase all evidence of their top secret programs--even the agents involved. Aaron Cross must use his genetically-engineered skills to survive the ultimate game of cat-and-mouse and finish what Jason Bourne started.",
     "cast": "Jeremy Renner, Rachel Weisz, Edward Norton",
     "original_air_date": "2012-08-08",
     "runtime_minutes": 134,
@@ -3344,6 +3344,20 @@
     "plex_rating": "",
     "plex_guid": 15457,
     "added_at": "2025-08-04"
+  },
+  {
+    "title": "Dead Ringers",
+    "year": 1988,
+    "genres": "Drama, Horror",
+    "studio": "Mantle Clinic II",
+    "plot": "The Mantle brothers are both doctors - both gynecologists - and identical twins. Mentally however, one of them is more confident than the other, and always manages to seduce the women he meets. When he's tired of his current partner, she is passed on to the other brother - without her knowing. Everything runs smoothly, until an actress visits their clinic, and the shy brother is the first to fall in love. Will they be able to 'share' her ?",
+    "cast": "Jeremy Irons, Geneviève Bujold, Heidi von Palleske",
+    "original_air_date": "1988-09-23",
+    "runtime_minutes": 115,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15609,
+    "added_at": "2025-08-07"
   },
   {
     "title": "The Dead Zone",
