@@ -4186,6 +4186,20 @@
     "added_at": "2025-06-13"
   },
   {
+    "title": "Eddington",
+    "year": 2025,
+    "genres": "Comedy, Drama",
+    "studio": "A24",
+    "plot": "A standoff between a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks a powder keg as neighbor is pitted against neighbor in May of 2020 in Eddington, New Mexico.",
+    "cast": "Joaquin Phoenix, Pedro Pascal, Luke Grimes",
+    "original_air_date": "2025-07-16",
+    "runtime_minutes": 148,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15693,
+    "added_at": "2025-08-13"
+  },
+  {
     "title": "Edge of Tomorrow",
     "year": 2014,
     "genres": "Science Fiction, Action",
@@ -8237,7 +8251,7 @@
     "genres": "Drama, Fantasy",
     "studio": "Intrepid Pictures",
     "plot": "A life-affirming, genre-bending story about three chapters in the life of an ordinary man named Charles Krantz.",
-    "cast": "Tom Hiddleston, Jacob Tremblay, Benjamin Pajak",
+    "cast": "Tom Hiddleston, Benjamin Pajak, Nick Offerman",
     "original_air_date": "2025-06-05",
     "runtime_minutes": 110,
     "content_rating": "R",
@@ -10780,6 +10794,20 @@
     "added_at": "2025-05-04"
   },
   {
+    "title": "Psycho Beach Party",
+    "year": 2000,
+    "genres": "Comedy, Horror",
+    "studio": "New Oz Productions",
+    "plot": "Chicklet is a sixteen-year old tomboy who's desperate to be part of the in-crowd of Malibu beach surfers. She's the typical American girl - except for one little problem: her personality is split into more slices than a pepperoni pizza.",
+    "cast": "Lauren Ambrose, Thomas Gibson, Nicholas Brendon",
+    "original_air_date": "2000-08-06",
+    "runtime_minutes": 96,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 15691,
+    "added_at": "2025-08-12"
+  },
+  {
     "title": "Pulp Fiction",
     "year": 1994,
     "genres": "Thriller, Crime",
@@ -11564,6 +11592,20 @@
     "added_at": "2025-02-15"
   },
   {
+    "title": "Saint Jack",
+    "year": 1979,
+    "genres": "Drama",
+    "studio": "Shoals Creek",
+    "plot": "Jack Flowers is an American hustler trying to make his fortune in 1970s Singapore in small time pimping. His dreams of building a fortune by running a brothel himself and returning to the States is materialized when he is offered the opportunity by the CIA to run a brothel for the R&R activities of U.S. soldiers on leave in Singapore.",
+    "cast": "Ben Gazzara, Denholm Elliott, James Villiers",
+    "original_air_date": "1979-12-05",
+    "runtime_minutes": 114,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15699,
+    "added_at": "2025-08-13"
+  },
+  {
     "title": "Sans Soleil",
     "year": 1983,
     "genres": "Documentary, Drama",
@@ -12308,9 +12350,9 @@
   {
     "title": "Sinners",
     "year": 2025,
-    "genres": "Drama, Fantasy",
+    "genres": "Drama, Horror",
     "studio": "Warner Bros. Pictures",
-    "plot": "From Ryan Coogler-director of \"Black Panther\" and \"Creed\"-and starring Michael B. Jordan comes a new vision of fear: \"Sinners.\" Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "plot": "From Ryan Coogler - director of \"Black Panther\" and \"Creed\" - and starring Michael B. Jordan, comes a new vision of fear: \"Sinners.\" Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
     "cast": "Michael B. Jordan, Hailee Steinfeld, Miles Caton",
     "original_air_date": "2025-04-16",
     "runtime_minutes": 137,
@@ -12633,7 +12675,7 @@
     "genres": "Drama, Comedy",
     "studio": "PASTEL",
     "plot": "Something bad happened to Agnes. But life goes on… for everyone else. When a friend visits on the brink of a milestone, Agnes realizes how stuck she’s been, in this bittersweet story of finding your way after your world comes crashing down.",
-    "cast": "Eva Victor, Naomi Ackie, Lucas Hedges",
+    "cast": "Eva Victor, Naomi Ackie, Louis Cancelmi",
     "original_air_date": "2025-07-16",
     "runtime_minutes": 103,
     "content_rating": "R",
