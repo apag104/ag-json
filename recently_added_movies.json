@@ -13342,6 +13342,20 @@
     "added_at": "2025-02-15"
   },
   {
+    "title": "Superman",
+    "year": 2025,
+    "genres": "Action, Adventure",
+    "studio": "DC Studios",
+    "plot": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the human way he soon finds himself in a world that views these as old-fashioned.",
+    "cast": "David Corenswet, Rachel Brosnahan, Nicholas Hoult",
+    "original_air_date": "2025-07-09",
+    "runtime_minutes": 129,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 15710,
+    "added_at": "2025-08-15"
+  },
+  {
     "title": "The Surfer",
     "year": 2025,
     "genres": "Thriller, Drama",
@@ -14768,6 +14782,20 @@
     "plex_rating": "",
     "plex_guid": 7904,
     "added_at": "2025-02-16"
+  },
+  {
+    "title": "War of the Worlds",
+    "year": 2025,
+    "genres": "Horror, Science Fiction",
+    "studio": "Universal Pictures",
+    "plot": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+    "cast": "Ice Cube, Eva Longoria, Clark Gregg",
+    "original_air_date": "2025-07-30",
+    "runtime_minutes": 90,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 15718,
+    "added_at": "2025-08-16"
   },
   {
     "title": "Warcraft",
