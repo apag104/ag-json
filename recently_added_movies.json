@@ -1302,6 +1302,20 @@
     "added_at": "2025-02-16"
   },
   {
+    "title": "Beau Is Afraid",
+    "year": 2023,
+    "genres": "Comedy, Drama",
+    "studio": "A24",
+    "plot": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic odyssey back home.",
+    "cast": "Joaquin Phoenix, Patti LuPone, Amy Ryan",
+    "original_air_date": "2023-04-20",
+    "runtime_minutes": 180,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15768,
+    "added_at": "2025-08-18"
+  },
+  {
     "title": "Beautiful Boy",
     "year": 2018,
     "genres": "Drama, Biography",
@@ -2625,7 +2639,7 @@
     "plot": "In 1961, an unknown 19-year-old Bob Dylan arrives in New York City with his guitar and forges relationships with musical icons on his meteoric rise, culminating in a groundbreaking performance that reverberates around the world.",
     "cast": "Timothée Chalamet, Edward Norton, Elle Fanning",
     "original_air_date": "2024-12-25",
-    "runtime_minutes": 141,
+    "runtime_minutes": 140,
     "content_rating": "R",
     "plex_rating": "",
     "plex_guid": 9916,
@@ -9037,7 +9051,7 @@
     "plot": "Hunt and the IMF pursue a dangerous AI called the Entity that's infiltrated global intelligence. With governments and a figure from his past in pursuit, Hunt races to stop it from forever changing the world.",
     "cast": "Tom Cruise, Hayley Atwell, Ving Rhames",
     "original_air_date": "2025-05-17",
-    "runtime_minutes": 172,
+    "runtime_minutes": 169,
     "content_rating": "PG-13",
     "plex_rating": "",
     "plex_guid": 15742,
