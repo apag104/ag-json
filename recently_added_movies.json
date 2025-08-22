@@ -187,7 +187,7 @@
     "genres": "Drama, Science Fiction",
     "studio": "Shanghai Film Group",
     "plot": "Several women enter a science fiction author's life over the course of a few years, after the author has lost the woman he considers his one true love.",
-    "cast": "Tony Leung, Gong Li, Faye Wong",
+    "cast": "Tony Leung Chiu-wai, Gong Li, Faye Wong",
     "original_air_date": "2004-09-29",
     "runtime_minutes": 127,
     "content_rating": "R",
@@ -610,7 +610,7 @@
     "cast": "F. Murray Abraham, Tom Hulce, Elizabeth Berridge",
     "original_air_date": "1984-09-19",
     "runtime_minutes": 180,
-    "content_rating": "R",
+    "content_rating": "PG",
     "plex_rating": "",
     "plex_guid": 8153,
     "added_at": "2025-02-16"
@@ -4358,7 +4358,7 @@
     "year": 2020,
     "genres": "Horror, Thriller",
     "studio": "BOOM! Studios",
-    "plot": "Retired cop James Lasombra is asked by a friend to investigate the disappearance of her daughter, who seemingly packed in the night and left an ominous message on the bathroom mirror - \"The Empty Man Made Me Do It.\" As he investigates this mysterious figure further, James begins to see and hear strange things, and is forced to come to terms with his past and what it means for his future.",
+    "plot": "On the trail of a missing girl, an ex-cop comes across a secretive group attempting to summon a terrifying supernatural entity.",
     "cast": "James Badge Dale, Marin Ireland, Sasha Frolova",
     "original_air_date": "2020-10-22",
     "runtime_minutes": 136,
@@ -6035,12 +6035,12 @@
   },
   {
     "title": "Grace Quigley",
-    "year": 1984,
+    "year": 1985,
     "genres": "Comedy",
     "studio": "The Cannon Group",
     "plot": "Grace Quigley, living alone in her New York apartment, is nearing the end of her life. One day she witnesses a murder being committed by top hitman Seymour Flint. She decides to blackmail him into killing her. However, she has one or two friends she wants him to get rid of first.",
     "cast": "Katharine Hepburn, Nick Nolte, Walter Abel",
-    "original_air_date": "1984-05-14",
+    "original_air_date": "1985-04-08",
     "runtime_minutes": 86,
     "content_rating": "PG",
     "plex_rating": "",
@@ -11102,6 +11102,20 @@
     "added_at": "2025-02-17"
   },
   {
+    "title": "Querelle",
+    "year": 1982,
+    "genres": "Drama, Fantasy",
+    "studio": "Gaumont",
+    "plot": "A handsome Belgian sailor on shore leave in the port of Brest, who is also a drug smuggler and murderer, embarks upon a voyage of highly charged and violent homosexual self-discovery that will change him forever from the man he once was.",
+    "cast": "Brad Davis, Franco Nero, Jeanne Moreau",
+    "original_air_date": "1982-09-08",
+    "runtime_minutes": 108,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15826,
+    "added_at": "2025-08-21"
+  },
+  {
     "title": "The Quick and the Dead",
     "year": 1995,
     "genres": "Western, Action",
@@ -12908,6 +12922,20 @@
     "added_at": "2025-08-05"
   },
   {
+    "title": "South Park: Bigger, Longer & Uncut",
+    "year": 1999,
+    "genres": "Comedy, Animation",
+    "studio": "Paramount Pictures",
+    "plot": "When Eric Cartman and his friends go see an R-rated movie, they start cursing and their parents think that Canada is to blame.",
+    "cast": "Trey Parker, Matt Stone, Mary Kay Bergman",
+    "original_air_date": "1999-06-24",
+    "runtime_minutes": 81,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15846,
+    "added_at": "2025-08-21"
+  },
+  {
     "title": "Southland Tales",
     "year": 2006,
     "genres": "Comedy, Drama",
@@ -13858,6 +13886,20 @@
     "plex_rating": "",
     "plex_guid": 14071,
     "added_at": "2025-05-26"
+  },
+  {
+    "title": "They All Laughed",
+    "year": 1981,
+    "genres": "Comedy, Romance",
+    "studio": "Time Life Films",
+    "plot": "New York's Odyssey Detective Agency is hired by two different clients to follow two women suspected of infidelity. Ladies' man John Russo trails Angela Niotes, the elegant wife of a wealthy Italian industrialist; while Charles Rutledge and Arthur Brodsky follow Dolores Martin, the beautiful young wife of a jealous husband. Their respective cases are complicated when John falls for Angela, and Charles falls for Dolores.",
+    "cast": "Audrey Hepburn, Ben Gazzara, Patti Hansen",
+    "original_air_date": "1981-11-20",
+    "runtime_minutes": 115,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 15823,
+    "added_at": "2025-08-21"
   },
   {
     "title": "They Live",
