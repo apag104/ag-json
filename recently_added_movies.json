@@ -966,6 +966,48 @@
     "added_at": "2025-06-01"
   },
   {
+    "title": "Austin Powers in Goldmember",
+    "year": 2002,
+    "genres": "Comedy, Science Fiction",
+    "studio": "Eric's Boy",
+    "plot": "The world's most shagadelic spy continues his fight against Dr. Evil. This time, the diabolical doctor and his clone, Mini-Me, team up with a new foe—'70s kingpin Goldmember. While pursuing the team of villains to stop them from world domination, Austin gets help from his dad and an old girlfriend.",
+    "cast": "Mike Myers, Beyoncé, Seth Green",
+    "original_air_date": "2002-07-26",
+    "runtime_minutes": 94,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 15865,
+    "added_at": "2025-08-22"
+  },
+  {
+    "title": "Austin Powers: International Man of Mystery",
+    "year": 1997,
+    "genres": "Comedy, Science Fiction",
+    "studio": "New Line Cinema",
+    "plot": "As a swinging fashion photographer by day and a groovy British superagent by night, Austin Powers is the '60s' most shagadelic spy. But can he stop megalomaniac Dr. Evil after the bald villain freezes himself and unthaws in the '90s? With the help of sexy sidekick Vanessa Kensington, he just might.",
+    "cast": "Mike Myers, Elizabeth Hurley, Michael York",
+    "original_air_date": "1997-05-02",
+    "runtime_minutes": 94,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 15860,
+    "added_at": "2025-08-22"
+  },
+  {
+    "title": "Austin Powers: The Spy Who Shagged Me",
+    "year": 1999,
+    "genres": "Comedy, Crime",
+    "studio": "New Line Cinema",
+    "plot": "When diabolical genius Dr. Evil travels back in time to steal superspy Austin Powers's ‘mojo,’ Austin must return to the swingin' '60s himself - with the help of American agent, Felicity Shagwell - to stop the dastardly plan. Once there, Austin faces off against Dr. Evil's army of minions to try to save the world in his own unbelievably groovy way.",
+    "cast": "Mike Myers, Heather Graham, Verne Troyer",
+    "original_air_date": "1999-06-11",
+    "runtime_minutes": 95,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 15857,
+    "added_at": "2025-08-22"
+  },
+  {
     "title": "The Aviator",
     "year": 2004,
     "genres": "Drama, Biography",
@@ -2002,6 +2044,20 @@
     "added_at": "2025-02-18"
   },
   {
+    "title": "Bulworth",
+    "year": 1998,
+    "genres": "Comedy, Drama",
+    "studio": "20th Century Fox",
+    "plot": "A suicidally disillusioned liberal politician puts a contract out on himself and takes the opportunity to be bluntly honest with his voters by affecting the rhythms and speech of hip-hop music and culture.",
+    "cast": "Warren Beatty, Halle Berry, Kimberly Deauna Adams",
+    "original_air_date": "1998-05-22",
+    "runtime_minutes": 108,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15884,
+    "added_at": "2025-08-22"
+  },
+  {
     "title": "Burning",
     "year": 2018,
     "genres": "Mystery, Drama",
@@ -2014,6 +2070,20 @@
     "plex_rating": "",
     "plex_guid": 7608,
     "added_at": "2025-02-16"
+  },
+  {
+    "title": "Burnt Offerings",
+    "year": 1976,
+    "genres": "Horror, Mystery",
+    "studio": "United Artists",
+    "plot": "A couple and their twelve-year-old son move into a giant house for the summer where things aren’t quite what they seem. Every time someone gets hurt on the grounds, the beat-up house seems to repair itself…",
+    "cast": "Karen Black, Oliver Reed, Burgess Meredith",
+    "original_air_date": "1976-10-18",
+    "runtime_minutes": 116,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 15855,
+    "added_at": "2025-08-22"
   },
   {
     "title": "But I'm a Cheerleader",
@@ -3092,6 +3162,20 @@
     "plex_rating": "",
     "plex_guid": 5216,
     "added_at": "2025-02-15"
+  },
+  {
+    "title": "Daisy Miller",
+    "year": 1974,
+    "genres": "Drama, Romance",
+    "studio": "Copa del Oro",
+    "plot": "In this comedy of manners, Frederick Winterbourne tries to figure out the bright and bubbly Daisy Miller, only to be helped and hindered by false judgments from their fellow friends.",
+    "cast": "Cybill Shepherd, Barry Brown, Cloris Leachman",
+    "original_air_date": "1974-05-22",
+    "runtime_minutes": 91,
+    "content_rating": "G",
+    "plex_rating": "",
+    "plex_guid": 15886,
+    "added_at": "2025-08-22"
   },
   {
     "title": "The Damned",
@@ -6456,7 +6540,7 @@
   {
     "title": "Happy Gilmore 2",
     "year": 2025,
-    "genres": "Comedy, Drama",
+    "genres": "Comedy, Sport",
     "studio": "Happy Madison Productions",
     "plot": "Revisit Happy Gilmore's golf career after his win in the Tour Championship.",
     "cast": "Adam Sandler, Julie Bowen, Christopher McDonald",
@@ -12544,6 +12628,20 @@
     "added_at": "2025-02-15"
   },
   {
+    "title": "Simon of the Desert",
+    "year": 1965,
+    "genres": "Drama, Comedy",
+    "studio": "Sindicato de Trabajadores de la Producción Cinematográfica (STPC)",
+    "plot": "The ascetic Simón believes he is a sinner and decides to self-inflict a sacrifice, living like a hermit on the top of a pedestal in the middle of the desert to be closer to God and resist the temptations of the world. His followers are peasants and travelers that believe that Simón is a saint capable of performing miracles and they crowd to hear his speeches. However, Satan tries to tempt him with the pleasures of the world.",
+    "cast": "Claudio Brook, Silvia Pinal, Hortensia Santoveña",
+    "original_air_date": "1965-08-27",
+    "runtime_minutes": 46,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 15864,
+    "added_at": "2025-08-22"
+  },
+  {
     "title": "A Simple Favor",
     "year": 2018,
     "genres": "Thriller, Crime",
@@ -13620,6 +13718,20 @@
     "plex_rating": "",
     "plex_guid": 14239,
     "added_at": "2025-06-06"
+  },
+  {
+    "title": "Surviving Desire",
+    "year": 1992,
+    "genres": "Drama, Comedy",
+    "studio": "True Fiction Pictures",
+    "plot": "Jude, a college literature professor, falls for one of his students. She is more interested in the empirical experience of a relationship with a man whose life is ruled by the themes of the Russian literature he extols in class. Jude shows an interesting side of the stigmas associated with transgenerational relationships and how to deal with the inevitable pain of a love doomed to failure.",
+    "cast": "Martin Donovan, Matt Malloy, Rebecca Nelson",
+    "original_air_date": "1992-01-22",
+    "runtime_minutes": 55,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 15882,
+    "added_at": "2025-08-22"
   },
   {
     "title": "Suspiria",
