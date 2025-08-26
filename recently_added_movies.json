@@ -1134,6 +1134,20 @@
     "added_at": "2025-02-15"
   },
   {
+    "title": "Bad Day at Black Rock",
+    "year": 1955,
+    "genres": "Mystery, Crime",
+    "studio": "Loew's Incorporated",
+    "plot": "Following World War II, a one-armed stranger arrives in a tiny California desert town, but finds the residents hostile and protecting a terrible secret they want to keep hidden, by violent means if necessary.",
+    "cast": "Spencer Tracy, Robert Ryan, Walter Brennan",
+    "original_air_date": "1955-02-13",
+    "runtime_minutes": 81,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 15939,
+    "added_at": "2025-08-26"
+  },
+  {
     "title": "Bad Dreams",
     "year": 1988,
     "genres": "Horror, Thriller",
@@ -1804,6 +1818,20 @@
     "plex_rating": "",
     "plex_guid": 5205,
     "added_at": "2025-02-15"
+  },
+  {
+    "title": "Blow-Up",
+    "year": 1966,
+    "genres": "Drama, Mystery",
+    "studio": "Bridge Films",
+    "plot": "A successful mod photographer in London whose world is bounded by fashion, pop music, marijuana, and easy sex, feels his life is boring and despairing. But in the course of a single day he unknowingly captures a death on film.",
+    "cast": "David Hemmings, Vanessa Redgrave, Sarah Miles",
+    "original_air_date": "1966-12-18",
+    "runtime_minutes": 111,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 15936,
+    "added_at": "2025-08-26"
   },
   {
     "title": "Blue Giant",
@@ -15079,12 +15107,12 @@
   },
   {
     "title": "The Virgin Suicides",
-    "year": 1999,
+    "year": 2000,
     "genres": "Drama, Romance",
     "studio": "American Zoetrope",
     "plot": "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents in suburban Detroit in the mid 1970s.",
     "cast": "Kirsten Dunst, Josh Hartnett, James Woods",
-    "original_air_date": "1999-12-31",
+    "original_air_date": "2000-04-22",
     "runtime_minutes": 96,
     "content_rating": "R",
     "plex_rating": "",
