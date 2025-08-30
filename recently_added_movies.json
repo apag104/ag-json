@@ -472,8 +472,8 @@
     "runtime_minutes": 118,
     "content_rating": "R",
     "plex_rating": "",
-    "plex_guid": 5003,
-    "added_at": "2025-02-15"
+    "plex_guid": 15977,
+    "added_at": "2025-08-29"
   },
   {
     "title": "Alien³",
@@ -2034,7 +2034,7 @@
     "year": 2019,
     "genres": "Horror, Science Fiction",
     "studio": "Troll Court Entertainment",
-    "plot": "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+    "plot": "An alien that looks like a human boy uses its powers in sinister and destructive ways.",
     "cast": "Jackson A. Dunn, Elizabeth Banks, David Denman",
     "original_air_date": "2019-05-09",
     "runtime_minutes": 90,
@@ -5306,6 +5306,20 @@
     "added_at": "2025-02-17"
   },
   {
+    "title": "Foes",
+    "year": 1977,
+    "genres": "Science Fiction, Horror",
+    "studio": "Coats-Alexander-Coats",
+    "plot": "The tranquil life of a lighthouse keeper and his family is disrupted when a flying saucer and its alien inhabitants invade.",
+    "cast": "Macdonald Carey, Jerry Hardin, Jane Wiley",
+    "original_air_date": "1977-07-12",
+    "runtime_minutes": 90,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 15976,
+    "added_at": "2025-08-29"
+  },
+  {
     "title": "The Fog",
     "year": 1980,
     "genres": "Horror, Thriller",
@@ -5402,6 +5416,20 @@
     "plex_rating": "",
     "plex_guid": 12373,
     "added_at": "2025-04-29"
+  },
+  {
+    "title": "The Fountain",
+    "year": 2006,
+    "genres": "Drama, Adventure",
+    "studio": "Regency Enterprises",
+    "plot": "As a modern-day scientist, Tommy is struggling with mortality, desperately searching for the medical breakthrough that will save the life of his cancer-stricken wife, Izzi.",
+    "cast": "Hugh Jackman, Rachel Weisz, Ellen Burstyn",
+    "original_air_date": "2006-11-22",
+    "runtime_minutes": 96,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 15965,
+    "added_at": "2025-08-29"
   },
   {
     "title": "Frailty",
@@ -10246,6 +10274,20 @@
     "plex_rating": "",
     "plex_guid": 15816,
     "added_at": "2025-08-20"
+  },
+  {
+    "title": "Oh, Hi!",
+    "year": 2025,
+    "genres": "Comedy, Romance",
+    "studio": "QWGmire",
+    "plot": "Iris and Isaac's first romantic weekend getaway as a couple goes awry. Convinced she's met her perfect guy and that he's just confused, Iris goes to increasingly ridiculous and irrational lengths to prove to Isaac that they are meant to be together.",
+    "cast": "Molly Gordon, Logan Lerman, Geraldine Viswanathan",
+    "original_air_date": "2025-07-25",
+    "runtime_minutes": 94,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15959,
+    "added_at": "2025-08-29"
   },
   {
     "title": "Okja",
