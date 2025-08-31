@@ -19,7 +19,7 @@
     "genres": "Action, Drama",
     "studio": "Shaw Brothers",
     "plot": "Mongols with the help of an insider, ambush the influential Yang Family, defenders of the dynasty. The Mongols must hunt down all Yang survivors so their insidious plot to overthrow the dynasty will not be uncovered.",
-    "cast": "Gordon Liu Chia-Hui, Alexander Fu Sheng, Kara Wai Ying-Hung",
+    "cast": "Gordon Liu Chia-Hui, Alexander Fu Sheng, Kara Hui Ying-Hung",
     "original_air_date": "1984-02-17",
     "runtime_minutes": 97,
     "content_rating": "Not Rated",
@@ -3190,6 +3190,20 @@
     "plex_rating": "",
     "plex_guid": 12278,
     "added_at": "2025-04-27"
+  },
+  {
+    "title": "Curtains",
+    "year": 1983,
+    "genres": "Horror, Thriller",
+    "studio": "Curtains Productions",
+    "plot": "Six young actresses auditioning for a movie role at a remote mansion are targeted by a mysterious masked murderer.",
+    "cast": "John Vernon, Samantha Eggar, Linda Thorson",
+    "original_air_date": "1983-03-04",
+    "runtime_minutes": 89,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15983,
+    "added_at": "2025-08-30"
   },
   {
     "title": "Cyborg",
@@ -6930,6 +6944,34 @@
     "added_at": "2025-03-24"
   },
   {
+    "title": "Hollow Man",
+    "year": 2000,
+    "genres": "Action, Science Fiction",
+    "studio": "Columbia Pictures",
+    "plot": "Having discovered they could turn animals invisible, a group of scientists test the subject on a human. Head of research, Dr. Sebastian Caine decides to use himself as the subject. After the experiment can't be reversed, it takes a toll on Caine's personality, causing him to hunt down and kill his colleagues",
+    "cast": "Kevin Bacon, Elisabeth Shue, Josh Brolin",
+    "original_air_date": "2000-08-04",
+    "runtime_minutes": 119,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15999,
+    "added_at": "2025-08-30"
+  },
+  {
+    "title": "Hologram Man",
+    "year": 1995,
+    "genres": "Science Fiction, Action",
+    "studio": "PM Entertainment Group",
+    "plot": "Five years after the mad terrorist Norman Galagher was sentenced to holographic stasis, he is given a parole hearing. But an equipment failure engineered by his cronies transforms the criminal into a living hologram with god-like powers. Now, stopping him is up to Kurt Decoda, the man who as a police rookie was responsible for arresting Galagher.",
+    "cast": "Joe Lara, Evan Lurie, Michael Nouri",
+    "original_air_date": "1995-04-08",
+    "runtime_minutes": 101,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16001,
+    "added_at": "2025-08-30"
+  },
+  {
     "title": "The Holy Mountain",
     "year": 1973,
     "genres": "Drama, Fantasy",
@@ -10332,6 +10374,20 @@
     "added_at": "2025-02-16"
   },
   {
+    "title": "On the Silver Globe",
+    "year": 1988,
+    "genres": "Science Fiction, Adventure",
+    "studio": "Zespół Filmowy \"Pryzmat\"",
+    "plot": "A small group of cosmic explorers, including a woman, leaves Earth to start a new civilization. They do not realize that within themselves they carry the end of their own dream. They die one by one, while their children revert to a primitive native culture, creating new myths and a new god.",
+    "cast": "Andrzej Seweryn, Michał Bajor, Jerzy Trela",
+    "original_air_date": "1988-10-09",
+    "runtime_minutes": 164,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 15986,
+    "added_at": "2025-08-30"
+  },
+  {
     "title": "Once Upon a Time... in Hollywood",
     "year": 2019,
     "genres": "Drama, Comedy",
@@ -13338,8 +13394,8 @@
     "runtime_minutes": 140,
     "content_rating": "PG",
     "plex_rating": "",
-    "plex_guid": 5791,
-    "added_at": "2025-02-15"
+    "plex_guid": 15987,
+    "added_at": "2025-08-30"
   },
   {
     "title": "Spider-Man: Into the Spider-Verse",
@@ -14474,6 +14530,20 @@
     "plex_rating": "",
     "plex_guid": 15124,
     "added_at": "2025-07-26"
+  },
+  {
+    "title": "Tomie",
+    "year": 1998,
+    "genres": "Crime, Drama",
+    "studio": "Daiei Film",
+    "plot": "A traumatized young woman is trying to recover her memories with the help of a psychiatrist. During her hypnosis sessions, she repeats the name \"Tomie\" but is unable to recall where she knows it from.",
+    "cast": "Mami Nakamura, Yoriko Doguchi, Kōta Kusano",
+    "original_air_date": "1998-10-06",
+    "runtime_minutes": 94,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 15985,
+    "added_at": "2025-08-30"
   },
   {
     "title": "Tomorrow Never Dies",
@@ -15650,6 +15720,20 @@
     "plex_rating": "",
     "plex_guid": 13893,
     "added_at": "2025-05-20"
+  },
+  {
+    "title": "Wishmaster",
+    "year": 1997,
+    "genres": "Horror, Fantasy",
+    "studio": "Live Entertainment",
+    "plot": "A demonic djinn attempts to grant its owner three wishes, which will allow him to summon his brethren to Earth.",
+    "cast": "Angus Scrimm, Andrew Divoff, Tammy Lauren",
+    "original_air_date": "1997-09-17",
+    "runtime_minutes": 90,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 15997,
+    "added_at": "2025-08-30"
   },
   {
     "title": "The Witch",
