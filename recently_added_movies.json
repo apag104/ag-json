@@ -3589,7 +3589,7 @@
     "genres": "Comedy, Fantasy",
     "studio": "Universal Pictures",
     "plot": "When a novelist loses her man to a movie star and former frenemy, she winds up in a psychiatric hospital. Years later, she returns home to confront the now-married couple, looking radiant. Her ex-fiance's wife wants to know her secret, and discovers that she took the same potion which grants eternal life to the person who drinks it as she herself already has taken.",
-    "cast": "Goldie Hawn, Bruce Willis, Meryl Streep",
+    "cast": "Goldie Hawn, Meryl Streep, Bruce Willis",
     "original_air_date": "1992-07-31",
     "runtime_minutes": 103,
     "content_rating": "PG-13",
@@ -8260,6 +8260,20 @@
     "added_at": "2025-02-17"
   },
   {
+    "title": "Lady Vengeance",
+    "year": 2005,
+    "genres": "Drama, Thriller",
+    "studio": "TSJ Entertainment",
+    "plot": "After being wrongfully imprisoned for thirteen years and having her child taken away from her, a woman seeks revenge through increasingly brutal means.",
+    "cast": "Lee Young-ae, Choi Min-sik, Kwon Yea-young",
+    "original_air_date": "2005-07-29",
+    "runtime_minutes": 115,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16014,
+    "added_at": "2025-08-31"
+  },
+  {
     "title": "Lake Placid",
     "year": 1999,
     "genres": "Horror, Comedy",
@@ -9598,7 +9612,7 @@
     "cast": "Joseph Gordon-Levitt, Brady Corbet, Michelle Trachtenberg",
     "original_air_date": "2004-05-20",
     "runtime_minutes": 105,
-    "content_rating": "NC-17",
+    "content_rating": "Not Rated",
     "plex_rating": "",
     "plex_guid": 9956,
     "added_at": "2025-03-01"
