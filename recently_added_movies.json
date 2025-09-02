@@ -5124,6 +5124,20 @@
     "added_at": "2025-02-15"
   },
   {
+    "title": "Fight Club",
+    "year": 1999,
+    "genres": "Drama, Thriller",
+    "studio": "Fox 2000 Pictures",
+    "plot": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "cast": "Edward Norton, Brad Pitt, Helena Bonham Carter",
+    "original_air_date": "1999-10-15",
+    "runtime_minutes": 139,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16052,
+    "added_at": "2025-09-01"
+  },
+  {
     "title": "Final Destination",
     "year": 2000,
     "genres": "Horror, Thriller",
@@ -5444,6 +5458,20 @@
     "plex_rating": "",
     "plex_guid": 15965,
     "added_at": "2025-08-29"
+  },
+  {
+    "title": "The Fourth Kind",
+    "year": 2009,
+    "genres": "Thriller, Science Fiction",
+    "studio": "Universal Pictures",
+    "plot": "Since the 1960s, a disproportionate number of the population in and around Nome, Alaska, have gone missing. Despite FBI investigations, the disappearances remain a mystery. Dr. Abigail Tyler, a psychologist, may be on the verge of blowing the unsolved cases wide open when, during the course of treating her patients, she finds evidence of alien abductions.",
+    "cast": "Milla Jovovich, Will Patton, Hakeem Kae-Kazim",
+    "original_air_date": "2009-11-05",
+    "runtime_minutes": 98,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 16028,
+    "added_at": "2025-09-01"
   },
   {
     "title": "Frailty",
@@ -9532,6 +9560,20 @@
     "plex_rating": "",
     "plex_guid": 9460,
     "added_at": "2025-02-23"
+  },
+  {
+    "title": "Mortal Kombat",
+    "year": 1995,
+    "genres": "Action, Adventure",
+    "studio": "New Line Cinema",
+    "plot": "Based on the popular video game of the same name \"Mortal Kombat\" tells the story of an ancient tournament where the best of the best of different Realms fight each other. The goal: 10 wins to be able to legally invade the losing Realm. Outworld has so far collected 9 wins against Earthrealm, so it's up to Lord Rayden and his fighters to stop Outworld from reaching the final victory.",
+    "cast": "Robin Shou, Linden Ashby, Bridgette Wilson-Sampras",
+    "original_air_date": "1995-08-18",
+    "runtime_minutes": 101,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 16050,
+    "added_at": "2025-09-01"
   },
   {
     "title": "Mother",
@@ -14112,6 +14154,20 @@
     "added_at": "2025-06-19"
   },
   {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "genres": "Action, Adventure",
+    "studio": "Carolco Pictures",
+    "plot": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+    "cast": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
+    "original_air_date": "1991-07-03",
+    "runtime_minutes": 137,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16055,
+    "added_at": "2025-09-01"
+  },
+  {
     "title": "Terrifier 3",
     "year": 2024,
     "genres": "Horror, Thriller",
@@ -15720,6 +15776,20 @@
     "plex_rating": "",
     "plex_guid": 8765,
     "added_at": "2025-02-17"
+  },
+  {
+    "title": "Wild Wild West",
+    "year": 1999,
+    "genres": "Action, Adventure",
+    "studio": "Warner Bros. Pictures",
+    "plot": "The two best special agents in the Wild West must save President Grant from the clutches of a diabolical, wheelchair-bound, steampunk-savvy, Confederate scientist bent on revenge for losing the Civil War.",
+    "cast": "Will Smith, Kevin Kline, Kenneth Branagh",
+    "original_air_date": "1999-06-30",
+    "runtime_minutes": 106,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 16048,
+    "added_at": "2025-09-01"
   },
   {
     "title": "Wing Commander",
