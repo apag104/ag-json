@@ -714,6 +714,20 @@
     "added_at": "2025-02-15"
   },
   {
+    "title": "Amour",
+    "year": 2012,
+    "genres": "Drama, Romance",
+    "studio": "Les Films du Losange",
+    "plot": "Georges and Anne are an octogenarian couple. They are cultivated, retired music teachers. Their daughter, also a musician, lives in Britain with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.",
+    "cast": "Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert",
+    "original_air_date": "2012-09-20",
+    "runtime_minutes": 127,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 16088,
+    "added_at": "2025-09-02"
+  },
+  {
     "title": "Anatomy of a Fall",
     "year": 2023,
     "genres": "Crime, Drama",
@@ -1650,6 +1664,20 @@
     "plex_rating": "",
     "plex_guid": 10760,
     "added_at": "2025-04-01"
+  },
+  {
+    "title": "Black Book",
+    "year": 2006,
+    "genres": "Drama, Thriller",
+    "studio": "Fu Works",
+    "plot": "In the Nazi-occupied Netherlands during World War II, a Jewish singer infiltrates the regional Gestapo headquarters for the Dutch resistance. Things get complicated when she falls for the enemy.",
+    "cast": "Carice van Houten, Sebastian Koch, Thom Hoffman",
+    "original_air_date": "2006-09-14",
+    "runtime_minutes": 145,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16069,
+    "added_at": "2025-09-02"
   },
   {
     "title": "Black Christmas",
@@ -4480,6 +4508,20 @@
     "added_at": "2025-02-17"
   },
   {
+    "title": "Elle",
+    "year": 2016,
+    "genres": "Thriller, Drama",
+    "studio": "France 2 Cinéma",
+    "plot": "Michèle seems indestructible. Head of a successful video game company, she brings the same ruthless attitude to her love life as to business. Being attacked in her home by an unknown assailant changes Michèle's life forever. When she resolutely tracks the man down, they are both drawn into a curious and thrilling game-a game that may, at any moment, spiral out of control.",
+    "cast": "Isabelle Huppert, Laurent Lafitte, Anne Consigny",
+    "original_air_date": "2016-05-25",
+    "runtime_minutes": 130,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16091,
+    "added_at": "2025-09-02"
+  },
+  {
     "title": "Elvis",
     "year": 2022,
     "genres": "Biography, Drama",
@@ -5740,6 +5782,20 @@
     "added_at": "2025-02-15"
   },
   {
+    "title": "Frogman",
+    "year": 2023,
+    "genres": "Horror, Fantasy",
+    "studio": "Feral Child Films",
+    "plot": "An amateur filmmaker, struggling to turn his passion into a career, returns with friends to Loveland, Ohio, the location of his first, notorious sighting of the Frogman, determined to obtain irrefutable proof that the cryptid legend exists.",
+    "cast": "Nathan Tymoshuk, Chelsey Grant, Benny Barrett",
+    "original_air_date": "2023-08-19",
+    "runtime_minutes": 80,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 16070,
+    "added_at": "2025-09-02"
+  },
+  {
     "title": "From Dusk Till Dawn",
     "year": 1996,
     "genres": "Horror, Action",
@@ -5766,6 +5822,34 @@
     "plex_rating": "",
     "plex_guid": 7981,
     "added_at": "2025-02-16"
+  },
+  {
+    "title": "Funny Games",
+    "year": 1997,
+    "genres": "Drama, Horror",
+    "studio": "Wega Film",
+    "plot": "Two violent young men take a mother, father, and son hostage in their vacation cabin and force them to play sadistic \"games\" with one another for their own amusement.",
+    "cast": "Susanne Lothar, Ulrich Mühe, Arno Frisch",
+    "original_air_date": "1997-09-11",
+    "runtime_minutes": 109,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 16068,
+    "added_at": "2025-09-02"
+  },
+  {
+    "title": "Funny Games",
+    "year": 2007,
+    "genres": "Horror, Thriller",
+    "studio": "Celluloid Dreams",
+    "plot": "In this English-language remake of a deconstruction in the way violence is portrayed in the media, a family settles into its vacation home, which happens to be the next stop for a pair of young, articulate, white-gloved serial killers on an excursion through the neighborhood.",
+    "cast": "Naomi Watts, Tim Roth, Michael Pitt",
+    "original_air_date": "2007-10-20",
+    "runtime_minutes": 111,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16072,
+    "added_at": "2025-09-02"
   },
   {
     "title": "Furiosa: A Mad Max Saga",
@@ -7446,6 +7530,20 @@
     "plex_rating": "",
     "plex_guid": 5345,
     "added_at": "2025-02-15"
+  },
+  {
+    "title": "In the Bedroom",
+    "year": 2001,
+    "genres": "Drama, Thriller",
+    "studio": "Good Machine",
+    "plot": "Summertime on the coast of Maine, \"In the Bedroom\" centers on the inner dynamics of a family in transition. Matt Fowler is a doctor practicing in his native Maine and is married to New York born Ruth Fowler, a music teacher. His son is involved in a love affair with a local single mother. As the beauty of Maine's brief and fleeting summer comes to an end, these characters find themselves in the midst of unimaginable tragedy.",
+    "cast": "Tom Wilkinson, Sissy Spacek, Nick Stahl",
+    "original_air_date": "2001-12-25",
+    "runtime_minutes": 131,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16085,
+    "added_at": "2025-09-02"
   },
   {
     "title": "In the Mouth of Madness",
@@ -9465,12 +9563,12 @@
   },
   {
     "title": "Mister Lonely",
-    "year": 2007,
+    "year": 2008,
     "genres": "Comedy, Drama",
     "studio": "Agnès B. Productions",
     "plot": "In Paris, a young American who works as a Michael Jackson look-alike meets Marilyn Monroe, who invites him to her commune in Scotland, where she lives with Charlie Chaplin and her daughter, Shirley Temple.",
     "cast": "Diego Luna, Samantha Morton, Denis Lavant",
-    "original_air_date": "2007-05-14",
+    "original_air_date": "2008-02-02",
     "runtime_minutes": 112,
     "content_rating": "Not Rated",
     "plex_rating": "",
@@ -9604,6 +9702,20 @@
     "added_at": "2025-07-16"
   },
   {
+    "title": "Mufasa: The Lion King",
+    "year": 2024,
+    "genres": "Animation, Adventure",
+    "studio": "Walt Disney Pictures",
+    "plot": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+    "cast": "Aaron Pierre, Kelvin Harrison, Jr., Tiffany Boone",
+    "original_air_date": "2024-12-18",
+    "runtime_minutes": 120,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 16117,
+    "added_at": "2025-09-02"
+  },
+  {
     "title": "Mulholland Drive",
     "year": 2001,
     "genres": "Drama, Thriller",
@@ -9686,6 +9798,20 @@
     "plex_rating": "",
     "plex_guid": 5666,
     "added_at": "2025-02-15"
+  },
+  {
+    "title": "The Naked Gun",
+    "year": 2025,
+    "genres": "Action, Comedy",
+    "studio": "Fuzzy Door Productions",
+    "plot": "Only one man has the particular set of skills - to lead Police Squad and save the world.",
+    "cast": "Liam Neeson, Pamela Anderson, Paul Walter Hauser",
+    "original_air_date": "2025-07-30",
+    "runtime_minutes": 86,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 16063,
+    "added_at": "2025-09-02"
   },
   {
     "title": "The Naked Gun 2½: The Smell of Fear",
@@ -10106,6 +10232,20 @@
     "plex_rating": "",
     "plex_guid": 8235,
     "added_at": "2025-02-16"
+  },
+  {
+    "title": "Noah",
+    "year": 2014,
+    "genres": "Drama, Action",
+    "studio": "Paramount Pictures",
+    "plot": "Noah is chosen by God to undertake a momentous mission before an apocalyptic flood cleanses the world.",
+    "cast": "Russell Crowe, Jennifer Connelly, Ray Winstone",
+    "original_air_date": "2014-03-20",
+    "runtime_minutes": 137,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 16092,
+    "added_at": "2025-09-02"
   },
   {
     "title": "Nobody Knows",
@@ -10862,6 +11002,20 @@
     "plex_rating": "",
     "plex_guid": 14182,
     "added_at": "2025-06-01"
+  },
+  {
+    "title": "The Piano Teacher",
+    "year": 2001,
+    "genres": "Drama, Romance",
+    "studio": "Wega Film",
+    "plot": "A young man romantically pursues his masochistic piano teacher.",
+    "cast": "Isabelle Huppert, Annie Girardot, Benoît Magimel",
+    "original_air_date": "2001-08-31",
+    "runtime_minutes": 131,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16086,
+    "added_at": "2025-09-02"
   },
   {
     "title": "Pinocchio: A True Story",
@@ -15664,6 +15818,20 @@
     "plex_rating": "",
     "plex_guid": 8739,
     "added_at": "2025-02-17"
+  },
+  {
+    "title": "The White Ribbon",
+    "year": 2009,
+    "genres": "Drama, Mystery",
+    "studio": "Lucky Red",
+    "plot": "Strange events happen in a small village in the north of Germany during the years before World War I, which seem to be ritual punishment. Who is responsible?",
+    "cast": "Christian Friedel, Ernst Jacobi, Leonie Benesch",
+    "original_air_date": "2009-09-24",
+    "runtime_minutes": 146,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16084,
+    "added_at": "2025-09-02"
   },
   {
     "title": "Who Framed Roger Rabbit",
