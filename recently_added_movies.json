@@ -3878,6 +3878,20 @@
     "added_at": "2025-02-23"
   },
   {
+    "title": "The Devils",
+    "year": 1971,
+    "genres": "Drama, History",
+    "studio": "Russo Productions",
+    "plot": "In 17th-century France, Father Urbain Grandier seeks to protect the city of Loudun from the corrupt establishment of Cardinal Richelieu. Hysteria occurs within the city when he is accused of witchcraft by the sexually repressed Sister Jeanne.",
+    "cast": "Vanessa Redgrave, Oliver Reed, Dudley Sutton",
+    "original_air_date": "1971-07-16",
+    "runtime_minutes": 125,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16157,
+    "added_at": "2025-09-06"
+  },
+  {
     "title": "Diamonds Are Forever",
     "year": 1971,
     "genres": "Action, Adventure",
@@ -5003,7 +5017,7 @@
     "genres": "Drama, Adventure",
     "studio": "Googly Films",
     "plot": "In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story about 5 mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality starts to blur as the tale advances.",
-    "cast": "Lee Pace, Catinca Untaru, Jeetu Verma",
+    "cast": "Lee Pace, Justine Waddell, Daniel Caltagirone",
     "original_air_date": "2006-09-09",
     "runtime_minutes": 119,
     "content_rating": "R",
@@ -8594,6 +8608,20 @@
     "plex_rating": "",
     "plex_guid": 15261,
     "added_at": "2025-07-29"
+  },
+  {
+    "title": "Leatherface: Texas Chainsaw Massacre III",
+    "year": 1990,
+    "genres": "Horror, Thriller",
+    "studio": "Nicolas Entertainment",
+    "plot": "A couple encounters a perverted gas station attendant who threatens them with a shotgun. They take a deserted path in Texas to seek help, but only meet up with a cannibalistic clan interested in helping themselves to fresh meat.",
+    "cast": "Kate Hodge, Ken Foree, R.A. Mihailoff",
+    "original_air_date": "1990-01-12",
+    "runtime_minutes": 85,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16186,
+    "added_at": "2025-09-06"
   },
   {
     "title": "The Legend of Drunken Master",
@@ -14508,7 +14536,7 @@
     "year": 1984,
     "genres": "Comedy, Music",
     "studio": "Spinal Tap Prod.",
-    "plot": "In 1982, the legendary English heavy metal band Spinal Tap attempt an American comeback tour accompanied by a fan who is also a film-maker. The resulting documentary, interspersed with powerful performances of Tap's pivotal music and profound lyrics, candidly follows a rock group heading towards crisis, culminating in the infamous affair of the eighteen-inch-high Stonehenge stage prop.",
+    "plot": "\"This Is Spinal Tap\" shines a light on the self-contained universe of a metal band struggling to get back on the charts, including everything from its complicated history of ups and downs, gold albums, name changes and undersold concert dates, along with the full host of requisite groupies, promoters, hangers-on and historians, sessions, release events and those special behind-the-scenes moments that keep it all real.",
     "cast": "Christopher Guest, Michael McKean, Harry Shearer",
     "original_air_date": "1984-03-02",
     "runtime_minutes": 83,
