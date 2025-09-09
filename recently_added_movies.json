@@ -117,7 +117,7 @@
     "genres": "Comedy, Action",
     "studio": "Columbia Pictures",
     "plot": "The not so smart Dwayne intends to open a massage parlor with his partner Travis, but he does not have money for the investment. He decides to hire a hit-man to kill his father, The Major, who won a large amount of money in the lottery years ago, but the killer demands US$ 100,000 for the job. Dwayne and Travis kidnap the pizza delivery boy Nick and they dress Nick in a vest with a timer and several bombs. Then Dwayne tells Nick that he has ten hours to rob US$ 100,000 from a bank. Once he does, he would give Nick the code to release the vest. Nick summons his best friend Chet to help him in the heist but the scheme does not work the way Dwayne has plotted.",
-    "cast": "Jesse Eisenberg, Aziz Ansari, Danny McBride",
+    "cast": "Jesse Eisenberg, Danny McBride, Aziz Ansari",
     "original_air_date": "2011-08-11",
     "runtime_minutes": 83,
     "content_rating": "R",
@@ -3266,7 +3266,7 @@
     "year": 2025,
     "genres": "Drama, Horror",
     "studio": "Ley Line Entertainment",
-    "plot": "A 19th-century widow is tasked with making an impossible choice when, during an especially cruel winter, a ship sinks off the coast of her impoverished Icelandic fishing village. Any attempt to rescue survivors risks further depleting the starving villagers’ supplies.",
+    "plot": "A 19th-century widow has to make an impossible choice when, during an especially cruel winter, a foreign ship sinks off the coast of her Icelandic fishing village.",
     "cast": "Odessa Young, Joe Cole, Siobhan Finneran",
     "original_air_date": "2025-01-03",
     "runtime_minutes": 88,
@@ -15720,6 +15720,20 @@
     "plex_rating": "",
     "plex_guid": 9025,
     "added_at": "2025-02-17"
+  },
+  {
+    "title": "Weapons",
+    "year": 2025,
+    "genres": "Horror, Mystery",
+    "studio": "New Line Cinema",
+    "plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "cast": "Julia Garner, Josh Brolin, Alden Ehrenreich",
+    "original_air_date": "2025-08-06",
+    "runtime_minutes": 128,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16218,
+    "added_at": "2025-09-08"
   },
   {
     "title": "Wendy and Lucy",
