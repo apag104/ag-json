@@ -15120,6 +15120,20 @@
     "added_at": "2025-02-15"
   },
   {
+    "title": "Twilight Zone: The Movie",
+    "year": 1983,
+    "genres": "Horror, Fantasy",
+    "studio": "Warner Bros. Pictures",
+    "plot": "Four horror and science fiction segments, directed by four famous directors, each of them being a new version of a classic story from Rod Serling's landmark television series.",
+    "cast": "Dan Aykroyd, Albert Brooks, Scatman Crothers",
+    "original_air_date": "1983-06-24",
+    "runtime_minutes": 101,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 16225,
+    "added_at": "2025-09-09"
+  },
+  {
     "title": "Twin Peaks: The Missing Pieces",
     "year": 2014,
     "genres": "Thriller, Drama",
