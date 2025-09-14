@@ -266,6 +266,20 @@
     "added_at": "2025-06-05"
   },
   {
+    "title": "Ad Astra",
+    "year": 2019,
+    "genres": "Thriller, Science Fiction",
+    "studio": "New Regency Productions",
+    "plot": "Astronaut Roy McBride (Brad Pitt) travels to the outer edges of the solar system to find his missing father and unravel a mystery that threatens the survival of our planet. His journey will uncover secrets that challenge the nature of human existence and our place in the cosmos.",
+    "cast": "Brad Pitt, Tommy Lee Jones, Ruth Negga",
+    "original_air_date": "2019-09-18",
+    "runtime_minutes": 123,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 16250,
+    "added_at": "2025-09-13"
+  },
+  {
     "title": "Adaptation.",
     "year": 2002,
     "genres": "Comedy, Crime",
