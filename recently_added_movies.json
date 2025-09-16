@@ -3028,7 +3028,7 @@
     "year": 1982,
     "genres": "Horror, Comedy",
     "studio": "Laurel Entertainment",
-    "plot": "Five tales in the style of classic '50s horror comics, involving a murdered man emerging from the grave, a meteor's ooze that makes everything grow, a snack for a crated creature, a scheming husband, and a malevolent millionaire with an insect phobia.",
+    "plot": "Five grisly tales from a kid's comic book about a murdered father rising from his grave, a bizarre meteor, a vengeful husband, a mysterious crate's occupant, and a plague of cockroaches.",
     "cast": "Hal Holbrook, Adrienne Barbeau, Fritz Weaver",
     "original_air_date": "1982-11-10",
     "runtime_minutes": 120,
@@ -4624,7 +4624,7 @@
     "year": 1977,
     "genres": "Fantasy, Horror",
     "studio": "AFI",
-    "plot": "A film that defies conventional logic and storytelling, fueled by its dark nightmarish atmosphere and compellingly disturbing visuals. Henry Spencer is a hapless factory worker on his vacation when he finds out he's the father of a hideously deformed baby. He moves in with his unhappy malcontent girlfriend, and the new parents are nearly driven to insanity by the child crying endlessly, day and night.",
+    "plot": "A film that defies conventional logic and storytelling, fueled by its dark nightmarish atmosphere and compellingly disturbing visuals. Henry Spencer is a hapless factory worker on his vacation when he finds out he's the father of a hideously deformed baby. his unhappy malcontent girlfriend moves in with him, and the new parents are nearly driven to insanity by the child crying endlessly, day and night.",
     "cast": "Jack Nance, Charlotte Stewart, Allen Joseph",
     "original_air_date": "1977-09-28",
     "runtime_minutes": 89,
@@ -10918,6 +10918,20 @@
     "plex_rating": "",
     "plex_guid": 8088,
     "added_at": "2025-02-16"
+  },
+  {
+    "title": "The Passenger",
+    "year": 2023,
+    "genres": "Thriller, Drama",
+    "studio": "Blumhouse Productions",
+    "plot": "Randolph Bradley is perfectly content fading into the background, but when his coworker Benson snaps and goes on a violent killing spree, he’s forced to face his fears and confront his troubled past in order to find a way to survive.",
+    "cast": "Kyle Gallner, Johnny Berchtold, Liza Weil",
+    "original_air_date": "2023-08-04",
+    "runtime_minutes": 98,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 16298,
+    "added_at": "2025-09-15"
   },
   {
     "title": "Paterson",
