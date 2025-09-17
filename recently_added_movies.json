@@ -11214,6 +11214,20 @@
     "added_at": "2025-05-04"
   },
   {
+    "title": "Platoon",
+    "year": 1986,
+    "genres": "Drama, War",
+    "studio": "Hemdale Film Corporation",
+    "plot": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+    "cast": "Charlie Sheen, Willem Dafoe, Tom Berenger",
+    "original_air_date": "1986-12-24",
+    "runtime_minutes": 119,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16311,
+    "added_at": "2025-09-17"
+  },
+  {
     "title": "Pontypool",
     "year": 2009,
     "genres": "Horror, Mystery",
@@ -11968,6 +11982,20 @@
     "plex_rating": "",
     "plex_guid": 9881,
     "added_at": "2025-03-01"
+  },
+  {
+    "title": "Relay",
+    "year": 2025,
+    "genres": "Thriller, Action",
+    "studio": "Thunder Road",
+    "plot": "Tom, a world class \"fixer\", specializes in brokering lucrative payoffs between corrupt corporations and the individuals who threaten their ruin. He keeps his identity a secret through meticulous planning and always follows an exacting set of rules. But when a message arrives one day from potential client Sarah, needing Tom's protection just to stay alive, the rules quickly start to change.",
+    "cast": "Riz Ahmed, Lily James, Sam Worthington",
+    "original_air_date": "2025-08-21",
+    "runtime_minutes": 111,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16301,
+    "added_at": "2025-09-16"
   },
   {
     "title": "Relic",
@@ -14334,6 +14362,20 @@
     "plex_rating": "",
     "plex_guid": 14089,
     "added_at": "2025-05-27"
+  },
+  {
+    "title": "A Tale of Winter",
+    "year": 1992,
+    "genres": "Drama, Romance",
+    "studio": "Les Films du Losange",
+    "plot": "Felicie and Charles have a whirlwind holiday romance. Due to a mix-up on addresses they lose contact, and five years later at Christmas-time Felicie is living with her mother in a cold Paris with a daughter as a reminder of that long-ago summer. For male companionship she oscillates between hairdresser Maxence and the intellectual Loic, but seems unable to commit to either as the memory of Charles and what might have been hangs over everything.",
+    "cast": "Charlotte Véry, Frédéric van den Driessche, Michel Voletti",
+    "original_air_date": "1992-01-29",
+    "runtime_minutes": 113,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 16304,
+    "added_at": "2025-09-16"
   },
   {
     "title": "The Talented Mr. Ripley",
