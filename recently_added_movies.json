@@ -2184,6 +2184,20 @@
     "added_at": "2025-02-15"
   },
   {
+    "title": "Butch Cassidy and the Sundance Kid",
+    "year": 1969,
+    "genres": "Drama, Western",
+    "studio": "Campanile Productions",
+    "plot": "In 1890s Wyoming, Butch Cassidy and The Sundance Kid lead a band of outlaws. When a train robbery goes wrong, they find themselves on the run with a posse hard on their heels..",
+    "cast": "Paul Newman, Robert Redford, Katharine Ross",
+    "original_air_date": "1969-09-23",
+    "runtime_minutes": 110,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 16323,
+    "added_at": "2025-09-20"
+  },
+  {
     "title": "The Cabin in the Woods",
     "year": 2012,
     "genres": "Horror, Thriller",
@@ -3167,7 +3181,7 @@
     "title": "Cruel Intentions",
     "year": 1999,
     "genres": "Drama, Romance",
-    "studio": "Columbia Pictures",
+    "studio": "Newmarket Capital Group",
     "plot": "Slaking a thirst for dangerous games, Kathryn challenges her stepbrother, Sebastian, to deflower their headmaster's daughter before the summer ends. If he succeeds, the prize is the chance to bed Kathryn. But if he loses, Kathryn will claim his most prized possession.",
     "cast": "Sarah Michelle Gellar, Ryan Phillippe, Reese Witherspoon",
     "original_air_date": "1999-03-05",
@@ -6298,6 +6312,20 @@
     "plex_rating": "",
     "plex_guid": 5365,
     "added_at": "2025-02-15"
+  },
+  {
+    "title": "Gonjiam: Haunted Asylum",
+    "year": 2018,
+    "genres": "Horror, Mystery",
+    "studio": "Hive Media Corp",
+    "plot": "An internet broadcaster recruits a handful of people for their 'experience the horror' show at Gonjiam. They are to explore the haunted asylum and stream it live on the show. To attract more viewers, the show hosts play tricks on the guests, but things start to get out of hand when they are inside the place, where tortured souls could really be lurking in the shadows.",
+    "cast": "Wi Ha-jun, Park Ji-hyun, Oh Ah-yeon",
+    "original_air_date": "2018-03-28",
+    "runtime_minutes": 94,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 16332,
+    "added_at": "2025-09-20"
   },
   {
     "title": "Good One",
@@ -10794,6 +10822,20 @@
     "added_at": "2025-09-11"
   },
   {
+    "title": "Ordinary People",
+    "year": 1980,
+    "genres": "Drama",
+    "studio": "Paramount Pictures",
+    "plot": "Beth, Calvin, and their son Conrad are living in the aftermath of the death of the other son. Conrad is overcome by grief and misplaced guilt to the extent of a suicide attempt. He is in therapy. Beth had always preferred his brother and is having difficulty being supportive to Conrad. Calvin is trapped between the two trying to hold the family together.",
+    "cast": "Donald Sutherland, Mary Tyler Moore, Judd Hirsch",
+    "original_air_date": "1980-09-19",
+    "runtime_minutes": 124,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16329,
+    "added_at": "2025-09-20"
+  },
+  {
     "title": "The Other",
     "year": 2025,
     "genres": "Horror, Thriller",
@@ -11934,7 +11976,7 @@
     "studio": "Fruit Tree",
     "plot": "\"A Real Pain\" follows mismatched cousins David (Jesse Eisenberg) and Benji (Kieran Culkin) as they reunite for a tour through Poland to honor their beloved grandmother, but their adventure takes a dark turn when the odd couple's old tensions resurface against the backdrop of their family history.",
     "cast": "Jesse Eisenberg, Kieran Culkin, Will Sharpe",
-    "original_air_date": "2024-11-01",
+    "original_air_date": "2024-11-08",
     "runtime_minutes": 89,
     "content_rating": "R",
     "plex_rating": "",
@@ -14236,6 +14278,20 @@
     "plex_rating": "",
     "plex_guid": 15240,
     "added_at": "2025-07-29"
+  },
+  {
+    "title": "A Summer's Tale",
+    "year": 1996,
+    "genres": "Comedy, Drama",
+    "studio": "Sofilmka",
+    "plot": "A shy maths graduate takes a holiday in Dinard before starting his first job. He hopes his sort-of girlfriend will join him, but soon strikes up a friendship with another girl working in town. She in turn introduces him to a further young lady who fancies him. Thus the quiet young lad finds he is having to do some tricky juggling in territory new to him.",
+    "cast": "Melvil Poupaud, Amanda Langlet, Gwenaëlle Simon",
+    "original_air_date": "1996-06-05",
+    "runtime_minutes": 113,
+    "content_rating": "G",
+    "plex_rating": "",
+    "plex_guid": 16331,
+    "added_at": "2025-09-20"
   },
   {
     "title": "Sunshine",
