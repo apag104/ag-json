@@ -574,6 +574,20 @@
     "added_at": "2025-02-17"
   },
   {
+    "title": "All the President's Men",
+    "year": 1976,
+    "genres": "Drama, History",
+    "studio": "Wildwood Enterprises",
+    "plot": "\"The Washington Post\" reporters Bob Woodward and Carl Bernstein uncover the details of the Watergate scandal that leads to President Richard Nixon's resignation.",
+    "cast": "Dustin Hoffman, Robert Redford, Jack Warden",
+    "original_air_date": "1976-04-09",
+    "runtime_minutes": 135,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 16376,
+    "added_at": "2025-09-21"
+  },
+  {
     "title": "Allied",
     "year": 2016,
     "genres": "Drama, Action",
@@ -2560,6 +2574,20 @@
     "plex_rating": "",
     "plex_guid": 7466,
     "added_at": "2025-02-16"
+  },
+  {
+    "title": "A Christmas Tale",
+    "year": 2008,
+    "genres": "Drama, Comedy",
+    "studio": "Why Not Productions",
+    "plot": "When their regal matriarch falls ill, the troubled Vuillard family come together for a hesitant Christmastime reunion. Among them is rebellious ne'er-do-well Henri and the uptight Elizabeth. Together under the same roof for the first time in many years, their intricate, long denied resentments and yearnings emerge again.",
+    "cast": "Catherine Deneuve, Jean-Paul Roussillon, Anne Consigny",
+    "original_air_date": "2008-05-21",
+    "runtime_minutes": 152,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 16390,
+    "added_at": "2025-09-21"
   },
   {
     "title": "Chungking Express",
@@ -7280,6 +7308,20 @@
     "added_at": "2025-08-20"
   },
   {
+    "title": "House",
+    "year": 1985,
+    "genres": "Comedy, Horror",
+    "studio": "New World Pictures",
+    "plot": "Roger Cobb is a Vietnam vet whose career as a horror novelist has taken a turn for the worse when his son Jimmy mysteriously disappears while visiting his aunt's house. Roger's search for Jimmy destroys his marriage and his writing career. The sudden death of his aunt brings Roger back to the house where his nightmares began. The evil zombies in the house force Roger to endure a harrowing journey into his past.",
+    "cast": "William Katt, George Wendt, Richard Moll",
+    "original_air_date": "1985-12-06",
+    "runtime_minutes": 92,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16364,
+    "added_at": "2025-09-21"
+  },
+  {
     "title": "The House Bunny",
     "year": 2008,
     "genres": "Comedy, Romance",
@@ -9800,6 +9842,20 @@
     "added_at": "2025-09-01"
   },
   {
+    "title": "Motel Hell",
+    "year": 1980,
+    "genres": "Horror, Comedy",
+    "studio": "Camp Hill",
+    "plot": "Farmer Vincent kidnaps unsuspecting travelers and buries them in his garden. Unfortunately for his victims, they are not dead. He feeds his victims to prepare them for his roadside stand. His motto is \"It takes all kinds of critters to make Farmer Vincent Fritters\". The film is gory, but it is also a parody of slasher films like The Last House on the Left.",
+    "cast": "Rory Calhoun, Paul Linke, Nancy Parsons",
+    "original_air_date": "1980-08-14",
+    "runtime_minutes": 101,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16384,
+    "added_at": "2025-09-21"
+  },
+  {
     "title": "Mother",
     "year": 2009,
     "genres": "Drama, Crime",
@@ -10008,6 +10064,20 @@
     "plex_rating": "",
     "plex_guid": 8959,
     "added_at": "2025-02-17"
+  },
+  {
+    "title": "The Natural",
+    "year": 1984,
+    "genres": "Drama, Sport",
+    "studio": "TriStar Pictures",
+    "plot": "An unknown middle-aged batter named Roy Hobbs with a mysterious past appears out of nowhere to take a losing 1930s baseball team to the top of the league in this magical sports fantasy. With the aid of a bat cut from a lightning struck tree, Hobbs lives the fame he should have had earlier when, as a rising pitcher, he is inexplicably shot by a young woman.",
+    "cast": "Robert Redford, Robert Duvall, Glenn Close",
+    "original_air_date": "1984-05-11",
+    "runtime_minutes": 143,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 16379,
+    "added_at": "2025-09-21"
   },
   {
     "title": "Nemesis",
@@ -10475,7 +10545,7 @@
     "title": "The Northman",
     "year": 2022,
     "genres": "Drama, Action",
-    "studio": "Focus Features",
+    "studio": "Regency Enterprises",
     "plot": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
     "cast": "Alexander Skarsgård, Nicole Kidman, Claes Bang",
     "original_air_date": "2022-04-13",
@@ -10680,6 +10750,20 @@
     "plex_rating": "",
     "plex_guid": 8390,
     "added_at": "2025-02-16"
+  },
+  {
+    "title": "The Old Man & the Gun",
+    "year": 2018,
+    "genres": "Comedy, Crime",
+    "studio": "Condé Nast Entertainment",
+    "plot": "Based on the true story of Forrest Tucker (Robert Redford), from his audacious escape from San Quentin at the age of 70 to an unprecedented string of heists that confounded authorities and enchanted the public. Wrapped up in the pursuit are detective John Hunt (Casey Affleck), who becomes captivated with Forrest's commitment to his craft, and a woman (Sissy Spacek), who loves him in spite of his chosen profession.",
+    "cast": "Robert Redford, Casey Affleck, Sissy Spacek",
+    "original_air_date": "2018-09-27",
+    "runtime_minutes": 93,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 16366,
+    "added_at": "2025-09-21"
   },
   {
     "title": "Oldboy",
@@ -13454,6 +13538,20 @@
     "added_at": "2025-05-04"
   },
   {
+    "title": "Sneakers",
+    "year": 1992,
+    "genres": "Mystery, Drama",
+    "studio": "Universal Pictures",
+    "plot": "Martin Bishop is the head of a group of experts who specialize in testing security systems. When he is blackmailed by government agents into stealing a top-secret black box, the team finds themselves embroiled in a game of danger and intrigue. After they recover the box, they discover that it has the capability to decode all existing encryption systems around the world, and that the agents who hired them didn't work for the government after all.",
+    "cast": "Robert Redford, Sidney Poitier, David Strathairn",
+    "original_air_date": "1992-09-11",
+    "runtime_minutes": 125,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 16388,
+    "added_at": "2025-09-21"
+  },
+  {
     "title": "Snow Angels",
     "year": 2007,
     "genres": "Drama, Romance",
@@ -14423,7 +14521,7 @@
     "title": "The Swimmer",
     "year": 1968,
     "genres": "Drama",
-    "studio": "Columbia Pictures",
+    "studio": "Horizon Pictures",
     "plot": "Neddy Merrill reappears at a friend's pool after having been away for most of the summer. As they talk, he notices that pools span the entire valley, and he decides to jog from pool to pool and swim across the whole valley. As he stops at each pool, his interactions tell his life story.",
     "cast": "Burt Lancaster, Janet Landgard, Janice Rule",
     "original_air_date": "1968-08-09",
@@ -14782,6 +14880,20 @@
     "plex_rating": "",
     "plex_guid": 10743,
     "added_at": "2025-03-31"
+  },
+  {
+    "title": "Three Days of the Condor",
+    "year": 1975,
+    "genres": "Mystery, Thriller",
+    "studio": "The De Laurentiis Company",
+    "plot": "A mild mannered CIA researcher, paid to read books, returns from lunch to find all of his co-workers assassinated. \"Condor\" must find out who did this and get in from the cold before the hitmen get him.",
+    "cast": "Robert Redford, Faye Dunaway, Cliff Robertson",
+    "original_air_date": "1975-09-25",
+    "runtime_minutes": 117,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16386,
+    "added_at": "2025-09-21"
   },
   {
     "title": "Three Thousand Years of Longing",
@@ -15834,6 +15946,20 @@
     "added_at": "2025-07-23"
   },
   {
+    "title": "Wall Street",
+    "year": 1987,
+    "genres": "Crime, Drama",
+    "studio": "20th Century Fox",
+    "plot": "An impatient young stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless, greedy corporate raider who takes the youth under his wing.",
+    "cast": "Michael Douglas, Charlie Sheen, Martin Sheen",
+    "original_air_date": "1987-12-11",
+    "runtime_minutes": 125,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16336,
+    "added_at": "2025-09-21"
+  },
+  {
     "title": "Wallace & Gromit: Vengeance Most Fowl",
     "year": 2024,
     "genres": "Animation, Comedy",
@@ -16560,6 +16686,20 @@
     "plex_rating": "",
     "plex_guid": 13185,
     "added_at": "2025-05-06"
+  },
+  {
+    "title": "Z",
+    "year": 1969,
+    "genres": "Drama, Thriller",
+    "studio": "Valoria Films",
+    "plot": "The public murder of a prominent politician and doctor amid a violent demonstration is covered up by military and government officials. A tenacious magistrate is determined not to let them get away with it.",
+    "cast": "Yves Montand, Irene Papas, Jean-Louis Trintignant",
+    "original_air_date": "1969-02-26",
+    "runtime_minutes": 127,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 16334,
+    "added_at": "2025-09-21"
   },
   {
     "title": "Zelig",
