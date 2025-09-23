@@ -108,8 +108,8 @@
     "runtime_minutes": 115,
     "content_rating": "R",
     "plex_rating": "",
-    "plex_guid": 15196,
-    "added_at": "2025-07-29"
+    "plex_guid": 16479,
+    "added_at": "2025-09-22"
   },
   {
     "title": "30 Minutes or Less",
@@ -1407,11 +1407,11 @@
     "plot": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic odyssey back home.",
     "cast": "Joaquin Phoenix, Patti LuPone, Amy Ryan",
     "original_air_date": "2023-04-20",
-    "runtime_minutes": 180,
+    "runtime_minutes": 179,
     "content_rating": "R",
     "plex_rating": "",
-    "plex_guid": 15768,
-    "added_at": "2025-08-18"
+    "plex_guid": 16457,
+    "added_at": "2025-09-22"
   },
   {
     "title": "Beautiful Boy",
@@ -2096,8 +2096,8 @@
     "runtime_minutes": 90,
     "content_rating": "R",
     "plex_rating": "",
-    "plex_guid": 15212,
-    "added_at": "2025-07-29"
+    "plex_guid": 16484,
+    "added_at": "2025-09-22"
   },
   {
     "title": "A Brighter Summer Day",
@@ -3454,8 +3454,8 @@
     "runtime_minutes": 164,
     "content_rating": "PG-13",
     "plex_rating": "",
-    "plex_guid": 15144,
-    "added_at": "2025-07-26"
+    "plex_guid": 16470,
+    "added_at": "2025-09-22"
   },
   {
     "title": "Dark Waters",
@@ -5136,6 +5136,20 @@
     "plex_rating": "",
     "plex_guid": 15274,
     "added_at": "2025-07-30"
+  },
+  {
+    "title": "The Fantastic Four: First Steps",
+    "year": 2025,
+    "genres": "Action, Adventure",
+    "studio": "Marvel Studios",
+    "plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
+    "cast": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
+    "original_air_date": "2025-07-23",
+    "runtime_minutes": 115,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 16409,
+    "added_at": "2025-09-22"
   },
   {
     "title": "Fantastic Mr. Fox",
@@ -6958,6 +6972,20 @@
     "added_at": "2025-07-27"
   },
   {
+    "title": "Heat",
+    "year": 1995,
+    "genres": "Action, Crime",
+    "studio": "Warner Bros. Pictures",
+    "plot": "Neil McCauley, an expert thief with an obsession for his craft, orchestrates a series of bold robberies across Los Angeles. On his trail is relentless detective Vincent Hanna, who admires McCauley's skill and commitment. Even with mutual respect between them, both men understand their intense chase could culminate in a violent confrontation.",
+    "cast": "Al Pacino, Robert De Niro, Val Kilmer",
+    "original_air_date": "1995-12-15",
+    "runtime_minutes": 170,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16402,
+    "added_at": "2025-09-22"
+  },
+  {
     "title": "Heavenly Creatures",
     "year": 1994,
     "genres": "Drama, Fantasy",
@@ -8186,8 +8214,8 @@
     "runtime_minutes": 133,
     "content_rating": "PG-13",
     "plex_rating": "",
-    "plex_guid": 15583,
-    "added_at": "2025-08-05"
+    "plex_guid": 16504,
+    "added_at": "2025-09-22"
   },
   {
     "title": "Just Before Dawn",
@@ -8316,6 +8344,20 @@
     "added_at": "2025-02-15"
   },
   {
+    "title": "The Killer",
+    "year": 2023,
+    "genres": "Action, Adventure",
+    "studio": "Netflix",
+    "plot": "Solitary, cold, methodical and unencumbered by scruples or regrets, a killer waits in the shadows, watching for his next target. Yet, the longer he waits, the more he thinks he's losing his mind, if not his cool.",
+    "cast": "Michael Fassbender, Tilda Swinton, Charles Parnell",
+    "original_air_date": "2023-10-25",
+    "runtime_minutes": 119,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16399,
+    "added_at": "2025-09-22"
+  },
+  {
     "title": "Killer of Sheep",
     "year": 1978,
     "genres": "Drama",
@@ -8368,8 +8410,8 @@
     "runtime_minutes": 163,
     "content_rating": "R",
     "plex_rating": "",
-    "plex_guid": 14407,
-    "added_at": "2025-06-19"
+    "plex_guid": 16538,
+    "added_at": "2025-09-22"
   },
   {
     "title": "The King Tide",
@@ -8729,11 +8771,11 @@
     "plot": "Due to his knowledge of the native Bedouin tribes, British Lieutenant T.E. Lawrence is sent to Arabia to find Prince Faisal and serve as a liaison between the Arabs and the British in their fight against the Turks. With the aid of native Sherif Ali, Lawrence rebels against the orders of his superior officer and strikes out on a daring camel journey across the harsh desert to attack a well-guarded Turkish port.",
     "cast": "Peter O'Toole, Alec Guinness, Omar Sharif",
     "original_air_date": "1962-12-11",
-    "runtime_minutes": 218,
+    "runtime_minutes": 227,
     "content_rating": "PG",
     "plex_rating": "",
-    "plex_guid": 13164,
-    "added_at": "2025-05-05"
+    "plex_guid": 16461,
+    "added_at": "2025-09-22"
   },
   {
     "title": "Le Samouraï",
@@ -10076,8 +10118,8 @@
     "runtime_minutes": 143,
     "content_rating": "PG",
     "plex_rating": "",
-    "plex_guid": 16379,
-    "added_at": "2025-09-21"
+    "plex_guid": 16425,
+    "added_at": "2025-09-22"
   },
   {
     "title": "Nemesis",
@@ -10412,8 +10454,8 @@
     "runtime_minutes": 95,
     "content_rating": "R",
     "plex_rating": "",
-    "plex_guid": 13944,
-    "added_at": "2025-05-23"
+    "plex_guid": 16523,
+    "added_at": "2025-09-22"
   },
   {
     "title": "No Other Land",
@@ -11874,7 +11916,7 @@
   {
     "title": "Querelle",
     "year": 1982,
-    "genres": "Drama, Fantasy",
+    "genres": "Drama, Crime",
     "studio": "Gaumont",
     "plot": "A handsome Belgian sailor on shore leave in the port of Brest, who is also a drug smuggler and murderer, embarks upon a voyage of highly charged and violent homosexual self-discovery that will change him forever from the man he once was.",
     "cast": "Brad Davis, Franco Nero, Jeanne Moreau",
@@ -12428,8 +12470,8 @@
     "runtime_minutes": 133,
     "content_rating": "PG-13",
     "plex_rating": "",
-    "plex_guid": 13795,
-    "added_at": "2025-05-16"
+    "plex_guid": 16430,
+    "added_at": "2025-09-22"
   },
   {
     "title": "Rollerball",
@@ -14882,20 +14924,6 @@
     "added_at": "2025-03-31"
   },
   {
-    "title": "Three Days of the Condor",
-    "year": 1975,
-    "genres": "Mystery, Thriller",
-    "studio": "The De Laurentiis Company",
-    "plot": "A mild mannered CIA researcher, paid to read books, returns from lunch to find all of his co-workers assassinated. \"Condor\" must find out who did this and get in from the cold before the hitmen get him.",
-    "cast": "Robert Redford, Faye Dunaway, Cliff Robertson",
-    "original_air_date": "1975-09-25",
-    "runtime_minutes": 117,
-    "content_rating": "R",
-    "plex_rating": "",
-    "plex_guid": 16386,
-    "added_at": "2025-09-21"
-  },
-  {
     "title": "Three Thousand Years of Longing",
     "year": 2022,
     "genres": "Drama, Fantasy",
@@ -15337,11 +15365,11 @@
     "plot": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
     "cast": "Harris Dickinson, Charlbi Dean, Dolly de Leon",
     "original_air_date": "2022-09-18",
-    "runtime_minutes": 147,
+    "runtime_minutes": 148,
     "content_rating": "R",
     "plex_rating": "",
-    "plex_guid": 14674,
-    "added_at": "2025-07-05"
+    "plex_guid": 16535,
+    "added_at": "2025-09-22"
   },
   {
     "title": "Tropic Thunder",
@@ -16658,6 +16686,20 @@
     "plex_rating": "",
     "plex_guid": 7886,
     "added_at": "2025-02-16"
+  },
+  {
+    "title": "Young Frankenstein",
+    "year": 1974,
+    "genres": "Comedy",
+    "studio": "Crossbow Productions",
+    "plot": "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.",
+    "cast": "Gene Wilder, Peter Boyle, Marty Feldman",
+    "original_air_date": "1974-12-15",
+    "runtime_minutes": 105,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 16393,
+    "added_at": "2025-09-22"
   },
   {
     "title": "Your Name.",
