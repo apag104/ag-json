@@ -5376,6 +5376,20 @@
     "added_at": "2025-07-16"
   },
   {
+    "title": "A Fish Called Wanda",
+    "year": 1988,
+    "genres": "Comedy, Crime",
+    "studio": "Prominent Features",
+    "plot": "In London, four very different people team up on a jewel heist, then try to double-cross one another for the loot, complicated by their efforts to fool the very proper barrister Archibald Leach.",
+    "cast": "Jamie Lee Curtis, John Cleese, Kevin Kline",
+    "original_air_date": "1988-07-15",
+    "runtime_minutes": 108,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16554,
+    "added_at": "2025-09-23"
+  },
+  {
     "title": "Fist Fight",
     "year": 2017,
     "genres": "Comedy, Action",
@@ -9448,6 +9462,20 @@
     "plex_rating": "",
     "plex_guid": 15022,
     "added_at": "2025-07-22"
+  },
+  {
+    "title": "Matilda",
+    "year": 1996,
+    "genres": "Comedy, Family",
+    "studio": "Jersey Films",
+    "plot": "A girl gifted with a keen intellect and psychic powers uses both to get even with her callous family and free her kindly schoolteacher from the tyrannical grip of a sadistic headmistress.",
+    "cast": "Mara Wilson, Danny DeVito, Rhea Perlman",
+    "original_air_date": "1996-08-02",
+    "runtime_minutes": 98,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 16552,
+    "added_at": "2025-09-23"
   },
   {
     "title": "Matinee",
@@ -14922,6 +14950,20 @@
     "plex_rating": "",
     "plex_guid": 10743,
     "added_at": "2025-03-31"
+  },
+  {
+    "title": "Three Days of the Condor",
+    "year": 1975,
+    "genres": "Mystery, Thriller",
+    "studio": "The De Laurentiis Company",
+    "plot": "A mild mannered CIA researcher, paid to read books, returns from lunch to find all of his co-workers assassinated. \"Condor\" must find out who did this and get in from the cold before the hitmen get him.",
+    "cast": "Robert Redford, Faye Dunaway, Cliff Robertson",
+    "original_air_date": "1975-09-25",
+    "runtime_minutes": 117,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16550,
+    "added_at": "2025-09-23"
   },
   {
     "title": "Three Thousand Years of Longing",
