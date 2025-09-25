@@ -70,6 +70,20 @@
     "added_at": "2025-02-15"
   },
   {
+    "title": "21 Bridges",
+    "year": 2019,
+    "genres": "Crime, Drama",
+    "studio": "STXfilms",
+    "plot": "Thrust into a citywide manhunt for a duo of cop killers, NYPD detective Andre Davis begins to uncover a massive conspiracy that links his fellow police officers to a criminal empire and must decide who he is hunting and who is actually hunting him. During the manhunt, Manhattan is completely locked down for the first time in its history - no exit or entry to the island including all 21 bridges.",
+    "cast": "Chadwick Boseman, Sienna Miller, J.K. Simmons",
+    "original_air_date": "2019-09-25",
+    "runtime_minutes": 99,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16568,
+    "added_at": "2025-09-24"
+  },
+  {
     "title": "28 Days Later",
     "year": 2002,
     "genres": "Horror, Thriller",
@@ -1474,7 +1488,7 @@
     "year": 1995,
     "genres": "Drama, Romance",
     "studio": "Castle Rock Entertainment",
-    "plot": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+    "plot": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
     "cast": "Ethan Hawke, Julie Delpy, Andrea Eckert",
     "original_air_date": "1995-01-27",
     "runtime_minutes": 101,
@@ -9608,7 +9622,7 @@
     "year": 2025,
     "genres": "Adventure, Science Fiction",
     "studio": "Warner Bros. Pictures",
-    "plot": "Adapted from the novel Mickey7 by Edward Ashton, this stars Robert Pattinson as an \"expendable\" - a disposable crew member on a space mission, selected for dangerous tasks because his body can be reprinted if he dies, with his memories largely intact. With one regeneration, though, things go very wrong.",
+    "plot": "During a human expedition to colonize space, Mickey 17, a so-called \"expendable\" employee, is sent to explore an ice planet.",
     "cast": "Robert Pattinson, Naomi Ackie, Steven Yeun",
     "original_air_date": "2025-02-28",
     "runtime_minutes": 136,
@@ -10526,6 +10540,20 @@
     "plex_rating": "",
     "plex_guid": 16092,
     "added_at": "2025-09-02"
+  },
+  {
+    "title": "Nobody 2",
+    "year": 2025,
+    "genres": "Action, Adventure",
+    "studio": "Universal Pictures",
+    "plot": "Workaholic assassin Hutch Mansell takes his family on a much-needed vacation to the small tourist town of Plummerville. However, he soon finds himself in the crosshairs of a corrupt theme-park operator, a shady sheriff, and a bloodthirsty crime boss.",
+    "cast": "Bob Odenkirk, Connie Nielsen, Sharon Stone",
+    "original_air_date": "2025-08-13",
+    "runtime_minutes": 89,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16587,
+    "added_at": "2025-09-24"
   },
   {
     "title": "Nobody Knows",
@@ -11452,6 +11480,20 @@
     "added_at": "2025-09-17"
   },
   {
+    "title": "The Player",
+    "year": 1992,
+    "genres": "Drama, Comedy",
+    "studio": "Avenue Pictures",
+    "plot": "Events in the life of a Hollywood studio executive, unfold with the same unrealistic positive coincidences, ultimately culminating to a \"happy ending\", much like the movie scripts, with which he works day in and out, after he accidentally murders someone.",
+    "cast": "Tim Robbins, Greta Scacchi, Fred Ward",
+    "original_air_date": "1992-04-10",
+    "runtime_minutes": 124,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16564,
+    "added_at": "2025-09-24"
+  },
+  {
     "title": "Pontypool",
     "year": 2009,
     "genres": "Horror, Mystery",
@@ -11828,6 +11870,20 @@
     "plex_rating": "",
     "plex_guid": 12711,
     "added_at": "2025-05-04"
+  },
+  {
+    "title": "Punch-Drunk Love",
+    "year": 2002,
+    "genres": "Comedy, Drama",
+    "studio": "Columbia Pictures",
+    "plot": "Socially frustrated Barry Egan calls a phone-sex line to curb his loneliness. Little does he know it will land him in deep trouble and will jeopardize his burgeoning romance with the mysterious Lena.",
+    "cast": "Adam Sandler, Emily Watson, Philip Seymour Hoffman",
+    "original_air_date": "2002-10-25",
+    "runtime_minutes": 95,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16560,
+    "added_at": "2025-09-24"
   },
   {
     "title": "Punisher: War Zone",
@@ -16527,7 +16583,7 @@
     "plot": "After escaping from a religious colony in Chile, Maria seeks shelter in a mansion where she’s taken in by two pigs, its only inhabitants. Like in a stop-motion dream, the universe of the house reacts to her feelings. The animals slowly morph into humans and the house into a dark, menacing world.",
     "cast": "Amalia Kassai, Rainer Krause, Karina Hyland",
     "original_air_date": "2018-11-01",
-    "runtime_minutes": 151,
+    "runtime_minutes": 73,
     "content_rating": "Not Rated",
     "plex_rating": "",
     "plex_guid": 6086,
