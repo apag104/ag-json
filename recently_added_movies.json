@@ -7882,6 +7882,20 @@
     "added_at": "2025-05-04"
   },
   {
+    "title": "Interview with the Vampire",
+    "year": 1994,
+    "genres": "Horror, Drama",
+    "studio": "Geffen Pictures",
+    "plot": "A vampire tells his epic life story: love, betrayal, loneliness, and hunger.",
+    "cast": "Tom Cruise, Brad Pitt, Antonio Banderas",
+    "original_air_date": "1994-11-11",
+    "runtime_minutes": 122,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16696,
+    "added_at": "2025-10-03"
+  },
+  {
     "title": "Invasion of the Body Snatchers",
     "year": 1978,
     "genres": "Horror, Science Fiction",
@@ -9504,6 +9518,20 @@
     "plex_rating": "",
     "plex_guid": 14491,
     "added_at": "2025-06-27"
+  },
+  {
+    "title": "The Master",
+    "year": 2012,
+    "genres": "Drama",
+    "studio": "Annapurna Pictures",
+    "plot": "Freddie, a volatile, heavy-drinking veteran who suffers from post-traumatic stress disorder, finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new \"religion\" he forms after World War II.",
+    "cast": "Joaquin Phoenix, Philip Seymour Hoffman, Amy Adams",
+    "original_air_date": "2012-09-21",
+    "runtime_minutes": 137,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 16690,
+    "added_at": "2025-10-03"
   },
   {
     "title": "Materialists",
