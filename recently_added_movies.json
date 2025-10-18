@@ -8622,6 +8622,24 @@
     "tvdb_id": "949"
   },
   {
+    "title": "The Goonies",
+    "year": 1985,
+    "genres": "Adventure, Comedy",
+    "studio": "Amblin Entertainment",
+    "plot": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
+    "cast": "Sean Astin, Josh Brolin, Jeff Cohen",
+    "original_air_date": "1985-06-07",
+    "runtime_minutes": 113,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 17206,
+    "added_at": "2025-10-17",
+    "media_type": "movie",
+    "tmdb_id": "9340",
+    "imdb_id": "tt0089218",
+    "tvdb_id": "1205"
+  },
+  {
     "title": "The Gorge",
     "year": 2025,
     "genres": "Action, Adventure",
@@ -19906,6 +19924,24 @@
     "tmdb_id": "614930",
     "imdb_id": "tt8589698",
     "tvdb_id": "343860"
+  },
+  {
+    "title": "Teeth",
+    "year": 2008,
+    "genres": "Comedy, Horror",
+    "studio": "Teeth",
+    "plot": "Dawn is an active member of her high-school chastity club but, when she meets Tobey, nature takes its course, and the pair answer the call. They suddenly learn she is a living example of the vagina dentata myth, when the encounter takes a grisly turn.",
+    "cast": "Jess Weixler, John Hensley, Josh Pais",
+    "original_air_date": "2008-04-03",
+    "runtime_minutes": 93,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 17192,
+    "added_at": "2025-10-17",
+    "media_type": "movie",
+    "tmdb_id": "13121",
+    "imdb_id": "tt0780622",
+    "tvdb_id": "6091"
   },
   {
     "title": "Tendaberry",
