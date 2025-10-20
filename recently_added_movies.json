@@ -12528,6 +12528,24 @@
     "tvdb_id": "9972"
   },
   {
+    "title": "The Luckiest Man in America",
+    "year": 2025,
+    "genres": "Thriller, Drama",
+    "studio": "Plenty Good",
+    "plot": "May 1984. An unemployed ice cream truck driver steps onto the game show Press Your Luck harboring a secret: the key to endless money. But his winning streak is threatened when the bewildered executives uncover his real motivations.",
+    "cast": "Paul Walter Hauser, Walton Goggins, Shamier Anderson",
+    "original_air_date": "2025-04-04",
+    "runtime_minutes": 91,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 17377,
+    "added_at": "2025-10-19",
+    "media_type": "movie",
+    "tmdb_id": "1288070",
+    "imdb_id": "tt32331377",
+    "tvdb_id": "363137"
+  },
+  {
     "title": "M. Butterfly",
     "year": 1993,
     "genres": "Drama, Romance",
@@ -16092,6 +16110,24 @@
     "tvdb_id": "1491"
   },
   {
+    "title": "Prom Night",
+    "year": 1980,
+    "genres": "Horror, Mystery",
+    "studio": "Simcom Limited",
+    "plot": "At a high-school senior prom, a masked killer stalks four teenagers who were responsible for the accidental death of a classmate six years previously.",
+    "cast": "Leslie Nielsen, Jamie Lee Curtis, Casey Stevens",
+    "original_air_date": "1980-07-18",
+    "runtime_minutes": 92,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 17336,
+    "added_at": "2025-10-19",
+    "media_type": "movie",
+    "tmdb_id": "36599",
+    "imdb_id": "tt0081383",
+    "tvdb_id": "6620"
+  },
+  {
     "title": "The Prophecy",
     "year": 1995,
     "genres": "Fantasy, Horror",
@@ -17802,6 +17838,24 @@
     "tvdb_id": "4285"
   },
   {
+    "title": "Season of the Witch",
+    "year": 1972,
+    "genres": "Horror, Drama",
+    "studio": "Latent Image",
+    "plot": "A neglected, unhappy suburban housewife gets mixed up in witchcraft with unexpected consequences.",
+    "cast": "Jan White, Raymond Laine, Ann Muffly",
+    "original_air_date": "1972-12-27",
+    "runtime_minutes": 104,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 17423,
+    "added_at": "2025-10-19",
+    "media_type": "movie",
+    "tmdb_id": "29424",
+    "imdb_id": "tt0069239",
+    "tvdb_id": "36437"
+  },
+  {
     "title": "Secondhand Lions",
     "year": 2003,
     "genres": "Drama, Comedy",
@@ -19492,6 +19546,24 @@
     "tmdb_id": "563",
     "imdb_id": "tt0120201",
     "tvdb_id": "1740"
+  },
+  {
+    "title": "Stealth",
+    "year": 2005,
+    "genres": "Action, Adventure",
+    "studio": "Original Film",
+    "plot": "Deeply ensconced in a top-secret military program, three pilots struggle to bring an artificial intelligence program under control before it initiates the next world war.",
+    "cast": "Josh Lucas, Jessica Biel, Jamie Foxx",
+    "original_air_date": "2005-07-27",
+    "runtime_minutes": 120,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 17379,
+    "added_at": "2025-10-19",
+    "media_type": "movie",
+    "tmdb_id": "10048",
+    "imdb_id": "tt0382992",
+    "tvdb_id": "4515"
   },
   {
     "title": "The Sting",
@@ -21490,6 +21562,24 @@
     "tmdb_id": "458723",
     "imdb_id": "tt6857112",
     "tvdb_id": "609"
+  },
+  {
+    "title": "V/H/S/Halloween",
+    "year": 2025,
+    "genres": "Horror, Thriller",
+    "studio": "Shudder",
+    "plot": "A collection of Halloween-themed videotapes unleashes a series of twisted, blood-soaked tales, turning trick-or-treat into a struggle for survival.",
+    "cast": "Lawson Greyson, Sarah Nicklin, Jenna Hogan",
+    "original_air_date": "2025-10-03",
+    "runtime_minutes": 114,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 17335,
+    "added_at": "2025-10-19",
+    "media_type": "movie",
+    "tmdb_id": "1373445",
+    "imdb_id": "tt37676033",
+    "tvdb_id": "369230"
   },
   {
     "title": "Valentine",
