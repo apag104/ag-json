@@ -12406,7 +12406,7 @@
     "year": 1978,
     "genres": "Animation, Adventure",
     "studio": "Fantasy Films",
-    "plot": "A young Hobbit known as Frodo has been thrown on an amazing adventure, when he is appointed the job of destroying the One Ring, which was created by the Dark Lord Sauron. He is assigned with three warriors including Legolas, Aragorn, and Boromir. But it's not going to be an easy journey for the Fellowship of the Ring, on the ultimate quest to rid the Middle-earth of all evil.",
+    "plot": "A young Hobbit known as Frodo is thrown into an amazing adventure when he's given the task of destroying the One Ring, which was created by the dark lord Sauron. He will travel in a small fellowship of nine warriors and friends. But it won't be an easy journey for the Fellowship of the Ring, on the ultimate quest to rid Middle-earth of evil.",
     "cast": "Christopher Guard, William Squire, Michael Scholes",
     "original_air_date": "1978-11-15",
     "runtime_minutes": 133,
@@ -12566,7 +12566,7 @@
   {
     "title": "M3GAN 2.0",
     "year": 2025,
-    "genres": "Horror, Science Fiction",
+    "genres": "Science Fiction, Thriller",
     "studio": "Blumhouse Productions",
     "plot": "Two years after M3GAN's rampage, her creator, Gemma, resorts to resurrecting her infamous creation in order to take down Amelia, the military-grade weapon who was built by a defense contractor who stole M3GAN's underlying tech.",
     "cast": "Allison Williams, Violet McGraw, Amie Donald",
@@ -13588,6 +13588,24 @@
     "tmdb_id": "30018",
     "imdb_id": "tt1216496",
     "tvdb_id": "5950"
+  },
+  {
+    "title": "The Mothman Prophecies",
+    "year": 2002,
+    "genres": "Mystery, Drama",
+    "studio": "Screen Gems",
+    "plot": "Reporter John Klein is plunged into a world of impossible terror and unthinkable chaos when fate draws him to a sleepy West Virginia town whose residents are being visited by a great winged shape that sows hideous nightmares and fevered visions.",
+    "cast": "Richard Gere, Laura Linney, Will Patton",
+    "original_air_date": "2002-01-25",
+    "runtime_minutes": 119,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 17430,
+    "added_at": "2025-10-20",
+    "media_type": "movie",
+    "tmdb_id": "2637",
+    "imdb_id": "tt0265349",
+    "tvdb_id": "6113"
   },
   {
     "title": "Mousehunt",
@@ -17224,6 +17242,24 @@
     "tmdb_id": "805",
     "imdb_id": "tt0063522",
     "tvdb_id": "3431"
+  },
+  {
+    "title": "The Roses",
+    "year": 2025,
+    "genres": "Comedy, Drama",
+    "studio": "Searchlight Pictures",
+    "plot": "Life seems easy for picture-perfect couple Ivy (Colman) and Theo (Cumberbatch): successful careers, great kids, an enviable sex life. But underneath the façade of the perfect family is a tinderbox of competition and resentments that's ignited when Theo's professional dreams come crashing down.",
+    "cast": "Olivia Colman, Benedict Cumberbatch, Kate McKinnon",
+    "original_air_date": "2025-08-27",
+    "runtime_minutes": 105,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 17427,
+    "added_at": "2025-10-20",
+    "media_type": "movie",
+    "tmdb_id": "1267905",
+    "imdb_id": "tt31973693",
+    "tvdb_id": "358050"
   },
   {
     "title": "The Royal Tenenbaums",
