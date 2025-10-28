@@ -5130,6 +5130,24 @@
     "tvdb_id": "5783"
   },
   {
+    "title": "Dead Silence",
+    "year": 2007,
+    "genres": "Horror, Thriller",
+    "studio": "Evolution Entertainment",
+    "plot": "After his wife meets a grisly end, Jamie Ashen returns to his haunted hometown of Ravens Fair to find answers. His investigation leads him to the ghost of a ventriloquist named Mary Shaw who seems to have ties to his entire family tree",
+    "cast": "Ryan Kwanten, Amber Valletta, Donnie Wahlberg",
+    "original_air_date": "2007-03-16",
+    "runtime_minutes": 91,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 17888,
+    "added_at": "2025-10-27",
+    "media_type": "movie",
+    "tmdb_id": "14001",
+    "imdb_id": "tt0455760",
+    "tvdb_id": "2399"
+  },
+  {
     "title": "The Dead Zone",
     "year": 1983,
     "genres": "Thriller, Horror",
@@ -13050,6 +13068,24 @@
     "tvdb_id": "363137"
   },
   {
+    "title": "Luz: The Flower of Evil",
+    "year": 2019,
+    "genres": "Fantasy, Western",
+    "studio": "Afasia Films",
+    "plot": "Far into the mountains, in a community led by a preacher named El Señor, a new child who is supposed to be the new messiah, is brought, and with him destruction and redemption. Soon, everything will change. Not only for the town, but on the preacher's home as his 3 daughters start to wonder the real origins of God itself, the nature of love, pleasure and inner freedom.",
+    "cast": "Yuri Vargas, Conrado Osorio, Sharon Guzman",
+    "original_air_date": "2019-10-07",
+    "runtime_minutes": 70,
+    "content_rating": "NC-17",
+    "plex_rating": "",
+    "plex_guid": 17885,
+    "added_at": "2025-10-27",
+    "media_type": "movie",
+    "tmdb_id": "633318",
+    "imdb_id": "tt4500678",
+    "tvdb_id": "157310"
+  },
+  {
     "title": "M. Butterfly",
     "year": 1993,
     "genres": "Drama, Romance",
@@ -17514,6 +17550,24 @@
     "tvdb_id": "879"
   },
   {
+    "title": "The Return",
+    "year": 2024,
+    "genres": "History, Adventure",
+    "studio": "Picomedia",
+    "plot": "After 20 years Odysseus finally returns to Ithaca, where he finds his wife held prisoner by suitors vying to be king and his son facing death at their hands. To win back his family and all he has lost, Odysseus must rediscover his strength.",
+    "cast": "Ralph Fiennes, Juliette Binoche, Charlie Plummer",
+    "original_air_date": "2024-12-05",
+    "runtime_minutes": 115,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 17897,
+    "added_at": "2025-10-27",
+    "media_type": "movie",
+    "tmdb_id": "975511",
+    "imdb_id": "tt19861162",
+    "tvdb_id": "358487"
+  },
+  {
     "title": "The Return of the Living Dead",
     "year": 1985,
     "genres": "Horror, Comedy",
@@ -21078,6 +21132,24 @@
     "tvdb_id": "663"
   },
   {
+    "title": "Terminator: Dark Fate",
+    "year": 2019,
+    "genres": "Action, Adventure",
+    "studio": "20th Century Fox",
+    "plot": "Decades after Sarah Connor prevented Judgment Day, a lethal new Terminator is sent to eliminate the future leader of the resistance. In a fight to save mankind, battle-hardened Sarah Connor teams up with an unexpected ally and an enhanced super soldier to stop the deadliest Terminator yet.",
+    "cast": "Linda Hamilton, Arnold Schwarzenegger, Mackenzie Davis",
+    "original_air_date": "2019-10-23",
+    "runtime_minutes": 128,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 17871,
+    "added_at": "2025-10-27",
+    "media_type": "movie",
+    "tmdb_id": "290859",
+    "imdb_id": "tt6450804",
+    "tvdb_id": "8725"
+  },
+  {
     "title": "Terrifier 3",
     "year": 2024,
     "genres": "Horror, Thriller",
@@ -23650,6 +23722,24 @@
     "tmdb_id": "",
     "imdb_id": "",
     "tvdb_id": ""
+  },
+  {
+    "title": "Xtro",
+    "year": 1982,
+    "genres": "Science Fiction, Horror",
+    "studio": "Amalgamated Film Enterprises",
+    "plot": "Tony's father Sam is abducted by aliens. Three years later, he returns to Earth and seeks his wife and son, but she is already living with someone else. After an awkward reunion, Sam's wife recognizes that he is not the same as he was when he left, and Sam starts to affect Tony in frightening ways.",
+    "cast": "Philip Sayer, Bernice Stegers, Danny Brainin",
+    "original_air_date": "1982-12-06",
+    "runtime_minutes": 86,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 17886,
+    "added_at": "2025-10-27",
+    "media_type": "movie",
+    "tmdb_id": "25834",
+    "imdb_id": "tt0086610",
+    "tvdb_id": "11906"
   },
   {
     "title": "Y2K",
