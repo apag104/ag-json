@@ -2484,6 +2484,24 @@
     "tvdb_id": "721"
   },
   {
+    "title": "The Blackening",
+    "year": 2023,
+    "genres": "Comedy, Horror",
+    "studio": "MRC",
+    "plot": "Seven black friends go away for the weekend, only to find themselves trapped in a cabin with a killer who has a vendetta. They must pit their street smarts and knowledge of horror movies against the murderer to stay alive.",
+    "cast": "Grace Byers, Jermaine Fowler, Melvin Gregg",
+    "original_air_date": "2023-06-16",
+    "runtime_minutes": 96,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18004,
+    "added_at": "2025-10-30",
+    "media_type": "movie",
+    "tmdb_id": "1008392",
+    "imdb_id": "tt11703244",
+    "tvdb_id": "340092"
+  },
+  {
     "title": "Blade",
     "year": 1998,
     "genres": "Action, Horror",
@@ -11754,6 +11772,24 @@
     "tvdb_id": "20913"
   },
   {
+    "title": "Kangaroo Jack",
+    "year": 2003,
+    "genres": "Comedy, Action",
+    "studio": "Castle Rock Entertainment",
+    "plot": "Two childhood friends — a New York hairstylist and a wanna-be musician — get mixed-up with the mob and are forced to deliver $50,000 to Australia, but things go all wrong when the money is lost to a wild kangaroo.",
+    "cast": "Jerry O'Connell, Anthony Anderson, Estella Warren",
+    "original_air_date": "2003-01-17",
+    "runtime_minutes": 89,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 17983,
+    "added_at": "2025-10-30",
+    "media_type": "movie",
+    "tmdb_id": "10628",
+    "imdb_id": "tt0257568",
+    "tvdb_id": "8889"
+  },
+  {
     "title": "Kazaam",
     "year": 1996,
     "genres": "Fantasy, Comedy",
@@ -20959,7 +20995,7 @@
     "plot": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up.",
     "cast": "Dakota Johnson, Tilda Swinton, Mia Goth",
     "original_air_date": "2018-10-31",
-    "runtime_minutes": 146,
+    "runtime_minutes": 152,
     "content_rating": "R",
     "plex_rating": "",
     "plex_guid": 7511,
