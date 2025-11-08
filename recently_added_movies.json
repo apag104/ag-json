@@ -7293,7 +7293,7 @@
     "title": "Fallen",
     "year": 1998,
     "genres": "Thriller, Fantasy",
-    "studio": "Warner Bros. Pictures",
+    "studio": "Turner Pictures",
     "plot": "Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution, the killings start again, and they are very similar to Reese's style.",
     "cast": "Denzel Washington, John Goodman, Donald Sutherland",
     "original_air_date": "1998-01-16",
@@ -8026,6 +8026,24 @@
     "tmdb_id": "171372",
     "imdb_id": "tt1605717",
     "tvdb_id": "6915"
+  },
+  {
+    "title": "Frankenstein",
+    "year": 2025,
+    "genres": "Horror, Drama",
+    "studio": "Double Dare You",
+    "plot": "Oscar-winning director Guillermo del Toro adapts Mary Shelley's classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "cast": "Oscar Isaac, Jacob Elordi, Mia Goth",
+    "original_air_date": "2025-10-17",
+    "runtime_minutes": 152,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18174,
+    "added_at": "2025-11-07",
+    "media_type": "movie",
+    "tmdb_id": "1062722",
+    "imdb_id": "tt1312221",
+    "tvdb_id": "350412"
   },
   {
     "title": "Freaked",
@@ -9088,6 +9106,24 @@
     "tmdb_id": "1422096",
     "imdb_id": "tt35521922",
     "tvdb_id": "366106"
+  },
+  {
+    "title": "Good Fortune",
+    "year": 2025,
+    "genres": "Action, Comedy",
+    "studio": "Lionsgate",
+    "plot": "In Good Fortune, Ansari plays a down-on-his-luck guy who is working myriad jobs. He's hired by a new acquaintance (played by Seth Rogen), who lives in the Hollywood Hills, to do various jobs for him - put in a disco floor, fix the pool heater. Keanu Reeves \"valley\" angel makes it so Rogen's rich guy situation is swapped with Ansari, so the latter has the former's life.",
+    "cast": "Keanu Reeves, Aziz Ansari, Seth Rogen",
+    "original_air_date": "2025-10-15",
+    "runtime_minutes": 97,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18170,
+    "added_at": "2025-11-07",
+    "media_type": "movie",
+    "tmdb_id": "1114967",
+    "imdb_id": "tt27543578",
+    "tvdb_id": "354894"
   },
   {
     "title": "Good One",
@@ -16342,6 +16378,24 @@
     "tmdb_id": "10013",
     "imdb_id": "tt0091738",
     "tvdb_id": "7873"
+  },
+  {
+    "title": "The Penguin Lessons",
+    "year": 2025,
+    "genres": "Drama",
+    "studio": "42",
+    "plot": "A disillusioned Englishman who goes to work in a school in a divided Argentina in 1976 finds his life transformed when he rescues an orphaned penguin from the beach.",
+    "cast": "Steve Coogan, Jonathan Pryce, Vivian El Jaber",
+    "original_air_date": "2025-03-28",
+    "runtime_minutes": 111,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 18179,
+    "added_at": "2025-11-07",
+    "media_type": "movie",
+    "tmdb_id": "1086497",
+    "imdb_id": "tt26677014",
+    "tvdb_id": "361795"
   },
   {
     "title": "The People Under the Stairs",
