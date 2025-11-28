@@ -2034,6 +2034,24 @@
     "tvdb_id": "2078"
   },
   {
+    "title": "The Beekeeper",
+    "year": 2024,
+    "genres": "Action, Thriller",
+    "studio": "Miramax",
+    "plot": "Adam Clay is a beekeeper, but someone very important to him is scammed and driven to harm. However, what these power and money hungry scammers don't know, is that Clay is an agent in a classified program called Beekeepers, and they underestimate how much of a threat he is. Adam sets out on a quest of vengeance, where he hunts and kills those responsible for the incident.",
+    "cast": "Jason Statham, Emmy Raver-Lampman, Josh Hutcherson",
+    "original_air_date": "2024-01-08",
+    "runtime_minutes": 105,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18507,
+    "added_at": "2025-11-27",
+    "media_type": "movie",
+    "tmdb_id": "866398",
+    "imdb_id": "tt15314262",
+    "tvdb_id": "349405"
+  },
+  {
     "title": "Before Midnight",
     "year": 2013,
     "genres": "Romance, Drama",
@@ -2842,6 +2860,24 @@
     "tmdb_id": "887870",
     "imdb_id": "tt15737898",
     "tvdb_id": "339491"
+  },
+  {
+    "title": "Blue Moon",
+    "year": 2025,
+    "genres": "Biography, Drama",
+    "studio": "Detour Filmproduction",
+    "plot": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator Richard Rodgers celebrates the opening night of his ground-breaking hit musical “Oklahoma!”.",
+    "cast": "Ethan Hawke, Margaret Qualley, Bobby Cannavale",
+    "original_air_date": "2025-10-24",
+    "runtime_minutes": 100,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18515,
+    "added_at": "2025-11-27",
+    "media_type": "movie",
+    "tmdb_id": "1299655",
+    "imdb_id": "tt32536315",
+    "tvdb_id": "357693"
   },
   {
     "title": "Blue Thunder",
@@ -11808,6 +11844,24 @@
     "tvdb_id": "1435"
   },
   {
+    "title": "It Was Just an Accident",
+    "year": 2025,
+    "genres": "Crime, Thriller",
+    "studio": "Jafar Panahi Productions",
+    "plot": "Vahid, an Azerbaijani auto mechanic, was once imprisoned by Iranian authorities. During his sentence, he was interrogated blindfolded. One day, a man named Eqbal enters his workshop. His prosthetic leg creaks, and Vahid thinks he recognizes one of his former torturers.",
+    "cast": "Vahid Mobasseri, Mariam Afshari, Ebrahim Azizi",
+    "original_air_date": "2025-10-01",
+    "runtime_minutes": 103,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 18506,
+    "added_at": "2025-11-27",
+    "media_type": "movie",
+    "tmdb_id": "1456349",
+    "imdb_id": "tt36491653",
+    "tvdb_id": "366626"
+  },
+  {
     "title": "It: Chapter Two",
     "year": 2019,
     "genres": "Horror, Drama",
@@ -12634,6 +12688,24 @@
     "tmdb_id": "653346",
     "imdb_id": "tt11389872",
     "tvdb_id": "312226"
+  },
+  {
+    "title": "Kiss of the Spider Woman",
+    "year": 2025,
+    "genres": "Drama, Musical",
+    "studio": "Josephson Entertainment",
+    "plot": "Valentín, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina recounts the plot of a Hollywood musical starring his favorite silver screen diva, Ingrid Luna.",
+    "cast": "Diego Luna, Tonatiuh, Jennifer Lopez",
+    "original_air_date": "2025-10-09",
+    "runtime_minutes": 128,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18517,
+    "added_at": "2025-11-27",
+    "media_type": "movie",
+    "tmdb_id": "1214684",
+    "imdb_id": "tt30400277",
+    "tvdb_id": "363775"
   },
   {
     "title": "Knives Out",
