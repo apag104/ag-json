@@ -3096,6 +3096,24 @@
     "tvdb_id": "1478"
   },
   {
+    "title": "The Box",
+    "year": 2009,
+    "genres": "Thriller, Science Fiction",
+    "studio": "MRC",
+    "plot": "With the press of a button, a wooden box bestows riches and death.",
+    "cast": "Cameron Diaz, James Marsden, Frank Langella",
+    "original_air_date": "2009-10-29",
+    "runtime_minutes": 115,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 18567,
+    "added_at": "2025-11-29",
+    "media_type": "movie",
+    "tmdb_id": "22825",
+    "imdb_id": "tt0362478",
+    "tvdb_id": "7337"
+  },
+  {
     "title": "Boys Go to Jupiter",
     "year": 2025,
     "genres": "Animation, Comedy",
@@ -9452,7 +9470,7 @@
   {
     "title": "Good Fortune",
     "year": 2025,
-    "genres": "Action, Comedy",
+    "genres": "Comedy, Fantasy",
     "studio": "Lionsgate",
     "plot": "In Good Fortune, Ansari plays a down-on-his-luck guy who is working myriad jobs. He's hired by a new acquaintance (played by Seth Rogen), who lives in the Hollywood Hills, to do various jobs for him - put in a disco floor, fix the pool heater. Keanu Reeves \"valley\" angel makes it so Rogen's rich guy situation is swapped with Ansari, so the latter has the former's life.",
     "cast": "Keanu Reeves, Aziz Ansari, Seth Rogen",
