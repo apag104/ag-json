@@ -11286,6 +11286,24 @@
     "tvdb_id": "2002"
   },
   {
+    "title": "How the Grinch Stole Christmas!",
+    "year": 1966,
+    "genres": "Animation, Family",
+    "studio": "The Cat in the Hat Productions",
+    "plot": "Bitter and hateful, the Grinch is irritated at the thought of the nearby village having a happy time celebrating Christmas. So disguised as Santa Claus, with his dog made to look like a reindeer, he raids the village to steal all the Christmas things. The village is sure to have a sad Christmas this year.",
+    "cast": "Boris Karloff, June Foray, Dal McKennon",
+    "original_air_date": "1966-12-18",
+    "runtime_minutes": 25,
+    "content_rating": "G",
+    "plex_rating": "",
+    "plex_guid": 18790,
+    "added_at": "2025-12-06",
+    "media_type": "movie",
+    "tmdb_id": "13377",
+    "imdb_id": "tt0060345",
+    "tvdb_id": "3971"
+  },
+  {
     "title": "How to Train Your Dragon",
     "year": 2025,
     "genres": "Action, Adventure",
@@ -12760,6 +12778,24 @@
     "tmdb_id": "10222",
     "imdb_id": "tt0097659",
     "tvdb_id": "6565"
+  },
+  {
+    "title": "Kicking and Screaming",
+    "year": 1995,
+    "genres": "Comedy, Drama",
+    "studio": "Castleberg Productions",
+    "plot": "A bunch of guys hang around their college for months after graduation, continuing a life much like the one before graduation.",
+    "cast": "Josh Hamilton, Olivia D'Abo, Chris Eigeman",
+    "original_air_date": "1995-10-06",
+    "runtime_minutes": 96,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18794,
+    "added_at": "2025-12-06",
+    "media_type": "movie",
+    "tmdb_id": "28387",
+    "imdb_id": "tt0113537",
+    "tvdb_id": "20173"
   },
   {
     "title": "The Kid Detective",
