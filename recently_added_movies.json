@@ -3798,6 +3798,24 @@
     "tvdb_id": "3848"
   },
   {
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "year": 2025,
+    "genres": "Animation, Action",
+    "studio": "MAPPA",
+    "plot": "Denji became \"Chainsaw Man\", a boy with a devil's heart, and is now part of Special Division 4's devil hunters. After a date with Makima, the woman of his dreams, Denji takes shelter from the rain. There he meets Reze, a girl who works in a café.",
+    "cast": "Kikunosuke Toya, Reina Ueda, Shiori Izawa",
+    "original_air_date": "2025-09-19",
+    "runtime_minutes": 100,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18894,
+    "added_at": "2025-12-08",
+    "media_type": "movie",
+    "tmdb_id": "1218925",
+    "imdb_id": "tt30472557",
+    "tvdb_id": "352290"
+  },
+  {
     "title": "Challengers",
     "year": 2024,
     "genres": "Drama, Romance",
@@ -9106,6 +9124,24 @@
     "tmdb_id": "926",
     "imdb_id": "tt0177789",
     "tvdb_id": "585"
+  },
+  {
+    "title": "The Gambler",
+    "year": 2014,
+    "genres": "Drama, Thriller",
+    "studio": "Paramount Pictures",
+    "plot": "Literature professor and gambler Jim Bennett's debt causes him to borrow money from his mother and a loan shark. Further complicating his situation, is his relationship with one of his students. Will Bennett risk his life for a second chance?",
+    "cast": "Mark Wahlberg, John Goodman, Brie Larson",
+    "original_air_date": "2014-12-25",
+    "runtime_minutes": 110,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18896,
+    "added_at": "2025-12-08",
+    "media_type": "movie",
+    "tmdb_id": "284536",
+    "imdb_id": "tt2039393",
+    "tvdb_id": "4933"
   },
   {
     "title": "The Game",
