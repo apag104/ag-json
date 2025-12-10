@@ -828,6 +828,24 @@
     "tvdb_id": "23059"
   },
   {
+    "title": "All the Money in the World",
+    "year": 2017,
+    "genres": "History, Drama",
+    "studio": "Imperative Entertainment",
+    "plot": "The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather John Paul Getty to pay the ransom.",
+    "cast": "Michelle Williams, Mark Wahlberg, Christopher Plummer",
+    "original_air_date": "2017-12-21",
+    "runtime_minutes": 132,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18956,
+    "added_at": "2025-12-09",
+    "media_type": "movie",
+    "tmdb_id": "446791",
+    "imdb_id": "tt5294550",
+    "tvdb_id": "1674"
+  },
+  {
     "title": "All the President's Men",
     "year": 1976,
     "genres": "Drama, History",
@@ -3024,6 +3042,24 @@
     "tvdb_id": "2126"
   },
   {
+    "title": "Body of Lies",
+    "year": 2008,
+    "genres": "Drama, Action",
+    "studio": "De Line Pictures",
+    "plot": "A CIA agent on the ground in Jordan hunts down a powerful terrorist leader while being caught between the unclear intentions of his American supervisors and Jordan Intelligence.",
+    "cast": "Leonardo DiCaprio, Russell Crowe, Golshifteh Farahani",
+    "original_air_date": "2008-10-09",
+    "runtime_minutes": 128,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18933,
+    "added_at": "2025-12-09",
+    "media_type": "movie",
+    "tmdb_id": "12113",
+    "imdb_id": "tt0758774",
+    "tvdb_id": "3183"
+  },
+  {
     "title": "Bone Lake",
     "year": 2025,
     "genres": "Horror, Thriller",
@@ -4696,6 +4732,24 @@
     "tmdb_id": "686",
     "imdb_id": "tt0118884",
     "tvdb_id": "1801"
+  },
+  {
+    "title": "Contraband",
+    "year": 2012,
+    "genres": "Thriller, Action",
+    "studio": "Universal Pictures",
+    "plot": "When his brother-in-law runs afoul of a drug lord, family man Chris Farraday turns to a skill he abandoned long ago—smuggling—to repay the debt. But the job goes wrong, and Farraday finds himself wanted by cops, crooks and killers alike.",
+    "cast": "Mark Wahlberg, Kate Beckinsale, Ben Foster",
+    "original_air_date": "2012-01-12",
+    "runtime_minutes": 109,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18920,
+    "added_at": "2025-12-09",
+    "media_type": "movie",
+    "tmdb_id": "77866",
+    "imdb_id": "tt1524137",
+    "tvdb_id": "3422"
   },
   {
     "title": "The Conversation",
@@ -20790,6 +20844,24 @@
     "tvdb_id": "3593"
   },
   {
+    "title": "Sentimental Value",
+    "year": 2025,
+    "genres": "Drama, Comedy",
+    "studio": "Mer Film",
+    "plot": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
+    "cast": "Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas",
+    "original_air_date": "2025-08-20",
+    "runtime_minutes": 133,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18919,
+    "added_at": "2025-12-09",
+    "media_type": "movie",
+    "tmdb_id": "1124566",
+    "imdb_id": "tt27714581",
+    "tvdb_id": "362904"
+  },
+  {
     "title": "The Sentinel",
     "year": 1977,
     "genres": "Horror, Drama",
@@ -25630,6 +25702,24 @@
     "tmdb_id": "54400",
     "imdb_id": "tt0105791",
     "tvdb_id": "106426"
+  },
+  {
+    "title": "We Own the Night",
+    "year": 2007,
+    "genres": "Drama, Crime",
+    "studio": "2929 Productions",
+    "plot": "A New York City nightclub manager tries to save his brother and father from Russian Mafia hitmen.",
+    "cast": "Joaquin Phoenix, Mark Wahlberg, Eva Mendes",
+    "original_air_date": "2007-10-12",
+    "runtime_minutes": 117,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18945,
+    "added_at": "2025-12-09",
+    "media_type": "movie",
+    "tmdb_id": "2001",
+    "imdb_id": "tt0498399",
+    "tvdb_id": "4096"
   },
   {
     "title": "We're Back! A Dinosaur's Story",
