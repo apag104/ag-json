@@ -1566,6 +1566,24 @@
     "tvdb_id": "5483"
   },
   {
+    "title": "The Avengers",
+    "year": 1998,
+    "genres": "Action, Adventure",
+    "studio": "Jerry Weintraub Productions",
+    "plot": "British Ministry Agent John Steed, under direction from \"Mother\", investigates a diabolical plot by archvillain Sir August de Wynter to rule the world with his weather control machine. Steed investigates the beautiful Doctor Mrs. Emma Peel, the only suspect, but simultaneously falls for her and joins forces with her to combat Sir August.",
+    "cast": "Ralph Fiennes, Uma Thurman, Sean Connery",
+    "original_air_date": "1998-08-13",
+    "runtime_minutes": 89,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 18986,
+    "added_at": "2025-12-11",
+    "media_type": "movie",
+    "tmdb_id": "9320",
+    "imdb_id": "tt0118661",
+    "tvdb_id": "7092"
+  },
+  {
     "title": "The Aviator",
     "year": 2004,
     "genres": "Drama, Biography",
@@ -11078,7 +11096,7 @@
     "cast": "Hasan Ma'juni, Pantea Panahiha, Rayan Sarlak",
     "original_air_date": "2021-10-29",
     "runtime_minutes": 93,
-    "content_rating": "NR",
+    "content_rating": "Not Rated",
     "plex_rating": "",
     "plex_guid": 14783,
     "added_at": "2025-07-13",
@@ -14902,6 +14920,24 @@
     "tmdb_id": "68722",
     "imdb_id": "tt1560747",
     "tvdb_id": "4292"
+  },
+  {
+    "title": "The Mastermind",
+    "year": 2025,
+    "genres": "Crime, Drama",
+    "studio": "filmscience",
+    "plot": "In 1970, failed architect James Blaine Mooney and cohorts wander into a museum in broad daylight and steal four paintings. When holding onto the art proves more difficult than stealing them, Mooney is relegated to a life on the run.",
+    "cast": "Josh O'Connor, Alana Haim, Hope Davis",
+    "original_air_date": "2025-10-16",
+    "runtime_minutes": 110,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 18990,
+    "added_at": "2025-12-11",
+    "media_type": "movie",
+    "tmdb_id": "1352624",
+    "imdb_id": "tt33455099",
+    "tvdb_id": "360252"
   },
   {
     "title": "Materialists",
@@ -18988,6 +19024,24 @@
     "tmdb_id": "762441",
     "imdb_id": "tt13433802",
     "tvdb_id": "346017"
+  },
+  {
+    "title": "Quiz Show",
+    "year": 1994,
+    "genres": "History, Drama",
+    "studio": "Baltimore Pictures",
+    "plot": "An idealistic young lawyer working for a Congressional subcommittee in the late 1950s discovers that TV quiz shows are being fixed. His investigation focuses on two contestants on the show \"Twenty-One\": Herbert Stempel, a brash working-class Jew from Queens, and Charles Van Doren, the patrician scion of one of America's leading literary families. Based on a true story.",
+    "cast": "John Turturro, Rob Morrow, Ralph Fiennes",
+    "original_air_date": "1994-09-23",
+    "runtime_minutes": 132,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 18988,
+    "added_at": "2025-12-11",
+    "media_type": "movie",
+    "tmdb_id": "11450",
+    "imdb_id": "tt0110932",
+    "tvdb_id": "3370"
   },
   {
     "title": "Rabbits",
@@ -23686,6 +23740,24 @@
     "tmdb_id": "16780",
     "imdb_id": "tt0110978",
     "tvdb_id": "1522"
+  },
+  {
+    "title": "Thelma",
+    "year": 2017,
+    "genres": "Romance, Thriller",
+    "studio": "Motlys",
+    "plot": "A confused religious girl tries to deny her feelings for a female friend who's in love with her. This causes her suppressed subconsciously-controlled psychokinetic powers to reemerge with devastating results.",
+    "cast": "Eili Harboe, Kaya Wilkins, Henrik Rafaelsen",
+    "original_air_date": "2017-09-15",
+    "runtime_minutes": 116,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 18980,
+    "added_at": "2025-12-11",
+    "media_type": "movie",
+    "tmdb_id": "401898",
+    "imdb_id": "tt6304046",
+    "tvdb_id": "4353"
   },
   {
     "title": "There Will Be Blood",
