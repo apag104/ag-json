@@ -6372,6 +6372,24 @@
     "tvdb_id": "3874"
   },
   {
+    "title": "Dog Day Afternoon",
+    "year": 1975,
+    "genres": "Crime, Drama",
+    "studio": "Artists Entertainment Complex",
+    "plot": "Three amateur robbers plan to hold up a Brooklyn bank. A nice, simple robbery: Walk in, take the money, and run. Unfortunately, the supposedly uncomplicated heist suddenly becomes a bizarre nightmare as everything that could go wrong does.",
+    "cast": "Al Pacino, John Cazale, Charles Durning",
+    "original_air_date": "1975-09-21",
+    "runtime_minutes": 124,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 19074,
+    "added_at": "2025-12-15",
+    "media_type": "movie",
+    "tmdb_id": "968",
+    "imdb_id": "tt0072890",
+    "tvdb_id": "2956"
+  },
+  {
     "title": "Dog Star Man",
     "year": 1964,
     "genres": "Documentary, Mystery",
@@ -11232,6 +11250,24 @@
     "tvdb_id": "348121"
   },
   {
+    "title": "The Holiday",
+    "year": 2006,
+    "genres": "Comedy, Romance",
+    "studio": "Relativity Media",
+    "plot": "Amanda lives in LA and is a movie trailer editor. Iris lives in Surrey and is a journalist. The two decide to swap houses for two weeks at Christmas - both trying to forget their troubled love lives, until love finds them anyways.",
+    "cast": "Cameron Diaz, Kate Winslet, Jude Law",
+    "original_air_date": "2006-12-05",
+    "runtime_minutes": 135,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 19297,
+    "added_at": "2025-12-15",
+    "media_type": "movie",
+    "tmdb_id": "1581",
+    "imdb_id": "tt0457939",
+    "tvdb_id": "1837"
+  },
+  {
     "title": "Hollow Man",
     "year": 2000,
     "genres": "Action, Science Fiction",
@@ -12478,7 +12514,7 @@
     "year": 2025,
     "genres": "Crime, Thriller",
     "studio": "Jafar Panahi Productions",
-    "plot": "Vahid, an Azerbaijani auto mechanic, was once imprisoned by Iranian authorities. During his sentence, he was interrogated blindfolded. One day, a man named Eqbal enters his workshop. His prosthetic leg creaks, and Vahid thinks he recognizes one of his former torturers.",
+    "plot": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor. Panicked, he rounds up a few of his fellow ex-prisoners to confirm the man's identity.",
     "cast": "Vahid Mobasseri, Mariam Afshari, Ebrahim Azizi",
     "original_air_date": "2025-10-01",
     "runtime_minutes": 103,
@@ -15372,6 +15408,24 @@
     "tvdb_id": "8676"
   },
   {
+    "title": "Mikey and Nicky",
+    "year": 1976,
+    "genres": "Drama, Crime",
+    "studio": "Paramount Pictures",
+    "plot": "Nick is desperate, holed up in a cheap hotel, suffering from an ulcer and convinced that a local mob boss wants him killed. Desperate and terrified, he calls Mikey, his friend since childhood and a fellow gangster. So begins a long night…",
+    "cast": "Peter Falk, John Cassavetes, Ned Beatty",
+    "original_air_date": "1976-12-21",
+    "runtime_minutes": 106,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 19072,
+    "added_at": "2025-12-15",
+    "media_type": "movie",
+    "tmdb_id": "59143",
+    "imdb_id": "tt0074901",
+    "tvdb_id": "22731"
+  },
+  {
     "title": "Mimic",
     "year": 1997,
     "genres": "Horror, Science Fiction",
@@ -17008,6 +17062,24 @@
     "tmdb_id": "1195506",
     "imdb_id": "tt29603959",
     "tvdb_id": "358969"
+  },
+  {
+    "title": "Now You See Me: Now You Don't",
+    "year": 2025,
+    "genres": "Crime, Thriller",
+    "studio": "Lionsgate",
+    "plot": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+    "cast": "Jesse Eisenberg, Dominic Sessa, Ariana Greenblatt",
+    "original_air_date": "2025-11-11",
+    "runtime_minutes": 112,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 19106,
+    "added_at": "2025-12-15",
+    "media_type": "movie",
+    "tmdb_id": "425274",
+    "imdb_id": "tt4712810",
+    "tvdb_id": "13538"
   },
   {
     "title": "The Nun",
@@ -23938,6 +24010,24 @@
     "tmdb_id": "8337",
     "imdb_id": "tt0096256",
     "tvdb_id": "1829"
+  },
+  {
+    "title": "The Thin Red Line",
+    "year": 1998,
+    "genres": "Drama, History",
+    "studio": "Fox 2000 Pictures",
+    "plot": "The story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived.",
+    "cast": "Jim Caviezel, Nick Nolte, Sean Penn",
+    "original_air_date": "1998-12-23",
+    "runtime_minutes": 170,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 19076,
+    "added_at": "2025-12-15",
+    "media_type": "movie",
+    "tmdb_id": "8741",
+    "imdb_id": "tt0120863",
+    "tvdb_id": "1681"
   },
   {
     "title": "The Thing",
