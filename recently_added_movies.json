@@ -3474,6 +3474,24 @@
     "tvdb_id": "300179"
   },
   {
+    "title": "Bugonia",
+    "year": 2025,
+    "genres": "Comedy, Science Fiction",
+    "studio": "Element Pictures",
+    "plot": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+    "cast": "Emma Stone, Jesse Plemons, Aidan Delbis",
+    "original_air_date": "2025-10-24",
+    "runtime_minutes": 118,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 19316,
+    "added_at": "2025-12-16",
+    "media_type": "movie",
+    "tmdb_id": "701387",
+    "imdb_id": "tt12300742",
+    "tvdb_id": "354097"
+  },
+  {
     "title": "Bullets Over Broadway",
     "year": 1994,
     "genres": "Comedy, Crime",
@@ -3893,7 +3911,7 @@
     "genres": "Animation, Action",
     "studio": "MAPPA",
     "plot": "Denji became \"Chainsaw Man\", a boy with a devil's heart, and is now part of Special Division 4's devil hunters. After a date with Makima, the woman of his dreams, Denji takes shelter from the rain. There he meets Reze, a girl who works in a café.",
-    "cast": "Kikunosuke Toya, Reina Ueda, Shiori Izawa",
+    "cast": "Kikunosuke Toya, Reina Ueda, Tomori Kusunoki",
     "original_air_date": "2025-09-19",
     "runtime_minutes": 100,
     "content_rating": "R",
@@ -10870,6 +10888,24 @@
     "tmdb_id": "1302916",
     "imdb_id": "tt32558992",
     "tvdb_id": "360221"
+  },
+  {
+    "title": "The Heartbreak Kid",
+    "year": 1972,
+    "genres": "Comedy, Romance",
+    "studio": "20th Century Fox",
+    "plot": "Three days into his Miami honeymoon, New York Jewish Lenny meets tall, blonde Kelly. This confirms him in his opinion that he has made a serious mistake and he decides he wants Kelly instead. Her rich father is less than keen and lets everyone - including Lenny - know that he hates everything about him and the way he is going on.",
+    "cast": "Charles Grodin, Cybill Shepherd, Jeannie Berlin",
+    "original_air_date": "1972-12-22",
+    "runtime_minutes": 105,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 19325,
+    "added_at": "2025-12-16",
+    "media_type": "movie",
+    "tmdb_id": "40687",
+    "imdb_id": "tt0068687",
+    "tvdb_id": "42072"
   },
   {
     "title": "Hearts Beat Loud",
