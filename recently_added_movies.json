@@ -3906,6 +3906,24 @@
     "tvdb_id": "358275"
   },
   {
+    "title": "Causeway",
+    "year": 2022,
+    "genres": "Drama",
+    "studio": "Excellent Cadaver",
+    "plot": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home in New Orleans. When she meets local mechanic James, the pair begin to forge an unexpected bond.",
+    "cast": "Jennifer Lawrence, Brian Tyree Henry, Linda Emond",
+    "original_air_date": "2022-09-10",
+    "runtime_minutes": 94,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 19369,
+    "added_at": "2025-12-19",
+    "media_type": "movie",
+    "tmdb_id": "595586",
+    "imdb_id": "tt10192406",
+    "tvdb_id": "305483"
+  },
+  {
     "title": "Céline and Julie Go Boating",
     "year": 1974,
     "genres": "Mystery, Comedy",
@@ -8518,7 +8536,7 @@
     "year": 1982,
     "genres": "Animation, Fantasy",
     "studio": "Rankin/Bass Productions",
-    "plot": "The realm of magic is being threatened by the realm of logic, so Carolinus, the green wizard decides to shield it for all time. Ommadon, the evil red wizard, stands in his way. Carolinus then calls for a quest that is to be led by a man named Peter Dickinson, who is the first man of both the realms of science and magic. It is Peter's job to defeat Ommadon.",
+    "plot": "The realm of magic is being threatened by the realm of logic, so the green wizard, Carolinus, decides to shield it for all time. Ommadon, the evil red wizard, stands in his way. Carolinus then calls for a quest that is to be led by a man named Peter Dickinson, who is the first man of both the realms of science and magic. It is Peter's job to defeat Ommadon.",
     "cast": "Harry Morgan, James Gregory, John Ritter",
     "original_air_date": "1982-08-17",
     "runtime_minutes": 95,
@@ -15390,6 +15408,24 @@
     "tvdb_id": "45064"
   },
   {
+    "title": "Metropolitan",
+    "year": 1990,
+    "genres": "Comedy, Drama",
+    "studio": "Westerly Films",
+    "plot": "A radical student is adopted by a group of young New Yorkers, serves as a catalyst to alter his and their lives. Gathering in a Manhattan apartment, the group of friends meet to discuss social mobility, Fourier's socialism and play bridge in their cocoon of upper-class society - until they are joined by a man with a critical view of their way of life.",
+    "cast": "Edward Clements, Chris Eigeman, Taylor Nichols",
+    "original_air_date": "1990-08-03",
+    "runtime_minutes": 98,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 19377,
+    "added_at": "2025-12-19",
+    "media_type": "movie",
+    "tmdb_id": "15389",
+    "imdb_id": "tt0100142",
+    "tvdb_id": "20342"
+  },
+  {
     "title": "Miami Connection",
     "year": 1988,
     "genres": "Action, Crime",
@@ -17982,7 +18018,7 @@
     "tvdb_id": "1524"
   },
   {
-    "title": "Pearl",
+    "title": "Pearl: An X-traordinary Origin Story",
     "year": 2022,
     "genres": "Horror, Drama",
     "studio": "A24",
@@ -22804,6 +22840,24 @@
     "tmdb_id": "691",
     "imdb_id": "tt0076752",
     "tvdb_id": "1137"
+  },
+  {
+    "title": "The Stalker",
+    "year": 2020,
+    "genres": "Horror, Mystery",
+    "studio": "Shoreline Trace Productions",
+    "plot": "A man known only as the Stalker is looking for the Hamiltons, and is willing to kill anyone who gets in his way. Embark on a horror/mystery thrill ride that takes you back to the classic films of the genre.",
+    "cast": "Troy Fromin, Chad Ayers, Virginia Vogt",
+    "original_air_date": "2020-08-15",
+    "runtime_minutes": 86,
+    "content_rating": "",
+    "plex_rating": "",
+    "plex_guid": 19367,
+    "added_at": "2025-12-19",
+    "media_type": "movie",
+    "tmdb_id": "733837",
+    "imdb_id": "tt9363342",
+    "tvdb_id": ""
   },
   {
     "title": "Star Trek II: The Wrath of Khan",
