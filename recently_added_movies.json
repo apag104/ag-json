@@ -2358,6 +2358,24 @@
     "tvdb_id": "59456"
   },
   {
+    "title": "Being There",
+    "year": 1979,
+    "genres": "Comedy, Drama",
+    "studio": "Northstar Media",
+    "plot": "After the death of his employer forces him out of the only home he's ever known, a simpleminded, sheltered gardener becomes an unlikely trusted advisor to a powerful tycoon and an insider in Washington politics.",
+    "cast": "Peter Sellers, Shirley MacLaine, Melvyn Douglas",
+    "original_air_date": "1979-12-19",
+    "runtime_minutes": 129,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 19450,
+    "added_at": "2025-12-22",
+    "media_type": "movie",
+    "tmdb_id": "10322",
+    "imdb_id": "tt0078841",
+    "tvdb_id": "9661"
+  },
+  {
     "title": "Belladonna of Sadness",
     "year": 1973,
     "genres": "Animation, Fantasy",
@@ -14405,7 +14423,7 @@
     "genres": "Action, Adventure",
     "studio": "EON Productions",
     "plot": "James Bond 007's mission is to firstly, organise the defection of a top Soviet general. When the general is re-captured, Bond heads off to find why an ally of General Koskov was sent to murder him. Bond's mission continues to take him to Afghanistan, where he must confront an arms dealer known as Brad Whitaker. Everything eventually reveals itself to Bond.",
-    "cast": "Timothy Dalton, Maryam d'Abo, Joe Don Baker",
+    "cast": "Timothy Dalton, Maryam D'Abo, Joe Don Baker",
     "original_air_date": "1987-06-30",
     "runtime_minutes": 130,
     "content_rating": "PG",
@@ -17641,12 +17659,12 @@
   },
   {
     "title": "One from the Heart",
-    "year": 1981,
+    "year": 1982,
     "genres": "Musical, Drama",
     "studio": "American Zoetrope",
     "plot": "Hank and Frannie don't seem to be able to live together anymore. After a five-year relationship, lustful and dreamy Frannie leaves down-to-earth Hank on the anniversary of their relationship. Each one of them meets their dream mate, but as bright as they may seem, they are but a stage of lights and colors. Will true love prevail over a seemingly glamorous passion? Welcome to Coppola's Broadway-like romantic musical.",
     "cast": "Teri Garr, Frederic Forrest, Raúl Juliá",
-    "original_air_date": "1981-03-15",
+    "original_air_date": "1982-02-11",
     "runtime_minutes": 98,
     "content_rating": "R",
     "plex_rating": "",
@@ -19383,7 +19401,7 @@
     "media_type": "movie",
     "tmdb_id": "762441",
     "imdb_id": "tt13433802",
-    "tvdb_id": "346017"
+    "tvdb_id": "177202"
   },
   {
     "title": "Quiz Show",
@@ -21296,7 +21314,7 @@
   {
     "title": "The Sentinel",
     "year": 1977,
-    "genres": "Horror, Drama",
+    "genres": "Horror, Mystery",
     "studio": "Universal Pictures",
     "plot": "A fashion model moves into a house. She begins having strange physical problems, has trouble sleeping at night, and has some nasty flashbacks. She complains to the real estate agent about the noise caused by her strange neighbors, but soon finds out that the house has secrets. Ultimately, she discovers that she has been put in the house for a reason.",
     "cast": "Cristina Raines, Chris Sarandon, Martin Balsam",
@@ -22858,6 +22876,24 @@
     "tmdb_id": "1337562",
     "imdb_id": "tt33247023",
     "tvdb_id": "359485"
+  },
+  {
+    "title": "Springsteen: Deliver Me from Nowhere",
+    "year": 2025,
+    "genres": "Music, Biography",
+    "studio": "20th Century Studios",
+    "plot": "Bruce Springsteen's journey crafting his 1982 album Nebraska, which emerged as he recorded Born in the USA with the E Street Band. Based on Warren Zanes' book.",
+    "cast": "Jeremy Allen White, Jeremy Strong, Paul Walter Hauser",
+    "original_air_date": "2025-10-22",
+    "runtime_minutes": 120,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 19452,
+    "added_at": "2025-12-22",
+    "media_type": "movie",
+    "tmdb_id": "1230368",
+    "imdb_id": "tt31923069",
+    "tvdb_id": "358049"
   },
   {
     "title": "Sputnik",
@@ -25724,7 +25760,7 @@
   {
     "title": "The Vanishing",
     "year": 1988,
-    "genres": "Horror, Thriller",
+    "genres": "Thriller, Mystery",
     "studio": "MGS Film",
     "plot": "Rex and Saskia, a young couple in love, are on vacation. They stop at a busy service station and Saskia is abducted. After three years and no sign of Saskia, Rex begins receiving letters from the abductor.",
     "cast": "Bernard-Pierre Donnadieu, Gene Bervoets, Johanna ter Steege",
