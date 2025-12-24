@@ -3420,6 +3420,24 @@
     "tvdb_id": "5591"
   },
   {
+    "title": "Brick",
+    "year": 2006,
+    "genres": "Drama, Mystery",
+    "studio": "Bergman Lustig Productions",
+    "plot": "A teenage loner pushes his way into the underworld of a high school crime ring to investigate the disappearance of his ex-girlfriend.",
+    "cast": "Joseph Gordon-Levitt, Emilie de Ravin, Nora Zehetner",
+    "original_air_date": "2006-04-07",
+    "runtime_minutes": 109,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 19506,
+    "added_at": "2025-12-23",
+    "media_type": "movie",
+    "tmdb_id": "9270",
+    "imdb_id": "tt0393109",
+    "tvdb_id": "4622"
+  },
+  {
     "title": "Bride of Frankenstein",
     "year": 1935,
     "genres": "Horror, Science Fiction",
@@ -6858,6 +6876,24 @@
     "tvdb_id": "8386"
   },
   {
+    "title": "Drugstore Cowboy",
+    "year": 1989,
+    "genres": "Crime, Drama",
+    "studio": "Avenue Pictures",
+    "plot": "A group of drug users in the 1970's help finance their habit by robbing drug stores. Matt Dillon's character is very superstitious and eventually his luck runs out.",
+    "cast": "Matt Dillon, Kelly Lynch, James Remar",
+    "original_air_date": "1989-10-20",
+    "runtime_minutes": 101,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 19512,
+    "added_at": "2025-12-23",
+    "media_type": "movie",
+    "tmdb_id": "476",
+    "imdb_id": "tt0097240",
+    "tvdb_id": "7600"
+  },
+  {
     "title": "Drunken Master",
     "year": 1978,
     "genres": "Action, Comedy",
@@ -7576,6 +7612,24 @@
     "tmdb_id": "38",
     "imdb_id": "tt0338013",
     "tvdb_id": "751"
+  },
+  {
+    "title": "Eternity",
+    "year": 2025,
+    "genres": "Comedy, Drama",
+    "studio": "A24",
+    "plot": "In an afterlife where souls decide where they'll spend eternity, Joan (Elizabeth Olsen) must choose between the man she spent her life with (Miles Teller) and her first love (Callum Turner), who has waited decades for her.",
+    "cast": "Elizabeth Olsen, Miles Teller, Callum Turner",
+    "original_air_date": "2025-11-26",
+    "runtime_minutes": 114,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 19498,
+    "added_at": "2025-12-23",
+    "media_type": "movie",
+    "tmdb_id": "1259102",
+    "imdb_id": "tt24950660",
+    "tvdb_id": "357248"
   },
   {
     "title": "Evangelion: 1.0 You Are (Not) Alone",
@@ -8898,7 +8952,7 @@
     "studio": "Tommy",
     "plot": "A vain actor, his best friend, and an activist end up at a mutant freak farm run by a weirdo scientist.",
     "cast": "Alex Winter, Randy Quaid, Michael Stoyanov",
-    "original_air_date": "1993-09-11",
+    "original_air_date": "1993-10-01",
     "runtime_minutes": 79,
     "content_rating": "PG-13",
     "plex_rating": "",
@@ -14418,6 +14472,24 @@
     "tvdb_id": "1110"
   },
   {
+    "title": "The Lives of Others",
+    "year": 2006,
+    "genres": "Drama, Thriller",
+    "studio": "Creado Film",
+    "plot": "In 1984 East Berlin, dedicated Stasi officer Gerd Wiesler begins spying on a famous playwright and his actress-lover Christa-Maria. Wiesler becomes unexpectedly sympathetic to the couple, and faces conflicting loyalties when his superior takes a liking to Christa-Maria.",
+    "cast": "Martina Gedeck, Ulrich Mühe, Sebastian Koch",
+    "original_air_date": "2006-03-23",
+    "runtime_minutes": 137,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 19505,
+    "added_at": "2025-12-23",
+    "media_type": "movie",
+    "tmdb_id": "582",
+    "imdb_id": "tt0405094",
+    "tvdb_id": "2526"
+  },
+  {
     "title": "The Living Daylights",
     "year": 1987,
     "genres": "Action, Adventure",
@@ -18972,6 +19044,24 @@
     "tvdb_id": "1353"
   },
   {
+    "title": "The Princess Bride",
+    "year": 1987,
+    "genres": "Adventure, Action",
+    "studio": "The Princess Bride Ltd.",
+    "plot": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+    "cast": "Cary Elwes, Robin Wright, Mandy Patinkin",
+    "original_air_date": "1987-09-25",
+    "runtime_minutes": 98,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 19502,
+    "added_at": "2025-12-23",
+    "media_type": "movie",
+    "tmdb_id": "2493",
+    "imdb_id": "tt0093779",
+    "tvdb_id": "2578"
+  },
+  {
     "title": "Prisoners",
     "year": 2013,
     "genres": "Drama, Thriller",
@@ -19708,6 +19798,24 @@
     "tmdb_id": "11460",
     "imdb_id": "tt0421239",
     "tvdb_id": "5279"
+  },
+  {
+    "title": "Red One",
+    "year": 2024,
+    "genres": "Action, Adventure",
+    "studio": "Seven Bucks Productions",
+    "plot": "After Santa Claus -- Code Name: RED ONE -- is kidnapped, the North Pole's Head of Security (Dwayne Johnson) must team up with the world's most infamous bounty hunter and notorious hacker (Chris Evans) in a globe-trotting, action-packed mission to save Christmas.",
+    "cast": "Dwayne Johnson, Chris Evans, Lucy Liu",
+    "original_air_date": "2024-11-06",
+    "runtime_minutes": 123,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 19491,
+    "added_at": "2025-12-23",
+    "media_type": "movie",
+    "tmdb_id": "845781",
+    "imdb_id": "tt14948432",
+    "tvdb_id": "342389"
   },
   {
     "title": "Red Rooms",
@@ -23616,6 +23724,24 @@
     "tvdb_id": "343855"
   },
   {
+    "title": "The Sure Thing",
+    "year": 1985,
+    "genres": "Comedy, Drama",
+    "studio": "Monument Pictures",
+    "plot": "A North East college freshman is going through a sexual dry spell, and a friend from high school arranges a beautiful woman for him to meet in California. He and a classmate he has a crush on end up hitchhiking all the way out to Cali.",
+    "cast": "John Cusack, Daphne Zuniga, Anthony Edwards",
+    "original_air_date": "1985-03-01",
+    "runtime_minutes": 91,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 19514,
+    "added_at": "2025-12-23",
+    "media_type": "movie",
+    "tmdb_id": "8992",
+    "imdb_id": "tt0090103",
+    "tvdb_id": "7034"
+  },
+  {
     "title": "The Surfer",
     "year": 2025,
     "genres": "Thriller, Drama",
@@ -26404,6 +26530,24 @@
     "tmdb_id": "246741",
     "imdb_id": "tt3416742",
     "tvdb_id": "1340"
+  },
+  {
+    "title": "When Harry Met Sally...",
+    "year": 1989,
+    "genres": "Comedy, Romance",
+    "studio": "Castle Rock Entertainment",
+    "plot": "Sex always gets in the way of friendships between men and women. At least, that's what Harry Burns believes. So when Harry meets Sally Albright and a deep friendship blossoms between them, Harry's determined not to let his attraction to Sally destroy it. But when a night of weakness ends in a morning of panic, can the pair avoid succumbing to Harry's fears by remaining friends and admitting they just might be the perfect match for each other?",
+    "cast": "Billy Crystal, Meg Ryan, Carrie Fisher",
+    "original_air_date": "1989-07-21",
+    "runtime_minutes": 95,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 19508,
+    "added_at": "2025-12-23",
+    "media_type": "movie",
+    "tmdb_id": "639",
+    "imdb_id": "tt0098635",
+    "tvdb_id": "3606"
   },
   {
     "title": "Whiplash",
