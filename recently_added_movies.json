@@ -15179,7 +15179,7 @@
     "genres": "Drama, Mystery",
     "studio": "Fox Searchlight Pictures",
     "plot": "A high-school student feels responsible for a fatal traffic accident and tries to make amends.",
-    "cast": "Anna Paquin, J. Smith-Cameron, Jean Reno",
+    "cast": "Anna Paquin, J. Smith-Cameron, Mark Ruffalo",
     "original_air_date": "2011-09-30",
     "runtime_minutes": 149,
     "content_rating": "R",
@@ -15334,6 +15334,24 @@
     "tmdb_id": "1352624",
     "imdb_id": "tt33455099",
     "tvdb_id": "360252"
+  },
+  {
+    "title": "Matchstick Men",
+    "year": 2003,
+    "genres": "Drama, Comedy",
+    "studio": "Warner Bros. Pictures",
+    "plot": "A phobic con artist and his protégé are on the verge of pulling off a lucrative swindle when the former's teenage daughter arrives unexpectedly.",
+    "cast": "Nicolas Cage, Sam Rockwell, Alison Lohman",
+    "original_air_date": "2003-09-12",
+    "runtime_minutes": 116,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 19522,
+    "added_at": "2025-12-25",
+    "media_type": "movie",
+    "tmdb_id": "7270",
+    "imdb_id": "tt0325805",
+    "tvdb_id": "7594"
   },
   {
     "title": "Materialists",
