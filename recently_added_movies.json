@@ -4572,6 +4572,24 @@
     "tvdb_id": "358170"
   },
   {
+    "title": "Clouds of Sils Maria",
+    "year": 2014,
+    "genres": "Drama",
+    "studio": "CAB Productions",
+    "plot": "A film star comes face-to-face with an uncomfortable reflection of herself while starring in a revival of the play that launched her career.",
+    "cast": "Juliette Binoche, Kristen Stewart, Chloë Grace Moretz",
+    "original_air_date": "2014-08-20",
+    "runtime_minutes": 123,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 19602,
+    "added_at": "2025-12-28",
+    "media_type": "movie",
+    "tmdb_id": "246860",
+    "imdb_id": "tt2452254",
+    "tvdb_id": "8543"
+  },
+  {
     "title": "Cloudy with a Chance of Meatballs",
     "year": 2009,
     "genres": "Comedy, Animation",
@@ -15624,6 +15642,24 @@
     "tvdb_id": "20342"
   },
   {
+    "title": "Miami Blues",
+    "year": 1990,
+    "genres": "Action, Crime",
+    "studio": "Orion Pictures",
+    "plot": "After Junior is released from prison, he plans on starting a new life in Miami. But when he kills a man in the airport, he flees the scene and finds Susie, a mild-mannered prostitute searching for stability. The two opposites become romantically involved, and Junior steals a badge and gun from a veteran detective. Using the officer's identity, Junior embarks on a crime spree and convinces Susie that he is the perfect man.",
+    "cast": "Fred Ward, Alec Baldwin, Jennifer Jason Leigh",
+    "original_air_date": "1990-04-20",
+    "runtime_minutes": 96,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 19621,
+    "added_at": "2025-12-28",
+    "media_type": "movie",
+    "tmdb_id": "14931",
+    "imdb_id": "tt0100143",
+    "tvdb_id": "13887"
+  },
+  {
     "title": "Miami Connection",
     "year": 1988,
     "genres": "Action, Crime",
@@ -20698,6 +20734,24 @@
     "tmdb_id": "865",
     "imdb_id": "tt0093894",
     "tvdb_id": "1500"
+  },
+  {
+    "title": "The Running Man",
+    "year": 2025,
+    "genres": "Science Fiction, Thriller",
+    "studio": "Paramount Pictures",
+    "plot": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite — and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+    "cast": "Glen Powell, Josh Brolin, Colman Domingo",
+    "original_air_date": "2025-11-11",
+    "runtime_minutes": 136,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 19605,
+    "added_at": "2025-12-28",
+    "media_type": "movie",
+    "tmdb_id": "798645",
+    "imdb_id": "tt14107334",
+    "tvdb_id": "336622"
   },
   {
     "title": "Running on Empty",
