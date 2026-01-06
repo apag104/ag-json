@@ -6678,6 +6678,24 @@
     "tvdb_id": "85721"
   },
   {
+    "title": "Distant Voices, Still Lives",
+    "year": 1988,
+    "genres": "Drama, Music",
+    "studio": "BFI",
+    "plot": "The lives of an English working-class family are told out of order in a free-associative manner. The first part, \"Distant Voices\", focuses on the father's role in the family. The second part, \"Still Lives\", focuses on his children.",
+    "cast": "Freda Dowie, Pete Postlethwaite, Angela Walsh",
+    "original_air_date": "1988-09-29",
+    "runtime_minutes": 84,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 20636,
+    "added_at": "2026-01-05",
+    "media_type": "movie",
+    "tmdb_id": "41799",
+    "imdb_id": "tt0095037",
+    "tvdb_id": "20544"
+  },
+  {
     "title": "Django Unchained",
     "year": 2012,
     "genres": "Drama, Western",
@@ -22210,6 +22228,24 @@
     "tmdb_id": "18196",
     "imdb_id": "tt0076683",
     "tvdb_id": "11971"
+  },
+  {
+    "title": "A Separation",
+    "year": 2011,
+    "genres": "Drama",
+    "studio": "Asghar Farhadi Productions",
+    "plot": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+    "cast": "Leila Hatami, Payman Maadi, Sareh Bayat",
+    "original_air_date": "2011-03-16",
+    "runtime_minutes": 122,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 20639,
+    "added_at": "2026-01-05",
+    "media_type": "movie",
+    "tmdb_id": "60243",
+    "imdb_id": "tt1832382",
+    "tvdb_id": "8311"
   },
   {
     "title": "Serenity",
