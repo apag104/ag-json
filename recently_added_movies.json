@@ -1332,6 +1332,24 @@
     "tvdb_id": "1727"
   },
   {
+    "title": "Annette",
+    "year": 2021,
+    "genres": "Drama, Musical",
+    "studio": "Eurospace",
+    "plot": "Los Angeles, nowadays. Henry is a stand-up comedian with a fierce humor. Ann, an internationally renowned opera singer. Together, under the spotlight, they form a happy and glamorous couple. The birth of their first child, Annette, a mysterious girl with an exceptional destiny, will turn their lives upside down.",
+    "cast": "Adam Driver, Marion Cotillard, Simon Helberg",
+    "original_air_date": "2021-07-07",
+    "runtime_minutes": 140,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 20805,
+    "added_at": "2026-01-11",
+    "media_type": "movie",
+    "tmdb_id": "424277",
+    "imdb_id": "tt6217926",
+    "tvdb_id": "80265"
+  },
+  {
     "title": "The Annihilation of Fish",
     "year": 1999,
     "genres": "Drama, Romance",
@@ -1744,6 +1762,24 @@
     "tmdb_id": "397243",
     "imdb_id": "tt3289956",
     "tvdb_id": "1716"
+  },
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "genres": "Action, Adventure",
+    "studio": "Dune Entertainment",
+    "plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "cast": "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+    "original_air_date": "2009-12-16",
+    "runtime_minutes": 178,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 20773,
+    "added_at": "2026-01-11",
+    "media_type": "movie",
+    "tmdb_id": "19995",
+    "imdb_id": "tt0499549",
+    "tvdb_id": "165"
   },
   {
     "title": "Avatar: The Way of Water",
@@ -14472,6 +14508,24 @@
     "tvdb_id": "139"
   },
   {
+    "title": "Labyrinth",
+    "year": 1986,
+    "genres": "Family, Adventure",
+    "studio": "Henson Associates",
+    "plot": "Teenage Sarah journeys through a maze to save her baby brother from the Goblin King.",
+    "cast": "David Bowie, Jennifer Connelly, Toby Froud",
+    "original_air_date": "1986-06-27",
+    "runtime_minutes": 101,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 20761,
+    "added_at": "2026-01-11",
+    "media_type": "movie",
+    "tmdb_id": "13597",
+    "imdb_id": "tt0091369",
+    "tvdb_id": "3533"
+  },
+  {
     "title": "Lady Bird",
     "year": 2017,
     "genres": "Comedy, Drama",
@@ -19260,6 +19314,24 @@
     "tvdb_id": "8307"
   },
   {
+    "title": "People We Meet on Vacation",
+    "year": 2026,
+    "genres": "Romance, Comedy",
+    "studio": "3000 Pictures",
+    "plot": "Poppy wants to explore the world and Alex prefers to stay home with a good book, but somehow they are the very best of friends. They live far apart, but for a decade they have spent one week of summer vacation together.",
+    "cast": "Emily Bader, Tom Blyth, Sarah Catherine Hook",
+    "original_air_date": "2026-01-09",
+    "runtime_minutes": 117,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 20819,
+    "added_at": "2026-01-11",
+    "media_type": "movie",
+    "tmdb_id": "1034716",
+    "imdb_id": "tt22740896",
+    "tvdb_id": "358944"
+  },
+  {
     "title": "Perfect Blue",
     "year": 1997,
     "genres": "Animation, Thriller",
@@ -23443,7 +23515,7 @@
     "plot": "The true story of mixed martial arts and UFC fighter Mark Kerr (Dwayne Johnson), whose obsession with greatness made him a legend — and nearly cost him everything. An epic about the courage to fight for something greater than victory.",
     "cast": "Dwayne Johnson, Emily Blunt, Ryan Bader",
     "original_air_date": "2025-10-01",
-    "runtime_minutes": 123,
+    "runtime_minutes": 124,
     "content_rating": "R",
     "plex_rating": "",
     "plex_guid": 20454,
@@ -24280,6 +24352,24 @@
     "tmdb_id": "1337562",
     "imdb_id": "tt33247023",
     "tvdb_id": "359485"
+  },
+  {
+    "title": "Spookies",
+    "year": 1986,
+    "genres": "Horror, Comedy",
+    "studio": "Miggles Corporation",
+    "plot": "After taking a wrong turn, travellers find themselves trapped in a mysterious house. One horror after another threatens them as the flatulent sorcerer who lives within needs sacrifices to give eternal life to his beautiful bride. Whether or not the bride was as gassy as he is remains ambiguous.",
+    "cast": "Felix Ward, Maria Pechukas, Dan Scott",
+    "original_air_date": "1986-05-14",
+    "runtime_minutes": 85,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 20771,
+    "added_at": "2026-01-11",
+    "media_type": "movie",
+    "tmdb_id": "26679",
+    "imdb_id": "tt0090057",
+    "tvdb_id": "33642"
   },
   {
     "title": "Spotlight",
@@ -26602,6 +26692,24 @@
     "tmdb_id": "698687",
     "imdb_id": "tt8864596",
     "tvdb_id": "158132"
+  },
+  {
+    "title": "The Transformers: The Movie",
+    "year": 1986,
+    "genres": "Animation, Action",
+    "studio": "Marvel Productions",
+    "plot": "The Decepticons have invaded and taken over the Autobots' home planet, Cybertron. The Autobots are determined to fight back and go to Autobot City on Earth for supplies. Decepticons hijack and take over the ship, resulting in a fierce battle between the Autobots and Decepticons, the result of which is devastating. A new threat to the Autobots appears in the form of Unicron, a massive planet-devouring transformer.",
+    "cast": "Judd Nelson, Peter Cullen, Frank Welker",
+    "original_air_date": "1986-08-08",
+    "runtime_minutes": 85,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 20774,
+    "added_at": "2026-01-11",
+    "media_type": "movie",
+    "tmdb_id": "1857",
+    "imdb_id": "tt0092106",
+    "tvdb_id": "2821"
   },
   {
     "title": "Transporter 2",
