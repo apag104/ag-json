@@ -4596,7 +4596,7 @@
     "studio": "Walt Disney Pictures",
     "plot": "When the sky really is falling and sanity has flown the coop, who will rise to save the day? Together with his hysterical band of misfit friends, Chicken Little must hatch a plan to save the planet from alien invasion and prove that the world's biggest hero is a little chicken.",
     "cast": "Zach Braff, Garry Marshall, Don Knotts",
-    "original_air_date": "2005-10-06",
+    "original_air_date": "2005-11-04",
     "runtime_minutes": 80,
     "content_rating": "G",
     "plex_rating": "",
@@ -14290,6 +14290,24 @@
     "tmdb_id": "720755",
     "imdb_id": "tt8980602",
     "tvdb_id": "141472"
+  },
+  {
+    "title": "Kill Bill the Whole Bloody Affair",
+    "year": 2011,
+    "genres": "",
+    "studio": "",
+    "plot": "",
+    "cast": "",
+    "original_air_date": "",
+    "runtime_minutes": 238,
+    "content_rating": "",
+    "plex_rating": "",
+    "plex_guid": 21116,
+    "added_at": "2026-01-19",
+    "media_type": "movie",
+    "tmdb_id": "",
+    "imdb_id": "",
+    "tvdb_id": ""
   },
   {
     "title": "Kill Bill: Vol. 1",
