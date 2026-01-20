@@ -54,6 +54,24 @@
     "tvdb_id": "29291"
   },
   {
+    "title": "8 Mile",
+    "year": 2002,
+    "genres": "Drama, Music",
+    "studio": "Mikona Productions",
+    "plot": "The setting is Detroit in 1995. The city is divided by 8 Mile, a road that splits the town in half along racial lines. A young white rapper, Jimmy \"B-Rabbit\" Smith Jr. summons strength within himself to cross over these arbitrary boundaries to fulfill his dream of success in hip hop. With his pal Future and the three one third in place, all he has to do is not choke.",
+    "cast": "Eminem, Kim Basinger, Mekhi Phifer",
+    "original_air_date": "2002-11-08",
+    "runtime_minutes": 110,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 21173,
+    "added_at": "2026-01-19",
+    "media_type": "movie",
+    "tmdb_id": "65",
+    "imdb_id": "tt0298203",
+    "tvdb_id": "1366"
+  },
+  {
     "title": "12 Angry Men",
     "year": 1957,
     "genres": "Drama, Crime",
@@ -4266,6 +4284,24 @@
     "tvdb_id": "1894"
   },
   {
+    "title": "Cast Away",
+    "year": 2000,
+    "genres": "Adventure, Drama",
+    "studio": "20th Century Fox",
+    "plot": "Chuck Noland, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia crashes at sea during a terrible storm. He's the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.",
+    "cast": "Tom Hanks, Helen Hunt, Chris Noth",
+    "original_air_date": "2000-12-22",
+    "runtime_minutes": 143,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 21216,
+    "added_at": "2026-01-19",
+    "media_type": "movie",
+    "tmdb_id": "8358",
+    "imdb_id": "tt0162222",
+    "tvdb_id": "838"
+  },
+  {
     "title": "The Cat",
     "year": 1991,
     "genres": "Action, Horror",
@@ -5074,6 +5110,24 @@
     "tmdb_id": "15196",
     "imdb_id": "tt0088930",
     "tvdb_id": "4655"
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "genres": "Family, Animation",
+    "studio": "Pixar",
+    "plot": "Despite his family's baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "cast": "Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",
+    "original_air_date": "2017-10-27",
+    "runtime_minutes": 105,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 21190,
+    "added_at": "2026-01-19",
+    "media_type": "movie",
+    "tmdb_id": "354912",
+    "imdb_id": "tt2380307",
+    "tvdb_id": "321"
   },
   {
     "title": "Cold War",
@@ -20687,7 +20741,7 @@
     "genres": "Action, Thriller",
     "studio": "NWR Film Productions",
     "plot": "Milo is aging, he is planning his daughter's 25th birthday, and his shipment of heroin turns out to be 10,000 pills of ecstasy. When Milo tries to sell the pills anyway, all Hell breaks loose and his only chance is to ask for help from his ex-henchman and old friend Radovan.",
-    "cast": "Zlatko Burić, Marinela Dekic, Ilyas Agac",
+    "cast": "Zlatko Burić, Marinela Dekic, Slavko Labović",
     "original_air_date": "2005-09-02",
     "runtime_minutes": 107,
     "content_rating": "Not Rated",
@@ -28888,6 +28942,24 @@
     "tmdb_id": "660120",
     "imdb_id": "tt10370710",
     "tvdb_id": "287409"
+  },
+  {
+    "title": "A Wounded Fawn",
+    "year": 2022,
+    "genres": "Horror",
+    "studio": "BarBhouse Productions",
+    "plot": "A serial killer brings an unsuspecting new victim on a weekend getaway to add another body to his ever-growing count. She's buying into his faux charms, and he's eagerly lusting for blood. What could possibly go wrong?",
+    "cast": "Josh Ruben, Sarah Lind, Malin Barr",
+    "original_air_date": "2022-12-01",
+    "runtime_minutes": 90,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 21219,
+    "added_at": "2026-01-19",
+    "media_type": "movie",
+    "tmdb_id": "964873",
+    "imdb_id": "tt13434562",
+    "tvdb_id": "342250"
   },
   {
     "title": "The Wrestler",
