@@ -8608,7 +8608,7 @@
     "year": 1973,
     "genres": "Horror",
     "studio": "Hoya Productions",
-    "plot": "A visiting actress in Washington, D.C., notices dramatic and dangerous changes in the behavior and physical makeup of her 12-year-old daughter. Meanwhile, a young priest at nearby Georgetown University begins to doubt his faith while dealing with his mother's terminal sickness. A frail, elderly priest recognizes the necessity for a show-down with an old demonic enemy.",
+    "plot": "A visiting actress in Washington, D.C., notices dramatic and dangerous changes in the behavior and physical makeup of her 12 year-old daughter. Meanwhile, a young priest at nearby Georgetown University begins to doubt his faith while dealing with his mother's terminal sickness. A frail, elderly priest recognizes the necessity for a show-down with an old demonic enemy.",
     "cast": "Ellen Burstyn, Linda Blair, Jason Miller",
     "original_air_date": "1973-12-26",
     "runtime_minutes": 132,
@@ -16558,6 +16558,24 @@
     "tmdb_id": "470834",
     "imdb_id": "tt5814530",
     "tvdb_id": "102076"
+  },
+  {
+    "title": "Mary Queen of Scots",
+    "year": 2018,
+    "genres": "Biography, Drama",
+    "studio": "Focus Features",
+    "plot": "In 1561, Mary Stuart, widow of the King of France, returns to Scotland, reclaims her rightful throne and menaces the future of Queen Elizabeth I as ruler of England, because she has a legitimate claim to the English throne. Betrayals, rebellions, conspiracies and their own life choices imperil both Queens. They experience the bitter cost of power, until their tragic fate is finally fulfilled.",
+    "cast": "Saoirse Ronan, Margot Robbie, Jack Lowden",
+    "original_air_date": "2018-12-21",
+    "runtime_minutes": 123,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 21323,
+    "added_at": "2026-01-25",
+    "media_type": "movie",
+    "tmdb_id": "457136",
+    "imdb_id": "tt2328900",
+    "tvdb_id": "9"
   },
   {
     "title": "The Mask of Zorro",
@@ -28474,6 +28492,24 @@
     "tmdb_id": "11342",
     "imdb_id": "tt0098622",
     "tvdb_id": "5958"
+  },
+  {
+    "title": "The Watcher in the Woods",
+    "year": 1980,
+    "genres": "Fantasy, Horror",
+    "studio": "Walt Disney Productions",
+    "plot": "After an American family moves to an old country manor in rural England, one of the daughters is tormented by the spirit of the owner's long lost daughter, who mysteriously disappeared 30 years ago during a solar eclipse.",
+    "cast": "Bette Davis, Lynn-Holly Johnson, Kyle Richards",
+    "original_air_date": "1980-04-17",
+    "runtime_minutes": 83,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 21322,
+    "added_at": "2026-01-25",
+    "media_type": "movie",
+    "tmdb_id": "21970",
+    "imdb_id": "tt0081738",
+    "tvdb_id": "14220"
   },
   {
     "title": "Waterworld",
