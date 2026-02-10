@@ -11862,6 +11862,24 @@
     "tvdb_id": "61634"
   },
   {
+    "title": "Hamnet",
+    "year": 2025,
+    "genres": "Biography, Drama",
+    "studio": "Hera Pictures",
+    "plot": "After losing their son Hamnet to plague, Agnes and William Shakespeare grapple with grief in 16th-century England. A healer, Agnes must find strength to care for her surviving children while processing her devastating loss.",
+    "cast": "Jessie Buckley, Paul Mescal, Emily Watson",
+    "original_air_date": "2025-12-04",
+    "runtime_minutes": 125,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 21532,
+    "added_at": "2026-02-09",
+    "media_type": "movie",
+    "tmdb_id": "858024",
+    "imdb_id": "tt14905854",
+    "tvdb_id": "359371"
+  },
+  {
     "title": "The Handmaiden",
     "year": 2016,
     "genres": "Drama, Thriller",
@@ -16882,6 +16900,24 @@
     "tmdb_id": "15919",
     "imdb_id": "tt0048356",
     "tvdb_id": "8928"
+  },
+  {
+    "title": "Marty Supreme",
+    "year": 2025,
+    "genres": "Drama, Sport",
+    "studio": "A24",
+    "plot": "Marty Mauser (Timothée Chalamet), a wily hustler with a dream no one respects, goes to hell and back in pursuit of greatness in this globe-spanning, full-throttle thrill ride from Josh Safdie (Uncut Gems).",
+    "cast": "Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion",
+    "original_air_date": "2025-12-25",
+    "runtime_minutes": 149,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 21541,
+    "added_at": "2026-02-09",
+    "media_type": "movie",
+    "tmdb_id": "1317288",
+    "imdb_id": "tt32916440",
+    "tvdb_id": "358417"
   },
   {
     "title": "Mary and Max",
