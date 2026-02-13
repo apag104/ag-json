@@ -4248,6 +4248,24 @@
     "tvdb_id": "963"
   },
   {
+    "title": "Caché",
+    "year": 2005,
+    "genres": "Mystery, Drama",
+    "studio": "Les Films du Losange",
+    "plot": "George, host of a television show focusing on literature, receives videos shot on the sly that feature his family, along with disturbing drawings that are difficult to interpret. He has no idea who has made and sent him the videos. Progressively, the contents of the videos become more personal, indicating that the sender has known George for a long time.",
+    "cast": "Daniel Auteuil, Juliette Binoche, Annie Girardot",
+    "original_air_date": "2005-10-05",
+    "runtime_minutes": 117,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 21596,
+    "added_at": "2026-02-12",
+    "media_type": "movie",
+    "tmdb_id": "445",
+    "imdb_id": "tt0387898",
+    "tvdb_id": "6149"
+  },
+  {
     "title": "Call Me by Your Name",
     "year": 2017,
     "genres": "Romance, Drama",
@@ -7216,6 +7234,24 @@
     "tmdb_id": "989662",
     "imdb_id": "tt21097228",
     "tvdb_id": "338431"
+  },
+  {
+    "title": "Digging for Fire",
+    "year": 2015,
+    "genres": "Drama, Comedy",
+    "studio": "Lucky Coffee Productions",
+    "plot": "The discovery of a bone and a gun send a husband and wife on separate adventures over the course of a weekend.",
+    "cast": "Jake Johnson, Rosemarie DeWitt, Jude Swanberg",
+    "original_air_date": "2015-08-21",
+    "runtime_minutes": 83,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 21593,
+    "added_at": "2026-02-12",
+    "media_type": "movie",
+    "tmdb_id": "295490",
+    "imdb_id": "tt3704416",
+    "tvdb_id": "14442"
   },
   {
     "title": "Digimon: The Movie",
