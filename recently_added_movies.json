@@ -1512,6 +1512,24 @@
     "tvdb_id": "1909"
   },
   {
+    "title": "Antiviral",
+    "year": 2012,
+    "genres": "Science Fiction, Horror",
+    "studio": "Alliance Films",
+    "plot": "In a blackly satirical near future, a thriving industry sells celebrity illnesses to their obsessed fans. Employee Syd March's attempts to exploit the system backfire when they involve him in a potentially deadly mystery.",
+    "cast": "Caleb Landry Jones, Sarah Gadon, Malcolm McDowell",
+    "original_air_date": "2012-11-30",
+    "runtime_minutes": 107,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 21573,
+    "added_at": "2026-02-12",
+    "media_type": "movie",
+    "tmdb_id": "125490",
+    "imdb_id": "tt2099556",
+    "tvdb_id": "8784"
+  },
+  {
     "title": "Antz",
     "year": 1998,
     "genres": "Comedy, Adventure",
@@ -9563,7 +9581,7 @@
     "genres": "Animation, Adventure",
     "studio": "Dream Well Studio",
     "plot": "The world seems to be coming to an end, teeming with the vestiges of a human presence. Cat is a solitary animal, but as its home is devastated by a great flood, he finds refuge on a boat populated by various species, and will have to team up with them despite their differences. In the lonesome boat sailing through mystical overflowed landscapes, they navigate the challenges and dangers of adapting to this new world.",
-    "cast": "Gints Zilbalodis",
+    "cast": "Gints Zilbalodis, Thomas Oldman, Alexander David Bobson",
     "original_air_date": "2024-08-29",
     "runtime_minutes": 85,
     "content_rating": "PG",
@@ -14040,6 +14058,24 @@
     "tvdb_id": "1245"
   },
   {
+    "title": "Is This Thing On?",
+    "year": 2025,
+    "genres": "Comedy, Drama",
+    "studio": "Searchlight Pictures",
+    "plot": "As their marriage unravels, Alex faces middle age and divorce, seeking new purpose in the New York comedy scene. Meanwhile, his wife Tess confronts sacrifices made for their family, forcing them to navigate co-parenting and identities.",
+    "cast": "Will Arnett, Laura Dern, Andra Day",
+    "original_air_date": "2025-12-19",
+    "runtime_minutes": 120,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 21559,
+    "added_at": "2026-02-12",
+    "media_type": "movie",
+    "tmdb_id": "1140498",
+    "imdb_id": "tt28083456",
+    "tvdb_id": "364346"
+  },
+  {
     "title": "Isle of Dogs",
     "year": 2018,
     "genres": "Comedy, Animation",
@@ -15750,6 +15786,24 @@
     "tvdb_id": "4052"
   },
   {
+    "title": "Leanne Morgan: Unspeakable Things",
+    "year": 2025,
+    "genres": "Comedy, Documentary",
+    "studio": "Doll Baby Productions",
+    "plot": "Leanne Morgan discusses her rise to fame, family matters, and her one-time CBD experience.",
+    "cast": "Leanne Morgan",
+    "original_air_date": "2025-11-04",
+    "runtime_minutes": 65,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 21589,
+    "added_at": "2026-02-12",
+    "media_type": "movie",
+    "tmdb_id": "1567489",
+    "imdb_id": "tt38061951",
+    "tvdb_id": ""
+  },
+  {
     "title": "Leatherface: Texas Chainsaw Massacre III",
     "year": 1990,
     "genres": "Horror, Thriller",
@@ -17458,6 +17512,24 @@
     "tmdb_id": "530385",
     "imdb_id": "tt8772262",
     "tvdb_id": "8794"
+  },
+  {
+    "title": "Mighty Morphin Power Rangers",
+    "year": 1995,
+    "genres": "Action, Adventure",
+    "studio": "Saban Entertainment",
+    "plot": "A giant egg is unearthed at a construction site and soon opened, releasing the terrible Ivan Ooze, who wreaks vengeance on Zordon for imprisoning him millennia ago. With Zordon dying and their powers lost, the Rangers head to a distant planet to find the mystic warrior Dulcea.",
+    "cast": "Karan Ashley, Johnny Yong Bosch, Steve Cardenas",
+    "original_air_date": "1995-06-30",
+    "runtime_minutes": 95,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 21571,
+    "added_at": "2026-02-12",
+    "media_type": "movie",
+    "tmdb_id": "9070",
+    "imdb_id": "tt0113820",
+    "tvdb_id": "2482"
   },
   {
     "title": "A Mighty Wind",
@@ -21708,6 +21780,24 @@
     "tvdb_id": "1947"
   },
   {
+    "title": "Rampage",
+    "year": 2018,
+    "genres": "Action, Adventure",
+    "studio": "Wrigley Pictures",
+    "plot": "When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.",
+    "cast": "Dwayne Johnson, Naomie Harris, Malin Åkerman",
+    "original_air_date": "2018-04-11",
+    "runtime_minutes": 107,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 21566,
+    "added_at": "2026-02-12",
+    "media_type": "movie",
+    "tmdb_id": "427641",
+    "imdb_id": "tt2231461",
+    "tvdb_id": "191"
+  },
+  {
     "title": "Ran",
     "year": 1985,
     "genres": "Drama, Action",
@@ -23578,6 +23668,24 @@
     "tmdb_id": "20620",
     "imdb_id": "tt0060955",
     "tvdb_id": "4567"
+  },
+  {
+    "title": "The Secret Agent",
+    "year": 2025,
+    "genres": "Drama, Thriller",
+    "studio": "Lemming Film",
+    "plot": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
+    "cast": "Wagner Moura, Carlos Francisco, Tânia Maria",
+    "original_air_date": "2025-11-06",
+    "runtime_minutes": 160,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 21565,
+    "added_at": "2026-02-12",
+    "media_type": "movie",
+    "tmdb_id": "1220564",
+    "imdb_id": "tt27847051",
+    "tvdb_id": "356397"
   },
   {
     "title": "Secret Honor",
@@ -28222,6 +28330,24 @@
     "tmdb_id": "664",
     "imdb_id": "tt0117998",
     "tvdb_id": "1254"
+  },
+  {
+    "title": "Twisters",
+    "year": 2024,
+    "genres": "Action, Adventure",
+    "studio": "Universal Pictures",
+    "plot": "As storm season intensifies, the paths of former storm chaser Kate Carter, lured back to the open plains after a devastating encounter years prior, and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
+    "cast": "Daisy Edgar-Jones, Glen Powell, Anthony Ramos",
+    "original_air_date": "2024-07-10",
+    "runtime_minutes": 122,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 21575,
+    "added_at": "2026-02-12",
+    "media_type": "movie",
+    "tmdb_id": "718821",
+    "imdb_id": "tt12584954",
+    "tvdb_id": "345738"
   },
   {
     "title": "The Unbelievable Truth",
