@@ -14490,6 +14490,24 @@
     "tvdb_id": "15767"
   },
   {
+    "title": "Jennifer's Body",
+    "year": 2009,
+    "genres": "Horror, Comedy",
+    "studio": "Fox Atomic",
+    "plot": "Jennifer, a gorgeous, seductive cheerleader takes evil to a whole new level after she's possessed by a sinister demon. Now it's up to her best friend to stop Jennifer's reign of terror before it's too late.",
+    "cast": "Megan Fox, Amanda Seyfried, Johnny Simmons",
+    "original_air_date": "2009-09-18",
+    "runtime_minutes": 107,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 21598,
+    "added_at": "2026-02-13",
+    "media_type": "movie",
+    "tmdb_id": "19994",
+    "imdb_id": "tt1131734",
+    "tvdb_id": "2549"
+  },
+  {
     "title": "Jesus Christ Superstar",
     "year": 1973,
     "genres": "Musical, Drama",
@@ -16351,7 +16369,7 @@
     "plot": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
     "cast": "Yuumi Kawai, Mizuki Yoshida, Yoichiro Saito",
     "original_air_date": "2024-06-28",
-    "runtime_minutes": 58,
+    "runtime_minutes": 57,
     "content_rating": "Not Rated",
     "plex_rating": "",
     "plex_guid": 10436,
@@ -25504,6 +25522,24 @@
     "tmdb_id": "9613",
     "imdb_id": "tt0278731",
     "tvdb_id": "8626"
+  },
+  {
+    "title": "Spider-Man 2",
+    "year": 2004,
+    "genres": "Action, Adventure",
+    "studio": "Marvel Enterprises",
+    "plot": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+    "cast": "Tobey Maguire, Kirsten Dunst, James Franco",
+    "original_air_date": "2004-06-25",
+    "runtime_minutes": 127,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 21602,
+    "added_at": "2026-02-13",
+    "media_type": "movie",
+    "tmdb_id": "558",
+    "imdb_id": "tt0316654",
+    "tvdb_id": "6389"
   },
   {
     "title": "Spider-Man: Across the Spider-Verse",
