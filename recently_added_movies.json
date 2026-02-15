@@ -12096,6 +12096,24 @@
     "tvdb_id": "8083"
   },
   {
+    "title": "Harold and Maude",
+    "year": 1971,
+    "genres": "Comedy, Drama",
+    "studio": "Paramount Pictures",
+    "plot": "The young Harold lives in his own world of suicide-attempts and funeral visits to avoid the misery of his current family and home environment. Harold meets an 80-year-old woman named Maude who also lives in her own world yet one in which she is having the time of her life. When the two opposites meet they realize that their differences don’t matter and they become best friends and love each other.",
+    "cast": "Ruth Gordon, Bud Cort, Vivian Pickles",
+    "original_air_date": "1971-12-20",
+    "runtime_minutes": 91,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 21660,
+    "added_at": "2026-02-14",
+    "media_type": "movie",
+    "tmdb_id": "343",
+    "imdb_id": "tt0067185",
+    "tvdb_id": "8424"
+  },
+  {
     "title": "The Hateful Eight",
     "year": 2015,
     "genres": "Western, Crime",
@@ -15784,6 +15802,24 @@
     "tmdb_id": "27864",
     "imdb_id": "tt0081036",
     "tvdb_id": "36335"
+  },
+  {
+    "title": "Lawless",
+    "year": 2012,
+    "genres": "Drama, Crime",
+    "studio": "Benaroya Pictures",
+    "plot": "In 1931, the Bondurant brothers of Franklin County, Virginia, run a multipurpose backwoods establishment that hides their true business — bootlegging. Middle brother Forrest is the brain of the operation; older Howard is the brawn, and younger Jack, the lookout. Though the local police have taken bribes and left the brothers alone, a violent war erupts when a sadistic lawman from Chicago arrives and tries to shut down the Bondurants operation.",
+    "cast": "Shia LaBeouf, Tom Hardy, Gary Oldman",
+    "original_air_date": "2012-08-29",
+    "runtime_minutes": 115,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 21615,
+    "added_at": "2026-02-14",
+    "media_type": "movie",
+    "tmdb_id": "82633",
+    "imdb_id": "tt1212450",
+    "tvdb_id": "2761"
   },
   {
     "title": "The Lawnmower Man",
@@ -20484,6 +20520,24 @@
     "tvdb_id": "2268"
   },
   {
+    "title": "The Pianist",
+    "year": 2002,
+    "genres": "Drama, War",
+    "studio": "R.P. Productions",
+    "plot": "The true story of pianist Władysław Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+    "cast": "Adrien Brody, Thomas Kretschmann, Frank Finlay",
+    "original_air_date": "2002-09-17",
+    "runtime_minutes": 148,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 21658,
+    "added_at": "2026-02-14",
+    "media_type": "movie",
+    "tmdb_id": "423",
+    "imdb_id": "tt0253474",
+    "tvdb_id": "1361"
+  },
+  {
     "title": "The Piano",
     "year": 1993,
     "genres": "Romance, Drama",
@@ -22950,6 +23004,24 @@
     "tvdb_id": "3915"
   },
   {
+    "title": "Rumor Has It...",
+    "year": 2005,
+    "genres": "Comedy, Drama",
+    "studio": "Village Roadshow Pictures",
+    "plot": "Sarah Huttinger's return home with her fiance convinces her that the sedate, proper, country-club lifestyle of her family isn't for her – and that maybe the Huttinger family isn't even hers – as she uncovers secrets that suggest the Huttingers are neither sedate nor proper.",
+    "cast": "Jennifer Aniston, Kevin Costner, Shirley MacLaine",
+    "original_air_date": "2005-12-22",
+    "runtime_minutes": 96,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 21663,
+    "added_at": "2026-02-14",
+    "media_type": "movie",
+    "tmdb_id": "2800",
+    "imdb_id": "tt0398375",
+    "tvdb_id": "2166"
+  },
+  {
     "title": "The Running Man",
     "year": 1987,
     "genres": "Action, Science Fiction",
@@ -24372,6 +24444,24 @@
     "tvdb_id": "340904"
   },
   {
+    "title": "Sideways",
+    "year": 2004,
+    "genres": "Drama, Comedy",
+    "studio": "Fox Searchlight Pictures",
+    "plot": "Two middle-aged men embark on a spiritual journey through Californian wine country. One is an unpublished novelist suffering from depression, and the other is only days away from walking down the aisle.",
+    "cast": "Paul Giamatti, Thomas Haden Church, Virginia Madsen",
+    "original_air_date": "2004-10-22",
+    "runtime_minutes": 127,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 21651,
+    "added_at": "2026-02-14",
+    "media_type": "movie",
+    "tmdb_id": "9675",
+    "imdb_id": "tt0375063",
+    "tvdb_id": "4551"
+  },
+  {
     "title": "Silence",
     "year": 2016,
     "genres": "Drama, History",
@@ -25524,6 +25614,24 @@
     "tvdb_id": "8626"
   },
   {
+    "title": "Spider-Man",
+    "year": 2002,
+    "genres": "Science Fiction, Action",
+    "studio": "Marvel Enterprises",
+    "plot": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+    "cast": "Tobey Maguire, Willem Dafoe, Kirsten Dunst",
+    "original_air_date": "2002-05-01",
+    "runtime_minutes": 121,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 21644,
+    "added_at": "2026-02-14",
+    "media_type": "movie",
+    "tmdb_id": "557",
+    "imdb_id": "tt0145487",
+    "tvdb_id": "301"
+  },
+  {
     "title": "Spider-Man 2",
     "year": 2004,
     "genres": "Action, Adventure",
@@ -25540,6 +25648,24 @@
     "tmdb_id": "558",
     "imdb_id": "tt0316654",
     "tvdb_id": "6389"
+  },
+  {
+    "title": "Spider-Man 3",
+    "year": 2007,
+    "genres": "Action, Adventure",
+    "studio": "Laura Ziskin Productions",
+    "plot": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+    "cast": "Tobey Maguire, Kirsten Dunst, James Franco",
+    "original_air_date": "2007-04-03",
+    "runtime_minutes": 139,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 21619,
+    "added_at": "2026-02-14",
+    "media_type": "movie",
+    "tmdb_id": "559",
+    "imdb_id": "tt0413300",
+    "tvdb_id": "586"
   },
   {
     "title": "Spider-Man: Across the Spider-Verse",
@@ -26141,7 +26267,7 @@
     "genres": "Drama, Biography",
     "studio": "Broken Chair Flickz",
     "plot": "The rap group NWA emerges from the mean streets of Compton in the mid-1980s and revolutionizes hip-hop culture with their music and tales about life in the hood.",
-    "cast": "LaKeith Stanfield, Aldis Hodge, Jason Mitchell",
+    "cast": "O'Shea Jackson Jr., Corey Hawkins, Jason Mitchell",
     "original_air_date": "2015-08-13",
     "runtime_minutes": 146,
     "content_rating": "R",
@@ -28240,6 +28366,24 @@
     "tmdb_id": "37291",
     "imdb_id": "tt0103130",
     "tvdb_id": "17696"
+  },
+  {
+    "title": "Tucker and Dale vs Evil",
+    "year": 2010,
+    "genres": "Comedy, Horror",
+    "studio": "Eden Rock Media",
+    "plot": "Two lovable hillbillies are headed to their \"fixer-upper\" vacation cabin to drink some beer, do some fishin', and have a good time. But when they run into a group of preppy college kids who assume from their looks that they must be in-bred, chainsaw-wielding killers, Tucker & Dale's vacation takes a bloody and hilarious turn for the worse.",
+    "cast": "Tyler Labine, Alan Tudyk, Katrina Bowden",
+    "original_air_date": "2010-12-09",
+    "runtime_minutes": 88,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 21656,
+    "added_at": "2026-02-14",
+    "media_type": "movie",
+    "tmdb_id": "46838",
+    "imdb_id": "tt1465522",
+    "tvdb_id": "3455"
   },
   {
     "title": "Twilight",
