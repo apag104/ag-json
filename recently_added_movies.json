@@ -17514,6 +17514,24 @@
     "tvdb_id": "183"
   },
   {
+    "title": "Mercy",
+    "year": 2026,
+    "genres": "Science Fiction, Thriller",
+    "studio": "Atlas Entertainment",
+    "plot": "In the near future, a detective stands on trial accused of murdering his wife. He has 90 minutes to prove his innocence to the advanced A.I. Judge he once championed, before it determines his fate.",
+    "cast": "Chris Pratt, Rebecca Ferguson, Kali Reis",
+    "original_air_date": "2026-01-21",
+    "runtime_minutes": 103,
+    "content_rating": "PG-13",
+    "plex_rating": 2.4,
+    "plex_guid": 23151,
+    "added_at": "2026-02-17",
+    "media_type": "movie",
+    "tmdb_id": "1236153",
+    "imdb_id": "tt31050594",
+    "tvdb_id": "358971"
+  },
+  {
     "title": "Mermaid Legend",
     "year": 1984,
     "genres": "Horror, Thriller",
@@ -20687,7 +20705,7 @@
     "genres": "Animation, Fantasy",
     "studio": "Licensing Brands",
     "plot": "Young Pinocchio runs away from his genius creator Jepetto accompanied by the horse Tibalt to see the world and joins the traveling circus run by hustler Modjafocco.",
-    "cast": "Pauly Shore, Filipp Lebedev, Diomid Vinogradov",
+    "cast": "Pauly Shore, Filipp Lebedev, Jon Heder",
     "original_air_date": "2021-12-23",
     "runtime_minutes": 94,
     "content_rating": "PG",
