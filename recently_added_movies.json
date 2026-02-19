@@ -666,6 +666,24 @@
     "tvdb_id": "12396"
   },
   {
+    "title": "After Hours",
+    "year": 1985,
+    "genres": "Comedy, Thriller",
+    "studio": "Double Play",
+    "plot": "A meek word processor in New York impulsively travels downtown to Soho for a date with an attractive, but apparently disturbed, young woman, and finds himself trapped in a nightmarishly surreal vortex of improbable coincidences and farcical circumstances.",
+    "cast": "Griffin Dunne, Rosanna Arquette, Verna Bloom",
+    "original_air_date": "1985-08-16",
+    "runtime_minutes": 97,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 23162,
+    "added_at": "2026-02-18",
+    "media_type": "movie",
+    "tmdb_id": "10843",
+    "imdb_id": "tt0088680",
+    "tvdb_id": "2572"
+  },
+  {
     "title": "After Yang",
     "year": 2022,
     "genres": "Drama, Science Fiction",
@@ -790,6 +808,24 @@
     "tmdb_id": "813",
     "imdb_id": "tt0080339",
     "tvdb_id": "406"
+  },
+  {
+    "title": "Akira",
+    "year": 1988,
+    "genres": "Science Fiction, Animation",
+    "studio": "MBS",
+    "plot": "A secret military project endangers Neo-Tokyo when it turns a teenage biker gang member into a rampaging psychic psychopath who can only be stopped by his best friend.",
+    "cast": "Mitsuo Iwata, Nozomu Sasaki, Mami Koyama",
+    "original_air_date": "1988-07-16",
+    "runtime_minutes": 124,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 23171,
+    "added_at": "2026-02-18",
+    "media_type": "movie",
+    "tmdb_id": "149",
+    "imdb_id": "tt0094625",
+    "tvdb_id": "1332"
   },
   {
     "title": "Alien",
@@ -20268,6 +20304,24 @@
     "tvdb_id": "41517"
   },
   {
+    "title": "Paris, Texas",
+    "year": 1984,
+    "genres": "Drama",
+    "studio": "Road Movies",
+    "plot": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
+    "cast": "Harry Dean Stanton, Nastassja Kinski, Dean Stockwell",
+    "original_air_date": "1984-08-23",
+    "runtime_minutes": 144,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 23160,
+    "added_at": "2026-02-18",
+    "media_type": "movie",
+    "tmdb_id": "655",
+    "imdb_id": "tt0087884",
+    "tvdb_id": "3565"
+  },
+  {
     "title": "The Passenger",
     "year": 2023,
     "genres": "Thriller, Drama",
@@ -21351,7 +21405,7 @@
     "title": "Prince of Darkness",
     "year": 1987,
     "genres": "Horror, Fantasy",
-    "studio": "Universal Pictures",
+    "studio": "Alive Films",
     "plot": "A group of graduate students and scientists uncover an ancient canister in an abandoned church, but when they open the container, they inadvertently unleash a strange liquid and an evil force on all humanity.",
     "cast": "Donald Pleasence, Lisa Blount, Victor Wong Chi-Keung",
     "original_air_date": "1987-10-23",
@@ -25362,6 +25416,24 @@
     "tvdb_id": "10087"
   },
   {
+    "title": "Sorry to Bother You",
+    "year": 2018,
+    "genres": "Science Fiction, Comedy",
+    "studio": "Cinereach",
+    "plot": "In an alternate present-day version of Oakland, telemarketer Cassius Green discovers a magical key to professional success, propelling him into a universe of greed.",
+    "cast": "LaKeith Stanfield, Tessa Thompson, Jermaine Fowler",
+    "original_air_date": "2018-07-13",
+    "runtime_minutes": 110,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 23163,
+    "added_at": "2026-02-18",
+    "media_type": "movie",
+    "tmdb_id": "424781",
+    "imdb_id": "tt5688932",
+    "tvdb_id": "961"
+  },
+  {
     "title": "Sorry, Baby",
     "year": 2025,
     "genres": "Drama, Comedy",
@@ -26602,6 +26674,24 @@
     "tmdb_id": "37563",
     "imdb_id": "tt0115940",
     "tvdb_id": "23380"
+  },
+  {
+    "title": "Sunset Boulevard",
+    "year": 1950,
+    "genres": "Drama, Film-Noir",
+    "studio": "Paramount Pictures",
+    "plot": "Desperate for cash, screenwriter Joe Gillis has a chance meeting with a faded silent film star. Norma Desmond lives in her crumbling Sunset Boulevard mansion with only her butler to keep her company. She has become a sad demented recluse convinced that the outside world is clamoring for her dramatic return. Enticing him with the prospect of script work she puts him up in her mansion and he becomes ever more involved and entangled in her life.",
+    "cast": "William Holden, Gloria Swanson, Erich von Stroheim",
+    "original_air_date": "1950-08-04",
+    "runtime_minutes": 110,
+    "content_rating": "Passed",
+    "plex_rating": "",
+    "plex_guid": 23159,
+    "added_at": "2026-02-18",
+    "media_type": "movie",
+    "tmdb_id": "599",
+    "imdb_id": "tt0043014",
+    "tvdb_id": "2351"
   },
   {
     "title": "Sunshine",
@@ -29122,6 +29212,24 @@
     "tmdb_id": "1808",
     "imdb_id": "tt0120879",
     "tvdb_id": "5894"
+  },
+  {
+    "title": "Vertigo",
+    "year": 1958,
+    "genres": "Mystery, Romance",
+    "studio": "Paramount Pictures",
+    "plot": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+    "cast": "James Stewart, Kim Novak, Barbara Bel Geddes",
+    "original_air_date": "1958-05-28",
+    "runtime_minutes": 119,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 23161,
+    "added_at": "2026-02-18",
+    "media_type": "movie",
+    "tmdb_id": "426",
+    "imdb_id": "tt0052357",
+    "tvdb_id": "1385"
   },
   {
     "title": "A Very Brady Sequel",
