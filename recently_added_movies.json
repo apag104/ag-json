@@ -2214,6 +2214,24 @@
     "tvdb_id": "2290"
   },
   {
+    "title": "Backcountry",
+    "year": 2015,
+    "genres": "Drama, Horror",
+    "studio": "Fella Films",
+    "plot": "An urban couple goes camping in the woods and find themselves lost in the territory of a predatory black bear.",
+    "cast": "Missy Peregrym, Jeff Roop, Eric Balfour",
+    "original_air_date": "2015-03-20",
+    "runtime_minutes": 88,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 23503,
+    "added_at": "2026-03-04",
+    "media_type": "movie",
+    "tmdb_id": "228973",
+    "imdb_id": "tt2944198",
+    "tvdb_id": "7178"
+  },
+  {
     "title": "Bad Day at Black Rock",
     "year": 1955,
     "genres": "Mystery, Crime",
@@ -21904,6 +21922,24 @@
     "tmdb_id": "458342",
     "imdb_id": "tt5536610",
     "tvdb_id": "11968"
+  },
+  {
+    "title": "A Private Life",
+    "year": 2025,
+    "genres": "Crime, Drama",
+    "studio": "Les Films Velvet",
+    "plot": "The renowned psychiatrist Lilian Steiner mounts a private investigation into the death of one of her patients, whom she is convinced has been murdered.",
+    "cast": "Jodie Foster, Daniel Auteuil, Virginie Efira",
+    "original_air_date": "2025-11-26",
+    "runtime_minutes": 107,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 23496,
+    "added_at": "2026-03-03",
+    "media_type": "movie",
+    "tmdb_id": "1290432",
+    "imdb_id": "tt33852162",
+    "tvdb_id": "363646"
   },
   {
     "title": "Project X",
