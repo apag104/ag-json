@@ -6282,6 +6282,24 @@
     "tvdb_id": "14298"
   },
   {
+    "title": "Crouching Tiger, Hidden Dragon",
+    "year": 2000,
+    "genres": "Action, Adventure",
+    "studio": "Sony Pictures Classics",
+    "plot": "A young Chinese warrior steals a sword from a famed swordsman and then escapes into a world of romantic adventure with a mysterious man in the frontier of the nation.",
+    "cast": "Chow Yun-Fat, Michelle Yeoh, Zhang Ziyi",
+    "original_air_date": "2000-07-06",
+    "runtime_minutes": 120,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 23512,
+    "added_at": "2026-03-04",
+    "media_type": "movie",
+    "tmdb_id": "146",
+    "imdb_id": "tt0190332",
+    "tvdb_id": "2046"
+  },
+  {
     "title": "The Crow",
     "year": 1994,
     "genres": "Fantasy, Action",
@@ -8692,6 +8710,24 @@
     "tmdb_id": "614934",
     "imdb_id": "tt3704428",
     "tvdb_id": "134446"
+  },
+  {
+    "title": "The Empire",
+    "year": 2024,
+    "genres": "Comedy, Science Fiction",
+    "studio": "Tessalit Productions",
+    "plot": "A small village of Northern France is the battleground of undercover extraterrestrial knights.",
+    "cast": "Lyna Khoudri, Anamaria Vartolomei, Camille Cottin",
+    "original_air_date": "2024-02-21",
+    "runtime_minutes": 110,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 23516,
+    "added_at": "2026-03-04",
+    "media_type": "movie",
+    "tmdb_id": "929831",
+    "imdb_id": "tt17375596",
+    "tvdb_id": "350721"
   },
   {
     "title": "The Empty Man",
@@ -15390,6 +15426,24 @@
     "tvdb_id": "141472"
   },
   {
+    "title": "Kids",
+    "year": 1995,
+    "genres": "Drama, Crime",
+    "studio": "The Guys Upstairs",
+    "plot": "A day in the life of a group of teens as they travel around New York City skating, drinking, smoking and deflowering virgins.",
+    "cast": "Leo Fitzpatrick, Justin Pierce, Chloë Sevigny",
+    "original_air_date": "1995-09-01",
+    "runtime_minutes": 91,
+    "content_rating": "NC-17",
+    "plex_rating": "",
+    "plex_guid": 23510,
+    "added_at": "2026-03-04",
+    "media_type": "movie",
+    "tmdb_id": "9344",
+    "imdb_id": "tt0113540",
+    "tvdb_id": "7643"
+  },
+  {
     "title": "Kill Bill the Whole Bloody Affair",
     "year": 2011,
     "genres": "",
@@ -20525,7 +20579,7 @@
     "genres": "Horror, Mystery",
     "studio": "Cruise/Wagner Productions",
     "plot": "In 1945, immediately following the end of Second World War, a woman who lives with her two photosensitive children on her darkened old family estate in the Channel Islands becomes convinced that the home is haunted.",
-    "cast": "Nicole Kidman, Alakina Mann, Fionnula Flanagan",
+    "cast": "Nicole Kidman, Alakina Mann, James Bentley",
     "original_air_date": "2001-08-02",
     "runtime_minutes": 104,
     "content_rating": "PG-13",
