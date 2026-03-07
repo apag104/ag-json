@@ -342,6 +342,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/The+36th+Chamber+of+Shaolin+1978/"
   },
   {
+    "title": "42",
+    "year": 2013,
+    "genres": "Drama, Biography",
+    "studio": "Legendary Pictures",
+    "plot": "In 1947, Jackie Robinson becomes the first African-American to play in Major League Baseball in the modern era when he was signed by the Brooklyn Dodgers and faces considerable racism in the process.",
+    "cast": "Chadwick Boseman, Harrison Ford, Nicole Beharie",
+    "original_air_date": "2013-04-12",
+    "runtime_minutes": 128,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 23625,
+    "added_at": "2026-03-06",
+    "media_type": "movie",
+    "tmdb_id": "109410",
+    "imdb_id": "tt0453562",
+    "tvdb_id": "4168",
+    "letterboxd_url": "https://letterboxd.com/search/films/42+2013/"
+  },
+  {
     "title": "1917",
     "year": 2019,
     "genres": "Drama, War",
