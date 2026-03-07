@@ -15,7 +15,8 @@
     "media_type": "tv",
     "tmdb_id": "155",
     "imdb_id": "tt0115082",
-    "tvdb_id": "72389"
+    "tvdb_id": "72389",
+    "letterboxd_slug": "3rd-rock-from-the-sun"
   },
   {
     "title": "30 Rock",
@@ -33,7 +34,8 @@
     "media_type": "tv",
     "tmdb_id": "4608",
     "imdb_id": "tt0496424",
-    "tvdb_id": "79488"
+    "tvdb_id": "79488",
+    "letterboxd_slug": "30-rock"
   },
   {
     "title": "Adolescence",
@@ -51,7 +53,8 @@
     "media_type": "tv",
     "tmdb_id": "249042",
     "imdb_id": "tt31806037",
-    "tvdb_id": "452467"
+    "tvdb_id": "452467",
+    "letterboxd_slug": "adolescence"
   },
   {
     "title": "Alien: Earth",
@@ -69,7 +72,8 @@
     "media_type": "tv",
     "tmdb_id": "157239",
     "imdb_id": "tt13623632",
-    "tvdb_id": "458912"
+    "tvdb_id": "458912",
+    "letterboxd_slug": "alien-earth"
   },
   {
     "title": "All Her Fault",
@@ -87,7 +91,8 @@
     "media_type": "tv",
     "tmdb_id": "246386",
     "imdb_id": "tt31314751",
-    "tvdb_id": "446149"
+    "tvdb_id": "446149",
+    "letterboxd_slug": "all-her-fault"
   },
   {
     "title": "American Vandal",
@@ -105,7 +110,8 @@
     "media_type": "tv",
     "tmdb_id": "73126",
     "imdb_id": "tt6877772",
-    "tvdb_id": "332828"
+    "tvdb_id": "332828",
+    "letterboxd_slug": "american-vandal"
   },
   {
     "title": "Andor",
@@ -123,7 +129,8 @@
     "media_type": "tv",
     "tmdb_id": "83867",
     "imdb_id": "tt9253284",
-    "tvdb_id": "393189"
+    "tvdb_id": "393189",
+    "letterboxd_slug": "andor"
   },
   {
     "title": "Arthur",
@@ -141,7 +148,8 @@
     "media_type": "tv",
     "tmdb_id": "2153",
     "imdb_id": "tt0169414",
-    "tvdb_id": "74678"
+    "tvdb_id": "74678",
+    "letterboxd_slug": "arthur"
   },
   {
     "title": "Baby Reindeer",
@@ -159,7 +167,8 @@
     "media_type": "tv",
     "tmdb_id": "241259",
     "imdb_id": "tt13649112",
-    "tvdb_id": "417223"
+    "tvdb_id": "417223",
+    "letterboxd_slug": "baby-reindeer"
   },
   {
     "title": "Bad Sisters",
@@ -177,7 +186,8 @@
     "media_type": "tv",
     "tmdb_id": "199318",
     "imdb_id": "tt15469618",
-    "tvdb_id": "418182"
+    "tvdb_id": "418182",
+    "letterboxd_slug": "bad-sisters"
   },
   {
     "title": "Baskets",
@@ -195,7 +205,8 @@
     "media_type": "tv",
     "tmdb_id": "64551",
     "imdb_id": "tt3468798",
-    "tvdb_id": "303069"
+    "tvdb_id": "303069",
+    "letterboxd_slug": "baskets"
   },
   {
     "title": "Black Mirror",
@@ -213,7 +224,8 @@
     "media_type": "tv",
     "tmdb_id": "42009",
     "imdb_id": "tt2085059",
-    "tvdb_id": "253463"
+    "tvdb_id": "253463",
+    "letterboxd_slug": "black-mirror"
   },
   {
     "title": "BoJack Horseman",
@@ -231,7 +243,8 @@
     "media_type": "tv",
     "tmdb_id": "61222",
     "imdb_id": "tt3398228",
-    "tvdb_id": "282254"
+    "tvdb_id": "282254",
+    "letterboxd_slug": "bojack-horseman"
   },
   {
     "title": "Brass Eye",
@@ -249,7 +262,8 @@
     "media_type": "tv",
     "tmdb_id": "63",
     "imdb_id": "tt0118273",
-    "tvdb_id": "70679"
+    "tvdb_id": "70679",
+    "letterboxd_slug": "brass-eye"
   },
   {
     "title": "Carol & the End of the World",
@@ -267,7 +281,8 @@
     "media_type": "tv",
     "tmdb_id": "238151",
     "imdb_id": "tt29629770",
-    "tvdb_id": "441397"
+    "tvdb_id": "441397",
+    "letterboxd_slug": "carol-the-end-of-the-world"
   },
   {
     "title": "The Chair Company",
@@ -285,7 +300,8 @@
     "media_type": "tv",
     "tmdb_id": "271267",
     "imdb_id": "tt31987295",
-    "tvdb_id": "454397"
+    "tvdb_id": "454397",
+    "letterboxd_slug": "the-chair-company"
   },
   {
     "title": "The Curse",
@@ -303,7 +319,8 @@
     "media_type": "tv",
     "tmdb_id": "114655",
     "imdb_id": "tt13623608",
-    "tvdb_id": "377278"
+    "tvdb_id": "377278",
+    "letterboxd_slug": "the-curse"
   },
   {
     "title": "Daredevil: Born Again",
@@ -321,7 +338,8 @@
     "media_type": "tv",
     "tmdb_id": "202555",
     "imdb_id": "tt18923754",
-    "tvdb_id": "422712"
+    "tvdb_id": "422712",
+    "letterboxd_slug": "daredevil-born-again"
   },
   {
     "title": "Daria",
@@ -339,7 +357,8 @@
     "media_type": "tv",
     "tmdb_id": "2131",
     "imdb_id": "tt0118298",
-    "tvdb_id": "77996"
+    "tvdb_id": "77996",
+    "letterboxd_slug": "daria"
   },
   {
     "title": "The Dark Crystal: Age of Resistance",
@@ -357,7 +376,8 @@
     "media_type": "tv",
     "tmdb_id": "71809",
     "imdb_id": "tt6905542",
-    "tvdb_id": "361549"
+    "tvdb_id": "361549",
+    "letterboxd_slug": "the-dark-crystal-age-of-resistance"
   },
   {
     "title": "The Day Today",
@@ -375,7 +395,8 @@
     "media_type": "tv",
     "tmdb_id": "2759",
     "imdb_id": "tt0108740",
-    "tvdb_id": "70360"
+    "tvdb_id": "70360",
+    "letterboxd_slug": "the-day-today"
   },
   {
     "title": "Detroiters",
@@ -393,7 +414,8 @@
     "media_type": "tv",
     "tmdb_id": "69866",
     "imdb_id": "tt4779762",
-    "tvdb_id": "320196"
+    "tvdb_id": "320196",
+    "letterboxd_slug": "detroiters"
   },
   {
     "title": "The Drew Carey Show",
@@ -411,7 +433,8 @@
     "media_type": "tv",
     "tmdb_id": "97",
     "imdb_id": "tt0111945",
-    "tvdb_id": "71355"
+    "tvdb_id": "71355",
+    "letterboxd_slug": "the-drew-carey-show"
   },
   {
     "title": "Ed, Edd n Eddy",
@@ -429,7 +452,8 @@
     "media_type": "tv",
     "tmdb_id": "606",
     "imdb_id": "tt0184111",
-    "tvdb_id": "77466"
+    "tvdb_id": "77466",
+    "letterboxd_slug": "ed-edd-n-eddy"
   },
   {
     "title": "Fallout",
@@ -447,7 +471,8 @@
     "media_type": "tv",
     "tmdb_id": "106379",
     "imdb_id": "tt12637874",
-    "tvdb_id": "416744"
+    "tvdb_id": "416744",
+    "letterboxd_slug": "fallout"
   },
   {
     "title": "For All Mankind",
@@ -465,7 +490,8 @@
     "media_type": "tv",
     "tmdb_id": "87917",
     "imdb_id": "tt7772588",
-    "tvdb_id": "356202"
+    "tvdb_id": "356202",
+    "letterboxd_slug": "for-all-mankind"
   },
   {
     "title": "Freaks and Geeks",
@@ -483,7 +509,8 @@
     "media_type": "tv",
     "tmdb_id": "2382",
     "imdb_id": "tt0193676",
-    "tvdb_id": "76321"
+    "tvdb_id": "76321",
+    "letterboxd_slug": "freaks-and-geeks"
   },
   {
     "title": "The Good Lord Bird",
@@ -501,7 +528,8 @@
     "media_type": "tv",
     "tmdb_id": "87523",
     "imdb_id": "tt3673480",
-    "tvdb_id": "367633"
+    "tvdb_id": "367633",
+    "letterboxd_slug": "the-good-lord-bird"
   },
   {
     "title": "Heated Rivalry",
@@ -519,7 +547,8 @@
     "media_type": "tv",
     "tmdb_id": "301507",
     "imdb_id": "tt35495073",
-    "tvdb_id": "464461"
+    "tvdb_id": "464461",
+    "letterboxd_slug": "heated-rivalry"
   },
   {
     "title": "Hey Arnold!",
@@ -537,7 +566,8 @@
     "media_type": "tv",
     "tmdb_id": "537",
     "imdb_id": "tt0115200",
-    "tvdb_id": "72005"
+    "tvdb_id": "72005",
+    "letterboxd_slug": "hey-arnold"
   },
   {
     "title": "The Honeymooners",
@@ -555,7 +585,8 @@
     "media_type": "tv",
     "tmdb_id": "4439",
     "imdb_id": "tt0042114",
-    "tvdb_id": "73923"
+    "tvdb_id": "73923",
+    "letterboxd_slug": "the-honeymooners"
   },
   {
     "title": "I Think You Should Leave with Tim Robinson",
@@ -573,7 +604,8 @@
     "media_type": "tv",
     "tmdb_id": "88728",
     "imdb_id": "tt10050772",
-    "tvdb_id": "362753"
+    "tvdb_id": "362753",
+    "letterboxd_slug": "i-think-you-should-leave-with-tim-robinson"
   },
   {
     "title": "I'm Alan Partridge",
@@ -591,7 +623,8 @@
     "media_type": "tv",
     "tmdb_id": "1073",
     "imdb_id": "tt0129690",
-    "tvdb_id": "76605"
+    "tvdb_id": "76605",
+    "letterboxd_slug": "im-alan-partridge"
   },
   {
     "title": "In Living Color",
@@ -609,7 +642,8 @@
     "media_type": "tv",
     "tmdb_id": "4415",
     "imdb_id": "tt0098830",
-    "tvdb_id": "78441"
+    "tvdb_id": "78441",
+    "letterboxd_slug": "in-living-color"
   },
   {
     "title": "Invader ZIM",
@@ -627,7 +661,8 @@
     "media_type": "tv",
     "tmdb_id": "3793",
     "imdb_id": "tt0235923",
-    "tvdb_id": "75545"
+    "tvdb_id": "75545",
+    "letterboxd_slug": "invader-zim"
   },
   {
     "title": "IT: Welcome to Derry",
@@ -645,7 +680,8 @@
     "media_type": "tv",
     "tmdb_id": "200875",
     "imdb_id": "tt19244304",
-    "tvdb_id": "418424"
+    "tvdb_id": "418424",
+    "letterboxd_slug": "it-welcome-to-derry"
   },
   {
     "title": "Joe Pera Talks with You",
@@ -663,7 +699,8 @@
     "media_type": "tv",
     "tmdb_id": "79864",
     "imdb_id": "tt8199790",
-    "tvdb_id": "347590"
+    "tvdb_id": "347590",
+    "letterboxd_slug": "joe-pera-talks-with-you"
   },
   {
     "title": "Keeping Up Appearances",
@@ -681,7 +718,8 @@
     "media_type": "tv",
     "tmdb_id": "34",
     "imdb_id": "tt0098837",
-    "tvdb_id": "78079"
+    "tvdb_id": "78079",
+    "letterboxd_slug": "keeping-up-appearances"
   },
   {
     "title": "A Knight of the Seven Kingdoms",
@@ -699,7 +737,8 @@
     "media_type": "tv",
     "tmdb_id": "224372",
     "imdb_id": "tt27497448",
-    "tvdb_id": "433631"
+    "tvdb_id": "433631",
+    "letterboxd_slug": "a-knight-of-the-seven-kingdoms"
   },
   {
     "title": "LGM",
@@ -717,7 +756,8 @@
     "media_type": "tv",
     "tmdb_id": "",
     "imdb_id": "",
-    "tvdb_id": ""
+    "tvdb_id": "",
+    "letterboxd_slug": "lgm"
   },
   {
     "title": "Long Story Short",
@@ -735,7 +775,8 @@
     "media_type": "tv",
     "tmdb_id": "262375",
     "imdb_id": "tt33247080",
-    "tvdb_id": "453650"
+    "tvdb_id": "453650",
+    "letterboxd_slug": "long-story-short"
   },
   {
     "title": "Malcolm in the Middle",
@@ -753,7 +794,8 @@
     "media_type": "tv",
     "tmdb_id": "2004",
     "imdb_id": "tt0212671",
-    "tvdb_id": "73838"
+    "tvdb_id": "73838",
+    "letterboxd_slug": "malcolm-in-the-middle"
   },
   {
     "title": "Man Seeking Woman",
@@ -771,7 +813,8 @@
     "media_type": "tv",
     "tmdb_id": "61871",
     "imdb_id": "tt4189492",
-    "tvdb_id": "283346"
+    "tvdb_id": "283346",
+    "letterboxd_slug": "man-seeking-woman"
   },
   {
     "title": "Marvel's Daredevil",
@@ -789,7 +832,8 @@
     "media_type": "tv",
     "tmdb_id": "61889",
     "imdb_id": "tt3322312",
-    "tvdb_id": "281662"
+    "tvdb_id": "281662",
+    "letterboxd_slug": "marvels-daredevil"
   },
   {
     "title": "The Mighty Nein",
@@ -807,7 +851,8 @@
     "media_type": "tv",
     "tmdb_id": "219080",
     "imdb_id": "tt26453092",
-    "tvdb_id": "430243"
+    "tvdb_id": "430243",
+    "letterboxd_slug": "the-mighty-nein"
   },
   {
     "title": "Neon Genesis Evangelion",
@@ -825,7 +870,8 @@
     "media_type": "tv",
     "tmdb_id": "890",
     "imdb_id": "tt0112159",
-    "tvdb_id": "70350"
+    "tvdb_id": "70350",
+    "letterboxd_slug": "neon-genesis-evangelion"
   },
   {
     "title": "Nirvanna the Band the Show (2017)",
@@ -843,7 +889,8 @@
     "media_type": "tv",
     "tmdb_id": "69900",
     "imdb_id": "tt5978570",
-    "tvdb_id": "322992"
+    "tvdb_id": "322992",
+    "letterboxd_slug": "nirvanna-the-band-the-show-2017"
   },
   {
     "title": "Over the Garden Wall",
@@ -861,7 +908,8 @@
     "media_type": "tv",
     "tmdb_id": "61617",
     "imdb_id": "tt3718778",
-    "tvdb_id": "281643"
+    "tvdb_id": "281643",
+    "letterboxd_slug": "over-the-garden-wall"
   },
   {
     "title": "Pantheon",
@@ -879,7 +927,8 @@
     "media_type": "tv",
     "tmdb_id": "195339",
     "imdb_id": "tt11680642",
-    "tvdb_id": "417208"
+    "tvdb_id": "417208",
+    "letterboxd_slug": "pantheon"
   },
   {
     "title": "Parks and Recreation",
@@ -897,7 +946,8 @@
     "media_type": "tv",
     "tmdb_id": "8592",
     "imdb_id": "tt1266020",
-    "tvdb_id": "84912"
+    "tvdb_id": "84912",
+    "letterboxd_slug": "parks-and-recreation"
   },
   {
     "title": "Peacemaker",
@@ -915,7 +965,8 @@
     "media_type": "tv",
     "tmdb_id": "110492",
     "imdb_id": "tt13146488",
-    "tvdb_id": "391153"
+    "tvdb_id": "391153",
+    "letterboxd_slug": "peacemaker"
   },
   {
     "title": "PEN15",
@@ -933,7 +984,8 @@
     "media_type": "tv",
     "tmdb_id": "85702",
     "imdb_id": "tt8324422",
-    "tvdb_id": "348127"
+    "tvdb_id": "348127",
+    "letterboxd_slug": "pen15"
   },
   {
     "title": "The Pitt",
@@ -951,7 +1003,8 @@
     "media_type": "tv",
     "tmdb_id": "250307",
     "imdb_id": "tt31938062",
-    "tvdb_id": "448176"
+    "tvdb_id": "448176",
+    "letterboxd_slug": "the-pitt"
   },
   {
     "title": "PLUR1BUS",
@@ -969,7 +1022,8 @@
     "media_type": "tv",
     "tmdb_id": "225171",
     "imdb_id": "tt22202452",
-    "tvdb_id": "436457"
+    "tvdb_id": "436457",
+    "letterboxd_slug": "plur1bus"
   },
   {
     "title": "Police Squad!",
@@ -987,7 +1041,8 @@
     "media_type": "tv",
     "tmdb_id": "6024",
     "imdb_id": "tt0083466",
-    "tvdb_id": "77190"
+    "tvdb_id": "77190",
+    "letterboxd_slug": "police-squad"
   },
   {
     "title": "Pushing Daisies",
@@ -1005,7 +1060,8 @@
     "media_type": "tv",
     "tmdb_id": "5639",
     "imdb_id": "tt0925266",
-    "tvdb_id": "80351"
+    "tvdb_id": "80351",
+    "letterboxd_slug": "pushing-daisies"
   },
   {
     "title": "Reality Check: Inside America's Next Top Model",
@@ -1023,7 +1079,8 @@
     "media_type": "tv",
     "tmdb_id": "312423",
     "imdb_id": "",
-    "tvdb_id": "473211"
+    "tvdb_id": "473211",
+    "letterboxd_slug": "reality-check-inside-americas-next-top-model"
   },
   {
     "title": "The Rehearsal",
@@ -1041,7 +1098,8 @@
     "media_type": "tv",
     "tmdb_id": "204284",
     "imdb_id": "tt10802170",
-    "tvdb_id": "405593"
+    "tvdb_id": "405593",
+    "letterboxd_slug": "the-rehearsal"
   },
   {
     "title": "Review",
@@ -1059,7 +1117,8 @@
     "media_type": "tv",
     "tmdb_id": "62611",
     "imdb_id": "tt2141913",
-    "tvdb_id": "276148"
+    "tvdb_id": "276148",
+    "letterboxd_slug": "review"
   },
   {
     "title": "Scavengers Reign",
@@ -1077,7 +1136,8 @@
     "media_type": "tv",
     "tmdb_id": "204154",
     "imdb_id": "tt21056886",
-    "tvdb_id": "421287"
+    "tvdb_id": "421287",
+    "letterboxd_slug": "scavengers-reign"
   },
   {
     "title": "Scrubs",
@@ -1095,7 +1155,8 @@
     "media_type": "tv",
     "tmdb_id": "4556",
     "imdb_id": "tt0285403",
-    "tvdb_id": "76156"
+    "tvdb_id": "76156",
+    "letterboxd_slug": "scrubs"
   },
   {
     "title": "Scrubs (2026)",
@@ -1113,7 +1174,8 @@
     "media_type": "tv",
     "tmdb_id": "295778",
     "imdb_id": "tt37017338",
-    "tvdb_id": "465690"
+    "tvdb_id": "465690",
+    "letterboxd_slug": "scrubs-2026"
   },
   {
     "title": "Severance",
@@ -1131,7 +1193,8 @@
     "media_type": "tv",
     "tmdb_id": "95396",
     "imdb_id": "tt11280740",
-    "tvdb_id": "371980"
+    "tvdb_id": "371980",
+    "letterboxd_slug": "severance"
   },
   {
     "title": "Silo",
@@ -1149,7 +1212,8 @@
     "media_type": "tv",
     "tmdb_id": "125988",
     "imdb_id": "tt14688458",
-    "tvdb_id": "403245"
+    "tvdb_id": "403245",
+    "letterboxd_slug": "silo"
   },
   {
     "title": "Smiling Friends",
@@ -1167,7 +1231,8 @@
     "media_type": "tv",
     "tmdb_id": "126506",
     "imdb_id": "tt12074628",
-    "tvdb_id": "379403"
+    "tvdb_id": "379403",
+    "letterboxd_slug": "smiling-friends"
   },
   {
     "title": "The Studio (2025)",
@@ -1185,7 +1250,8 @@
     "media_type": "tv",
     "tmdb_id": "247767",
     "imdb_id": "tt23649128",
-    "tvdb_id": "448147"
+    "tvdb_id": "448147",
+    "letterboxd_slug": "the-studio-2025"
   },
   {
     "title": "Summer Camp Island",
@@ -1203,7 +1269,8 @@
     "media_type": "tv",
     "tmdb_id": "81665",
     "imdb_id": "tt8146760",
-    "tvdb_id": "338738"
+    "tvdb_id": "338738",
+    "letterboxd_slug": "summer-camp-island"
   },
   {
     "title": "ted",
@@ -1221,7 +1288,8 @@
     "media_type": "tv",
     "tmdb_id": "201834",
     "imdb_id": "tt14824792",
-    "tvdb_id": "404604"
+    "tvdb_id": "404604",
+    "letterboxd_slug": "ted"
   },
   {
     "title": "Twin Peaks",
@@ -1239,7 +1307,8 @@
     "media_type": "tv",
     "tmdb_id": "1920",
     "imdb_id": "tt0098936",
-    "tvdb_id": "70533"
+    "tvdb_id": "70533",
+    "letterboxd_slug": "twin-peaks"
   },
   {
     "title": "X-Men '97",
@@ -1257,6 +1326,7 @@
     "media_type": "tv",
     "tmdb_id": "138502",
     "imdb_id": "tt16026746",
-    "tvdb_id": "412432"
+    "tvdb_id": "412432",
+    "letterboxd_slug": "x-men-97"
   }
 ]
