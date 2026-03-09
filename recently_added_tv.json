@@ -608,6 +608,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/I+Think+You+Should+Leave+with+Tim+Robinson+2019/"
   },
   {
+    "title": "I'm a Virgo",
+    "year": 2023,
+    "genres": "Comedy, Drama",
+    "studio": "Media Res",
+    "plot": "The coming-of-age joyride of Cootie, a 13-foot-tall man who escapes to experience the beauty and contradictions of the real world. He forms friendships, finds love, navigates awkward situations, and encounters his idol, The Hero.",
+    "cast": "Jharrel Jerome, Brett Gray, Kara Young",
+    "original_air_date": "2023-06-23",
+    "runtime_minutes": 211,
+    "content_rating": "TV-14",
+    "plex_rating": "",
+    "plex_guid": 24335,
+    "added_at": "2026-03-08",
+    "media_type": "tv",
+    "tmdb_id": "105169",
+    "imdb_id": "tt13649510",
+    "tvdb_id": "393446",
+    "letterboxd_url": "https://letterboxd.com/search/films/I'm+a+Virgo+2023/"
+  },
+  {
     "title": "I'm Alan Partridge",
     "year": 1997,
     "genres": "Comedy",
@@ -663,6 +682,25 @@
     "imdb_id": "tt0235923",
     "tvdb_id": "75545",
     "letterboxd_url": "https://letterboxd.com/search/films/Invader+ZIM+2001/"
+  },
+  {
+    "title": "Invincible (2021)",
+    "year": 2021,
+    "genres": "Animation, Drama",
+    "studio": "Amazon Studios",
+    "plot": "The son of Earth's most powerful superhero is about to become something greater than himself: something bold, something universal, something - Invincible. From the comics to the screen, Invincible follows Mark Grayson's journey of becoming Earth's next great defender after his father, Nolan Grayson: also known as Omni-Man.",
+    "cast": "Steven Yeun, Sandra Oh, J.K. Simmons",
+    "original_air_date": "2021-03-25",
+    "runtime_minutes": 50,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 24263,
+    "added_at": "2026-03-08",
+    "media_type": "tv",
+    "tmdb_id": "95557",
+    "imdb_id": "tt6741278",
+    "tvdb_id": "368207",
+    "letterboxd_url": "https://letterboxd.com/search/films/Invincible+(2021)+2021/"
   },
   {
     "title": "IT: Welcome to Derry",
