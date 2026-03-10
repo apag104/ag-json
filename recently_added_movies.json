@@ -17879,6 +17879,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/The+Living+Daylights+1987/"
   },
   {
+    "title": "The Lizzie McGuire Movie",
+    "year": 2003,
+    "genres": "Comedy, Adventure",
+    "studio": "Teen Life Productions",
+    "plot": "Lizzie McGuire has graduated from middle school and takes a trip to Rome, Italy with her class. And what was supposed to be only a normal trip, becomes a teenager's dream come true.",
+    "cast": "Hilary Duff, Adam Lamberg, Yani Gellman",
+    "original_air_date": "2003-05-02",
+    "runtime_minutes": 93,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 24360,
+    "added_at": "2026-03-09",
+    "media_type": "movie",
+    "tmdb_id": "18736",
+    "imdb_id": "tt0306841",
+    "tvdb_id": "3538",
+    "letterboxd_url": "https://letterboxd.com/search/films/The+Lizzie+McGuire+Movie+2003/"
+  },
+  {
     "title": "The Lobster",
     "year": 2015,
     "genres": "Comedy, Thriller",
@@ -19948,6 +19967,25 @@
     "imdb_id": "tt1748122",
     "tvdb_id": "1587",
     "letterboxd_url": "https://letterboxd.com/search/films/Moonrise+Kingdom+2012/"
+  },
+  {
+    "title": "Morgiana",
+    "year": 1972,
+    "genres": "Drama, Crime",
+    "studio": "Filmové studio Barrandov",
+    "plot": "When their wealthy father dies, his daughters Viktoria and Klára inherit his fortune. The evil Viktoria inherits a small castle and all the possession inside including jewelry but the naive Klára inherits most of his assets. Viktoria plots to poison her sister with an undetectable liquid to inherit her fortune. Klára feels sick and her doctor cannot diagnose her, while Viktoria meets a blackmailer.",
+    "cast": "Iva Janžurová, Josef Abrhám, Nina Divíšková",
+    "original_air_date": "1972-09-01",
+    "runtime_minutes": 101,
+    "content_rating": "",
+    "plex_rating": "",
+    "plex_guid": 24359,
+    "added_at": "2026-03-09",
+    "media_type": "movie",
+    "tmdb_id": "53186",
+    "imdb_id": "tt0124012",
+    "tvdb_id": "52280",
+    "letterboxd_url": "https://letterboxd.com/search/films/Morgiana+1972/"
   },
   {
     "title": "Mortal Kombat",
