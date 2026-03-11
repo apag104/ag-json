@@ -570,6 +570,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Hey+Arnold!+1996/"
   },
   {
+    "title": "His & Hers (2026)",
+    "year": 2026,
+    "genres": "Drama, Mystery",
+    "studio": "Fifth Season",
+    "plot": "A journalist investigating a murder in her hometown clashes with a suspicious detective. There are two sides to every story, and someone is lying.",
+    "cast": "Tessa Thompson, Jon Bernthal, Pablo Schreiber",
+    "original_air_date": "2026-01-08",
+    "runtime_minutes": 45,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 24375,
+    "added_at": "2026-03-10",
+    "media_type": "tv",
+    "tmdb_id": "259731",
+    "imdb_id": "tt33035373",
+    "tvdb_id": "452521",
+    "letterboxd_url": "https://letterboxd.com/search/films/His+&+Hers+(2026)+2026/"
+  },
+  {
     "title": "The Honeymooners",
     "year": 1955,
     "genres": "Comedy, Family",
@@ -929,6 +948,25 @@
     "imdb_id": "tt5978570",
     "tvdb_id": "322992",
     "letterboxd_url": "https://letterboxd.com/search/films/Nirvanna+the+Band+the+Show+(2017)+2017/"
+  },
+  {
+    "title": "Nobody Wants This",
+    "year": 2024,
+    "genres": "Comedy, Romance",
+    "studio": "3 Arts Entertainment",
+    "plot": "An agnostic sex podcaster and a newly single rabbi fall in love; discovering if their relationship can survive their wildly different lives and meddling families.",
+    "cast": "Kristen Bell, Adam Brody, Justine Lupe",
+    "original_air_date": "2024-09-26",
+    "runtime_minutes": 30,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 24384,
+    "added_at": "2026-03-10",
+    "media_type": "tv",
+    "tmdb_id": "250923",
+    "imdb_id": "tt26933824",
+    "tvdb_id": "450093",
+    "letterboxd_url": "https://letterboxd.com/search/films/Nobody+Wants+This+2024/"
   },
   {
     "title": "Over the Garden Wall",
