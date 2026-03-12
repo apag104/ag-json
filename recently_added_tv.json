@@ -969,6 +969,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Nobody+Wants+This+2024/"
   },
   {
+    "title": "ONE PIECE (2023)",
+    "year": 2023,
+    "genres": "Adventure, Action",
+    "studio": "Tomorrow Studios",
+    "plot": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+    "cast": "Iñaki Godoy, Emily Rudd, Mackenyu",
+    "original_air_date": "2023-08-31",
+    "runtime_minutes": 60,
+    "content_rating": "TV-14",
+    "plex_rating": "",
+    "plex_guid": 24410,
+    "added_at": "2026-03-11",
+    "media_type": "tv",
+    "tmdb_id": "111110",
+    "imdb_id": "tt11737520",
+    "tvdb_id": "392276",
+    "letterboxd_url": "https://letterboxd.com/search/films/ONE+PIECE+(2023)+2023/"
+  },
+  {
     "title": "Over the Garden Wall",
     "year": 2014,
     "genres": "Animation, Family",
