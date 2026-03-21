@@ -3534,6 +3534,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Black+Book+2006/"
   },
   {
+    "title": "The Black Cauldron",
+    "year": 1985,
+    "genres": "Animation, Action",
+    "studio": "Silver Screen Partners II",
+    "plot": "Centuries ago, in the land of Prydain, a young man named Taran is given the task of protecting Hen Wen, a magical oracular pig, who knows the location of the mystical black cauldron. This is not an easy task, for The Evil Horned King will stop at nothing to get the cauldron.",
+    "cast": "Grant Bardsley, Susan Sheridan, John Byner",
+    "original_air_date": "1985-07-24",
+    "runtime_minutes": 80,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 26503,
+    "added_at": "2026-03-20",
+    "media_type": "movie",
+    "tmdb_id": "10957",
+    "imdb_id": "tt0088814",
+    "tvdb_id": "3032",
+    "letterboxd_url": "https://letterboxd.com/search/films/The+Black+Cauldron+1985/"
+  },
+  {
     "title": "Black Christmas",
     "year": 1974,
     "genres": "Horror, Mystery",
