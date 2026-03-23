@@ -15354,7 +15354,7 @@
   {
     "title": "If I Had Legs I'd Kick You",
     "year": 2025,
-    "genres": "Comedy, Drama",
+    "genres": "Drama, Thriller",
     "studio": "A24",
     "plot": "With her life crashing down around her, Linda (Rose Byrne) attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
     "cast": "Rose Byrne, Conan O'Brien, A$AP Rocky",
@@ -29467,6 +29467,25 @@
     "imdb_id": "tt6320628",
     "tvdb_id": "4137",
     "letterboxd_url": "https://letterboxd.com/search/films/Spider-Man:+Far+from+Home+2019/"
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "year": 2017,
+    "genres": "Action, Adventure",
+    "studio": "Marvel Studios",
+    "plot": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+    "cast": "Tom Holland, Michael Keaton, Robert Downey Jr.",
+    "original_air_date": "2017-07-05",
+    "runtime_minutes": 133,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 26608,
+    "added_at": "2026-03-22",
+    "media_type": "movie",
+    "tmdb_id": "315635",
+    "imdb_id": "tt2250912",
+    "tvdb_id": "68",
+    "letterboxd_url": "https://letterboxd.com/search/films/Spider-Man:+Homecoming+2017/"
   },
   {
     "title": "Spider-Man: Into the Spider-Verse",
