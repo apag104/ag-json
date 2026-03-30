@@ -304,6 +304,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/The+Chair+Company+2025/"
   },
   {
+    "title": "The Comeback",
+    "year": 2005,
+    "genres": "Comedy, Drama",
+    "studio": "Warner Bros. Television",
+    "plot": "Valerie Cherish is a D list actress who was an A lister back in the early 90s. Now, she has become unemployed, married, and has a much harder time getting recognized in the Hollywood scene. Valerie is now embarking on making a comeback with a camera crew documenting her trials and triumphs of her journey on doing so.",
+    "cast": "Lisa Kudrow, Laura Silverman, Damian Young",
+    "original_air_date": "2005-06-05",
+    "runtime_minutes": 30,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 26925,
+    "added_at": "2026-03-29",
+    "media_type": "tv",
+    "tmdb_id": "1999",
+    "imdb_id": "tt0434672",
+    "tvdb_id": "75383",
+    "letterboxd_url": "https://letterboxd.com/search/films/The+Comeback+2005/"
+  },
+  {
     "title": "The Curse",
     "year": 2023,
     "genres": "Comedy, Drama",
@@ -1328,6 +1347,25 @@
     "imdb_id": "tt2141913",
     "tvdb_id": "276148",
     "letterboxd_url": "https://letterboxd.com/search/films/Review+2014/"
+  },
+  {
+    "title": "Saturday Night Live UK",
+    "year": 2026,
+    "genres": "Comedy, Music",
+    "studio": "Broadway Video",
+    "plot": "British incarnation of NBC's legendary late-night comedy showcase. Broadcast live each week, this UK version brings the high-wire, anything-can-happen energy that makes 'SNL' a cultural force, now reimagined through a distinctly British lens.",
+    "cast": "Al Nash, Ania Magliano, Annabel Marlow",
+    "original_air_date": "2026-03-21",
+    "runtime_minutes": 62,
+    "content_rating": "",
+    "plex_rating": "",
+    "plex_guid": 26944,
+    "added_at": "2026-03-29",
+    "media_type": "tv",
+    "tmdb_id": "288670",
+    "imdb_id": "tt36505443",
+    "tvdb_id": "462451",
+    "letterboxd_url": "https://letterboxd.com/search/films/Saturday+Night+Live+UK+2026/"
   },
   {
     "title": "Scavengers Reign",
