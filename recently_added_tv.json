@@ -589,6 +589,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Future+Man+2017/"
   },
   {
+    "title": "Garth Marenghi's Darkplace",
+    "year": 2004,
+    "genres": "Comedy, Mystery",
+    "studio": "Channel 4 Television",
+    "plot": "This parody series is an unearthed 80s horror/drama, complete with poor production values, awful dialogue and hilarious violence. The series is set in a Hospital in Romford, which is situated over the gates of Hell.",
+    "cast": "Matthew Holness, Matt Berry, Richard Ayoade",
+    "original_air_date": "2004-01-28",
+    "runtime_minutes": 30,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 27126,
+    "added_at": "2026-04-03",
+    "media_type": "tv",
+    "tmdb_id": "205",
+    "imdb_id": "tt0397150",
+    "tvdb_id": "79554",
+    "letterboxd_url": "https://letterboxd.com/search/films/Garth+Marenghi's+Darkplace+2004/"
+  },
+  {
     "title": "The Good Lord Bird",
     "year": 2020,
     "genres": "Drama, Western",
@@ -1556,6 +1575,25 @@
     "imdb_id": "",
     "tvdb_id": "72860",
     "letterboxd_url": "https://letterboxd.com/search/films/Tom+and+Jerry+1940/"
+  },
+  {
+    "title": "Twin Love",
+    "year": 2023,
+    "genres": "Reality, Romance",
+    "studio": "Amazon Studios",
+    "plot": "Ten sets of twins will be divided into two houses with identical casts, where they will start an intriguing and gripping search for love. The series will discover if their inherent similarities extend to their romantic desires.",
+    "cast": "Brie Garcia, Nikki Garcia, Brittany James",
+    "original_air_date": "2023-11-16",
+    "runtime_minutes": 47,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 27113,
+    "added_at": "2026-04-03",
+    "media_type": "tv",
+    "tmdb_id": "236327",
+    "imdb_id": "tt26941048",
+    "tvdb_id": "431882",
+    "letterboxd_url": "https://letterboxd.com/search/films/Twin+Love+2023/"
   },
   {
     "title": "Twin Peaks",
