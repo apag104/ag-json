@@ -95,6 +95,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/All+Her+Fault+2025/"
   },
   {
+    "title": "The Amazing Spider-Man",
+    "year": 1977,
+    "genres": "Action, Adventure",
+    "studio": "Danchuk Productions",
+    "plot": "Peter Parker has a laboratory accident that changes his life. He finds himself with greatly increased strength, the ability to stick to walls to climb them without needing hand and footholds and a \"spider-sense\" (presented in this series as clairvoyance) that allows him to sense danger. Designing a costume and a webshooter that allows him to fire a strong artificial web, he fights crimes as Spider-Man.",
+    "cast": "Nicholas Hammond, Robert F. Simon, Chip Fields",
+    "original_air_date": "1977-09-14",
+    "runtime_minutes": 60,
+    "content_rating": "TV-PG",
+    "plex_rating": "",
+    "plex_guid": 27190,
+    "added_at": "2026-04-04",
+    "media_type": "tv",
+    "tmdb_id": "4552",
+    "imdb_id": "tt0076975",
+    "tvdb_id": "78453",
+    "letterboxd_url": "https://letterboxd.com/search/films/The+Amazing+Spider-Man+1977/"
+  },
+  {
     "title": "American Vandal",
     "year": 2017,
     "genres": "Comedy, Crime",
@@ -207,6 +226,25 @@
     "imdb_id": "tt3468798",
     "tvdb_id": "303069",
     "letterboxd_url": "https://letterboxd.com/search/films/Baskets+2016/"
+  },
+  {
+    "title": "Batman (1966)",
+    "year": 1966,
+    "genres": "Comedy, Action",
+    "studio": "20th Century Fox",
+    "plot": "Follow the adventures of wealthy entrepreneur Bruce Wayne, also known as Batman, the Caped Crusader, and his young ward Dick Grayson, also known as Batman's young partner Robin the Boy Wonder, as they battle evildoers in Gotham City.",
+    "cast": "Adam West, Burt Ward, Neil Hamilton",
+    "original_air_date": "1966-01-12",
+    "runtime_minutes": 25,
+    "content_rating": "TV-G",
+    "plex_rating": "",
+    "plex_guid": 27293,
+    "added_at": "2026-04-04",
+    "media_type": "tv",
+    "tmdb_id": "2287",
+    "imdb_id": "tt0059968",
+    "tvdb_id": "77871",
+    "letterboxd_url": "https://letterboxd.com/search/films/Batman+(1966)+1966/"
   },
   {
     "title": "Black Mirror",
@@ -836,6 +874,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/IT:+Welcome+to+Derry+2025/"
   },
   {
+    "title": "Japanese Spiderman",
+    "year": 1978,
+    "genres": "Action, Adventure",
+    "studio": "Toei Company",
+    "plot": "To fight against the evil Iron Cross Army, led by the space emperor Professor Monster, a daredevil motorcyclist transforms into the famous Marvel Superhero, with a racecar and giant transforming robot at his disposal.",
+    "cast": "Shinji Tôdô, Mitsuo Andō, Yukie Kagawa",
+    "original_air_date": "1978-05-17",
+    "runtime_minutes": 24,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 27250,
+    "added_at": "2026-04-04",
+    "media_type": "tv",
+    "tmdb_id": "2640",
+    "imdb_id": "tt0185116",
+    "tvdb_id": "147681",
+    "letterboxd_url": "https://letterboxd.com/search/films/Japanese+Spiderman+1978/"
+  },
+  {
     "title": "Joe Pera Talks with You",
     "year": 2018,
     "genres": "Comedy, Short",
@@ -1138,6 +1195,25 @@
     "imdb_id": "tt11680642",
     "tvdb_id": "417208",
     "letterboxd_url": "https://letterboxd.com/search/films/Pantheon+2022/"
+  },
+  {
+    "title": "Paradise (2025)",
+    "year": 2025,
+    "genres": "Action, Drama",
+    "studio": "20th Television",
+    "plot": "A Secret Service agent investigates the murder of a former president in a seemingly peaceful community.",
+    "cast": "Sterling K. Brown, Julianne Nicholson, Sarah Shahi",
+    "original_air_date": "2025-01-26",
+    "runtime_minutes": 52,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 27426,
+    "added_at": "2026-04-04",
+    "media_type": "tv",
+    "tmdb_id": "245927",
+    "imdb_id": "tt27444205",
+    "tvdb_id": "454565",
+    "letterboxd_url": "https://letterboxd.com/search/films/Paradise+(2025)+2025/"
   },
   {
     "title": "Parks and Recreation",
