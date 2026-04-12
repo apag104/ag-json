@@ -13984,6 +13984,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Guardians+of+the+Galaxy+2014/"
   },
   {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "genres": "Science Fiction, Adventure, Action",
+    "studio": "Marvel Studios",
+    "plot": "After saving Xandar from Ronan's wrath, the Guardians are now recognized as heroes. Now the team must help their leader, Star Lord, uncover the truth behind his true heritage. Along the way, old foes turn to allies and betrayal is blooming. And the Guardians find they are up against a devastating new menace who is out to rule the galaxy.",
+    "cast": "Chris Pratt, Zoe Saldaña, Dave Bautista",
+    "original_air_date": "2017-04-25",
+    "runtime_minutes": 135,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 28591,
+    "added_at": "2026-04-12",
+    "media_type": "movie",
+    "tmdb_id": "283995",
+    "imdb_id": "tt3896198",
+    "tvdb_id": "67",
+    "letterboxd_url": "https://letterboxd.com/search/films/Guardians+of+the+Galaxy+Vol.+2+2017/"
+  },
+  {
     "title": "Guardians of the Galaxy Vol. 3",
     "year": 2023,
     "genres": "Science Fiction, Adventure, Action",
