@@ -304,6 +304,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/BoJack+Horseman+2014/"
   },
   {
+    "title": "The Boys",
+    "year": 2019,
+    "genres": "Sci-Fi & Fantasy, Action & Adventure",
+    "studio": "Amazon Studios",
+    "plot": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+    "cast": "Karl Urban, Jack Quaid, Antony Starr",
+    "original_air_date": "2019-07-26",
+    "runtime_minutes": 60,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 28617,
+    "added_at": "2026-04-12",
+    "media_type": "tv",
+    "tmdb_id": "76479",
+    "imdb_id": "tt1190634",
+    "tvdb_id": "355567",
+    "letterboxd_url": "https://letterboxd.com/search/films/The+Boys+2019/"
+  },
+  {
     "title": "Brass Eye",
     "year": 1997,
     "genres": "Comedy",
