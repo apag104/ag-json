@@ -9804,6 +9804,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Dungeons+&+Dragons:+Honor+Among+Thieves+2023/"
   },
   {
+    "title": "Dunkirk",
+    "year": 2017,
+    "genres": "War, Action, Drama",
+    "studio": "Warner Bros. Pictures",
+    "plot": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+    "cast": "Fionn Whitehead, Tom Hardy, Mark Rylance",
+    "original_air_date": "2017-07-19",
+    "runtime_minutes": 106,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 28743,
+    "added_at": "2026-04-14",
+    "media_type": "movie",
+    "tmdb_id": "374720",
+    "imdb_id": "tt5013056",
+    "tvdb_id": "424",
+    "letterboxd_url": "https://letterboxd.com/search/films/Dunkirk+2017/"
+  },
+  {
     "title": "Dunston Checks In",
     "year": 1996,
     "genres": "Family, Comedy, Adventure",
