@@ -13053,6 +13053,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Get+Rich+or+Die+Tryin'+2005/"
   },
   {
+    "title": "The Ghost and Mrs. Muir",
+    "year": 1947,
+    "genres": "Romance, Fantasy, Drama",
+    "studio": "20th Century Fox",
+    "plot": "In 1900, a young widow finds her seaside cottage is haunted and forms a unique relationship with the ghost.",
+    "cast": "Gene Tierney, Rex Harrison, George Sanders",
+    "original_air_date": "1947-06-18",
+    "runtime_minutes": 104,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 28782,
+    "added_at": "2026-04-15",
+    "media_type": "movie",
+    "tmdb_id": "22292",
+    "imdb_id": "tt0039420",
+    "tvdb_id": "10895",
+    "letterboxd_url": "https://letterboxd.com/search/films/The+Ghost+and+Mrs.+Muir+1947/"
+  },
+  {
     "title": "The Ghost and the Darkness",
     "year": 1996,
     "genres": "Adventure, Thriller, History",
@@ -17041,6 +17060,25 @@
     "imdb_id": "tt0140352",
     "tvdb_id": "3309",
     "letterboxd_url": "https://letterboxd.com/search/films/The+Insider+1999/"
+  },
+  {
+    "title": "Insidious: Chapter 2",
+    "year": 2013,
+    "genres": "Horror, Thriller",
+    "studio": "Blumhouse Productions",
+    "plot": "How deep into the darkness will you go to discover the truth? The terrifying sequel to Insidious follows the haunted Lambert family as they seek to uncover the mysterious childhood secret that has left them dangerously connected to the spirit world. They must rely on familiar allies to exile the demons that follow them and unearth the secret before the evil continues its deadly rampage.",
+    "cast": "Patrick Wilson, Rose Byrne, Lin Shaye",
+    "original_air_date": "2013-09-13",
+    "runtime_minutes": 105,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 28758,
+    "added_at": "2026-04-14",
+    "media_type": "movie",
+    "tmdb_id": "91586",
+    "imdb_id": "tt2226417",
+    "tvdb_id": "2278",
+    "letterboxd_url": "https://letterboxd.com/search/films/Insidious:+Chapter+2+2013/"
   },
   {
     "title": "Insomnia",
@@ -30531,6 +30569,25 @@
     "imdb_id": "tt0069280",
     "tvdb_id": "9913",
     "letterboxd_url": "https://letterboxd.com/search/films/Slaughterhouse-Five+1972/"
+  },
+  {
+    "title": "SLC Punk!",
+    "year": 1998,
+    "genres": "Comedy, Drama, Crime, Music",
+    "studio": "Beyond Films",
+    "plot": "In the early 1980s, Stevo and Heroin Bob are the only two dedicated punks in conservative Salt Lake City.",
+    "cast": "Matthew Lillard, Michael A. Goorjian, Annabeth Gish",
+    "original_air_date": "1998-09-24",
+    "runtime_minutes": 97,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 28779,
+    "added_at": "2026-04-14",
+    "media_type": "movie",
+    "tmdb_id": "6396",
+    "imdb_id": "tt0133189",
+    "tvdb_id": "8810",
+    "letterboxd_url": "https://letterboxd.com/search/films/SLC+Punk!+1998/"
   },
   {
     "title": "Sleep Has Her House",
