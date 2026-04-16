@@ -988,6 +988,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/A+Knight+of+the+Seven+Kingdoms+2026/"
   },
   {
+    "title": "Leaving Neverland",
+    "year": 2019,
+    "genres": "Documentary",
+    "studio": "Amos Pictures",
+    "plot": "At the height of his stardom, the world's biggest pop star, Michael Jackson, began long-running relationships with two young boys, aged between seven and ten, along their families. They now allege that he sexually abused them.",
+    "cast": "James Safechuck, Wade Robson, Michael Jackson",
+    "original_air_date": "2019-03-03",
+    "runtime_minutes": 118,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 28821,
+    "added_at": "2026-04-15",
+    "media_type": "tv",
+    "tmdb_id": "86951",
+    "imdb_id": "tt9573980",
+    "tvdb_id": "359331",
+    "letterboxd_url": "https://letterboxd.com/search/films/Leaving+Neverland+2019/"
+  },
+  {
     "title": "LGM",
     "year": null,
     "genres": "",
@@ -1692,12 +1711,12 @@
   },
   {
     "title": "Tom and Jerry",
-    "year": 1940,
-    "genres": "Comedy, Children",
-    "studio": "Hanna-Barbera Cartoons",
-    "plot": "This is all the Tom and Jerry shorts, from 1940 to 1967. The first 114 are from the Hanna-Barbera era (1940 – 1958), the next 13 are from the Gene Deitch era (1960 – 1962), and the last 34 are from the Chuck Jones era (1963 – 1967).",
-    "cast": "Dick Beals, Janet Waldo, George O'Hanlon",
-    "original_air_date": "1940-02-10",
+    "year": 1965,
+    "genres": "Animation, Comedy",
+    "studio": "Metro-Goldwyn-Mayer Television",
+    "plot": "A cat - Tom - and a mouse - Jerry - are a frenemy duo whose small conflicts lead to traps, slamming, crashing, and a lot of cartoonish shenanigans. Sometimes, they end up teaming against other enemies or Jerry/Tom teaming up with the enemy.",
+    "cast": "Jack Sabel, Bob Laztny",
+    "original_air_date": "1965-09-25",
     "runtime_minutes": 7,
     "content_rating": "TV-G",
     "plex_rating": "",
@@ -1705,9 +1724,9 @@
     "added_at": "2026-01-18",
     "media_type": "tv",
     "tmdb_id": "",
-    "imdb_id": "",
+    "imdb_id": "tt37522729",
     "tvdb_id": "72860",
-    "letterboxd_url": "https://letterboxd.com/search/films/Tom+and+Jerry+1940/"
+    "letterboxd_url": "https://letterboxd.com/search/films/Tom+and+Jerry+1965/"
   },
   {
     "title": "Twin Love",
