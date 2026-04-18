@@ -22876,6 +22876,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Murder+on+the+Orient+Express+2017/"
   },
   {
+    "title": "My Life as a Dog",
+    "year": 1985,
+    "genres": "Drama, Comedy",
+    "studio": "SF Studios",
+    "plot": "Small town Sweden, in the 1950s. This slice-of-life story is also a coming-of-age tale narrated by a young boy with an almost unconscious sense of irony. His single mother is terminally ill, his older brother isn't the warmest person in his life, and twice he is sent to relatives in a supportive, loving village with interesting characters and adventures.",
+    "cast": "Anton Glanzelius, Tomas von Brömssen, Anki Lidén",
+    "original_air_date": "1985-12-12",
+    "runtime_minutes": 102,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 28868,
+    "added_at": "2026-04-17",
+    "media_type": "movie",
+    "tmdb_id": "8816",
+    "imdb_id": "tt0089606",
+    "tvdb_id": "6653",
+    "letterboxd_url": "https://letterboxd.com/search/films/My+Life+as+a+Dog+1985/"
+  },
+  {
     "title": "My Night at Maud's",
     "year": 1969,
     "genres": "Romance, Comedy, Drama",
@@ -36630,6 +36649,25 @@
     "imdb_id": "tt0243655",
     "tvdb_id": "8799",
     "letterboxd_url": "https://letterboxd.com/search/films/Wet+Hot+American+Summer+2001/"
+  },
+  {
+    "title": "What About Bob?",
+    "year": 1991,
+    "genres": "Comedy",
+    "studio": "Touchstone Pictures",
+    "plot": "A successful psychotherapist loses his mind after one of his most dependent patients, an obsessive-compulsive neurotic, tracks him down during his family vacation.",
+    "cast": "Bill Murray, Richard Dreyfuss, Julie Hagerty",
+    "original_air_date": "1991-05-17",
+    "runtime_minutes": 99,
+    "content_rating": "PG",
+    "plex_rating": "",
+    "plex_guid": 28891,
+    "added_at": "2026-04-17",
+    "media_type": "movie",
+    "tmdb_id": "10276",
+    "imdb_id": "tt0103241",
+    "tvdb_id": "6172",
+    "letterboxd_url": "https://letterboxd.com/search/films/What+About+Bob?+1991/"
   },
   {
     "title": "What Is Plex",
