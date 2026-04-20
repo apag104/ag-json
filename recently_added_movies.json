@@ -23256,6 +23256,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/The+Naked+Gun:+From+the+Files+of+Police+Squad!+1988/"
   },
   {
+    "title": "The Napa Boys",
+    "year": 2026,
+    "genres": "Comedy",
+    "studio": "Sunset Rose Pictures",
+    "plot": "Jack Jr, Miles Jr and the whole gang are back for one last wine-soaked journey prompted by the mysterious \"Sommelier.\" Joined this time by Puck, a fan of The Napa Boys comics, the group will learn about love, loss, friendship and viticulture.",
+    "cast": "Armen Weitzman, Nick Corirossi, Sarah Ramos",
+    "original_air_date": "2026-04-20",
+    "runtime_minutes": 91,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 29292,
+    "added_at": "2026-04-19",
+    "media_type": "movie",
+    "tmdb_id": "1517305",
+    "imdb_id": "tt37532179",
+    "tvdb_id": "",
+    "letterboxd_url": "https://letterboxd.com/search/films/The+Napa+Boys+2026/"
+  },
+  {
     "title": "Nashville",
     "year": 1975,
     "genres": "Drama, Comedy, Music",
@@ -26978,25 +26997,6 @@
     "imdb_id": "tt33852162",
     "tvdb_id": "363646",
     "letterboxd_url": "https://letterboxd.com/search/films/A+Private+Life+2025/"
-  },
-  {
-    "title": "Project Hail Mary",
-    "year": 2026,
-    "genres": "Science Fiction, Adventure",
-    "studio": "Lord Miller",
-    "plot": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
-    "cast": "Ryan Gosling, Sandra Hüller, James Ortiz",
-    "original_air_date": "2026-03-18",
-    "runtime_minutes": 156,
-    "content_rating": "PG-13",
-    "plex_rating": "",
-    "plex_guid": 29248,
-    "added_at": "2026-04-19",
-    "media_type": "movie",
-    "tmdb_id": "687163",
-    "imdb_id": "tt12042730",
-    "tvdb_id": "346729",
-    "letterboxd_url": "https://letterboxd.com/search/films/Project+Hail+Mary+2026/"
   },
   {
     "title": "Project X",
