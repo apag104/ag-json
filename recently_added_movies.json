@@ -12331,6 +12331,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Fred+Claus+2007/"
   },
   {
+    "title": "Freddy Got Fingered",
+    "year": 2001,
+    "genres": "Comedy",
+    "studio": "Epsilon Motion Pictures",
+    "plot": "Unemployed cartoonist Gord Brody moves back in with his parents Jim and Julie and younger brother Freddy. When his parents demand he leave, he retaliates by spreading rumors that Jim is sexually abusing Freddy.",
+    "cast": "Tom Green, Rip Torn, Marisa Coughlan",
+    "original_air_date": "2001-04-20",
+    "runtime_minutes": 87,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 29335,
+    "added_at": "2026-04-22",
+    "media_type": "movie",
+    "tmdb_id": "13166",
+    "imdb_id": "tt0240515",
+    "tvdb_id": "7002",
+    "letterboxd_url": "https://letterboxd.com/search/films/Freddy+Got+Fingered+2001/"
+  },
+  {
     "title": "Freddy vs. Jason",
     "year": 2003,
     "genres": "Horror",
@@ -13832,7 +13851,7 @@
     "letterboxd_url": "https://letterboxd.com/search/films/The+Good,+the+Bad+and+the+Ugly+1966/"
   },
   {
-    "title": "Goodfellas",
+    "title": "GoodFellas",
     "year": 1990,
     "genres": "Drama, Crime",
     "studio": "Winkler Films",
@@ -13848,7 +13867,7 @@
     "tmdb_id": "769",
     "imdb_id": "tt0099685",
     "tvdb_id": "380",
-    "letterboxd_url": "https://letterboxd.com/search/films/Goodfellas+1990/"
+    "letterboxd_url": "https://letterboxd.com/search/films/GoodFellas+1990/"
   },
   {
     "title": "The Goonies",
@@ -37817,7 +37836,7 @@
     "plot": "",
     "cast": "",
     "original_air_date": "",
-    "runtime_minutes": "",
+    "runtime_minutes": 105,
     "content_rating": "",
     "plex_rating": "",
     "plex_guid": 29328,
