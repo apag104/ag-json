@@ -1273,6 +1273,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Over+the+Garden+Wall+2014/"
   },
   {
+    "title": "Palm Royale",
+    "year": 2024,
+    "genres": "Drama, Comedy",
+    "studio": "Jaywalker Pictures",
+    "plot": "\"Palm Royale\" is an underdog tale about one woman's attempts to belong in a world she feels excluded from, but simultaneously believes that she deserves to be there. As an outsider trying to fit in, her story asks: How much of yourself are you willing to sacrifice to get what someone else has?",
+    "cast": "Kristen Wiig, Ricky Martin, Josh Lucas",
+    "original_air_date": "2024-03-20",
+    "runtime_minutes": 52,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 29423,
+    "added_at": "2026-05-01",
+    "media_type": "tv",
+    "tmdb_id": "157367",
+    "imdb_id": "tt8888540",
+    "tvdb_id": "415970",
+    "letterboxd_url": "https://letterboxd.com/search/films/Palm+Royale+2024/"
+  },
+  {
     "title": "Pantheon",
     "year": 2022,
     "genres": "Animation, Sci-Fi & Fantasy",
