@@ -1577,6 +1577,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Review+2014/"
   },
   {
+    "title": "Saturday Morning All Star Hits!",
+    "year": 2021,
+    "genres": "Comedy, Animation",
+    "studio": "Bento Box Entertainment",
+    "plot": "Follows Skip and Treybor as they celebrate all that is 80s and 90s television.",
+    "cast": "Kyle Mooney, Beck Bennett, Maurice LaMarche",
+    "original_air_date": "2021-12-10",
+    "runtime_minutes": 24,
+    "content_rating": "TV-14",
+    "plex_rating": "",
+    "plex_guid": 29442,
+    "added_at": "2026-05-01",
+    "media_type": "tv",
+    "tmdb_id": "138600",
+    "imdb_id": "tt15977708",
+    "tvdb_id": "412372",
+    "letterboxd_url": "https://letterboxd.com/search/films/Saturday+Morning+All+Star+Hits!+2021/"
+  },
+  {
     "title": "Saturday Night Live UK",
     "year": 2026,
     "genres": "Comedy",
