@@ -2014,6 +2014,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Antz+1998/"
   },
   {
+    "title": "Any Given Sunday",
+    "year": 1999,
+    "genres": "Drama",
+    "studio": "Warner Bros. Pictures",
+    "plot": "A star quarterback gets knocked out of the game and an unknown third stringer is called in to replace him. The unknown gives a stunning performance and forces the aging coach to reevaluate his game plans and life. A new co-owner/president adds to the pressure of winning. The new owner must prove herself in a male dominated world.",
+    "cast": "Al Pacino, Cameron Diaz, Dennis Quaid",
+    "original_air_date": "1999-12-22",
+    "runtime_minutes": 157,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 29491,
+    "added_at": "2026-05-04",
+    "media_type": "movie",
+    "tmdb_id": "9563",
+    "imdb_id": "tt0146838",
+    "tvdb_id": "3507",
+    "letterboxd_url": "https://letterboxd.com/search/films/Any+Given+Sunday+1999/"
+  },
+  {
     "title": "Apocalypse Now",
     "year": 1979,
     "genres": "Drama, War",
@@ -23199,6 +23218,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/The+Muppet+Christmas+Carol+1992/"
   },
   {
+    "title": "The Muppet Movie",
+    "year": 1979,
+    "genres": "Family, Comedy, Adventure",
+    "studio": "ITC Entertainment",
+    "plot": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
+    "cast": "Jim Henson, Frank Oz, Jerry Nelson",
+    "original_air_date": "1979-06-22",
+    "runtime_minutes": 95,
+    "content_rating": "G",
+    "plex_rating": "",
+    "plex_guid": 29487,
+    "added_at": "2026-05-04",
+    "media_type": "movie",
+    "tmdb_id": "11176",
+    "imdb_id": "tt0079588",
+    "tvdb_id": "5790",
+    "letterboxd_url": "https://letterboxd.com/search/films/The+Muppet+Movie+1979/"
+  },
+  {
     "title": "Murder on the Orient Express",
     "year": 1974,
     "genres": "Drama, Thriller, Mystery",
@@ -27624,6 +27662,25 @@
     "imdb_id": "tt0425379",
     "tvdb_id": "4761",
     "letterboxd_url": "https://letterboxd.com/search/films/Pusher+III+2005/"
+  },
+  {
+    "title": "Pushpa: The Rise",
+    "year": 2021,
+    "genres": "Action, Drama, Thriller",
+    "studio": "Mythri Movie Makers",
+    "plot": "A labourer rises through the ranks of a red sandalwood smuggling syndicate, making some powerful enemies in the process.",
+    "cast": "Allu Arjun, Rashmika Mandanna, Jagadeesh Bandari",
+    "original_air_date": "2021-12-16",
+    "runtime_minutes": 175,
+    "content_rating": "",
+    "plex_rating": "",
+    "plex_guid": 29483,
+    "added_at": "2026-05-04",
+    "media_type": "movie",
+    "tmdb_id": "690957",
+    "imdb_id": "tt9389998",
+    "tvdb_id": "148865",
+    "letterboxd_url": "https://letterboxd.com/search/films/Pushpa:+The+Rise+2021/"
   },
   {
     "title": "Puss in Boots: The Last Wish",
