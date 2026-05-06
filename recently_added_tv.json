@@ -1767,6 +1767,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/ted+2024/"
   },
   {
+    "title": "Ted Lasso",
+    "year": 2020,
+    "genres": "Drama, Comedy",
+    "studio": "Doozer",
+    "plot": "In a shock development struggling English Premier League team AFC Richmond hires American football coach Ted Lasso as its new manager. Lasso knows nothing about soccer/football. With unshakable enthusiasm and positivity he rises to the challenge but little known to him there are forces within the club that don't want him to succeed.",
+    "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift",
+    "original_air_date": "2020-08-14",
+    "runtime_minutes": 30,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 29505,
+    "added_at": "2026-05-05",
+    "media_type": "tv",
+    "tmdb_id": "97546",
+    "imdb_id": "tt10986410",
+    "tvdb_id": "383203",
+    "letterboxd_url": "https://letterboxd.com/search/films/Ted+Lasso+2020/"
+  },
+  {
     "title": "Tom and Jerry",
     "year": 1965,
     "genres": "Animation, Comedy",

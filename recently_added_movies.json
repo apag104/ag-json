@@ -3021,6 +3021,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Batman:+The+Dark+Knight+Returns,+Part+2+2013/"
   },
   {
+    "title": "Bats",
+    "year": 1999,
+    "genres": "Horror, Thriller, Science Fiction",
+    "studio": "Destination Films",
+    "plot": "Bats, the result of a government experiment gone wrong, have suddenly become intelligent, vicious, and omnivorous, and are attacking people near Gallup, Texas. Bat specialist Sheila Casper and her assistant Jimmy are brought in but can they stop the bats before the military comes in and, in their ignorance, makes things worse?",
+    "cast": "Lou Diamond Phillips, Dina Meyer, Bob Gunton",
+    "original_air_date": "1999-10-22",
+    "runtime_minutes": 91,
+    "content_rating": "PG-13",
+    "plex_rating": "",
+    "plex_guid": 29502,
+    "added_at": "2026-05-05",
+    "media_type": "movie",
+    "tmdb_id": "10496",
+    "imdb_id": "tt0200469",
+    "tvdb_id": "12925",
+    "letterboxd_url": "https://letterboxd.com/search/films/Bats+1999/"
+  },
+  {
     "title": "Battle for the Planet of the Apes",
     "year": 1973,
     "genres": "Action, Science Fiction",
@@ -9707,6 +9726,25 @@
     "imdb_id": "tt6491178",
     "tvdb_id": "2546",
     "letterboxd_url": "https://letterboxd.com/search/films/Dragged+Across+Concrete+2019/"
+  },
+  {
+    "title": "The Drama",
+    "year": 2026,
+    "genres": "Romance, Comedy, Drama",
+    "studio": "A24",
+    "plot": "An explosive confession throws the wedding of a seemingly perfect couple (Zendaya and Robert Pattinson) off the rails as they spiral to confront whether they can truly make it to \"I do.\"",
+    "cast": "Zendaya, Robert Pattinson, Mamoudou Athie",
+    "original_air_date": "2026-04-01",
+    "runtime_minutes": 105,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 29497,
+    "added_at": "2026-05-05",
+    "media_type": "movie",
+    "tmdb_id": "1325734",
+    "imdb_id": "tt33071426",
+    "tvdb_id": "359067",
+    "letterboxd_url": "https://letterboxd.com/search/films/The+Drama+2026/"
   },
   {
     "title": "Dream Scenario",
@@ -24204,6 +24242,25 @@
     "imdb_id": "tt1186248",
     "tvdb_id": "61791",
     "letterboxd_url": "https://letterboxd.com/search/films/Nights+and+Weekends+2008/"
+  },
+  {
+    "title": "Nights of Cabiria",
+    "year": 1957,
+    "genres": "Drama, Comedy",
+    "studio": "DDL Cinematografica",
+    "plot": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
+    "cast": "Giulietta Masina, François Périer, Franca Marzi",
+    "original_air_date": "1957-09-13",
+    "runtime_minutes": 118,
+    "content_rating": "Not Rated",
+    "plex_rating": "",
+    "plex_guid": 29546,
+    "added_at": "2026-05-05",
+    "media_type": "movie",
+    "tmdb_id": "19426",
+    "imdb_id": "tt0050783",
+    "tvdb_id": "6755",
+    "letterboxd_url": "https://letterboxd.com/search/films/Nights+of+Cabiria+1957/"
   },
   {
     "title": "Nine Days",
