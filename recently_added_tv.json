@@ -1824,6 +1824,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Torchwood+2006/"
   },
   {
+    "title": "The Transformers",
+    "year": 1984,
+    "genres": "Animation, Kids, Action & Adventure, Sci-Fi & Fantasy",
+    "studio": "Hasbro",
+    "plot": "During the great Cybertronian War, the Autobots and the Decepticons crash landed on Earth. Millions of years later, geological activity revives the warring factions - the Decepticons want to strip Earth of its vast energy resources, and the Autobots seek to protect the inhabitants of Earth from that fate. And so an endless battle begins in a crucial race to find an energy source for their homeworld Cybertron.",
+    "cast": "Peter Cullen, Frank Welker, Jack Angel",
+    "original_air_date": "1984-09-17",
+    "runtime_minutes": 22,
+    "content_rating": "TV-Y7",
+    "plex_rating": "",
+    "plex_guid": 29560,
+    "added_at": "2026-05-08",
+    "media_type": "tv",
+    "tmdb_id": "4269",
+    "imdb_id": "tt0086817",
+    "tvdb_id": "72499",
+    "letterboxd_url": "https://letterboxd.com/search/films/The+Transformers+1984/"
+  },
+  {
     "title": "Twin Love",
     "year": 2023,
     "genres": "Reality",
@@ -1898,6 +1917,25 @@
     "imdb_id": "tt5669272",
     "tvdb_id": "",
     "letterboxd_url": "https://letterboxd.com/search/films/Wet+Hot+American+Summer:+Ten+Years+Later+2017/"
+  },
+  {
+    "title": "Widow's Bay",
+    "year": 2026,
+    "genres": "Drama, Mystery, Comedy",
+    "studio": "Apple Studios",
+    "plot": "A skeptical mayor leads the superstitious residents of a cursed New England island.",
+    "cast": "Matthew Rhys, Stephen Root, Kate O'Flynn",
+    "original_air_date": "2026-04-29",
+    "runtime_minutes": 38,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 29570,
+    "added_at": "2026-05-08",
+    "media_type": "tv",
+    "tmdb_id": "270476",
+    "imdb_id": "tt33332385",
+    "tvdb_id": "454109",
+    "letterboxd_url": "https://letterboxd.com/search/films/Widow's+Bay+2026/"
   },
   {
     "title": "X-Men '97",
