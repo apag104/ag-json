@@ -266,6 +266,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Batman+(1966)+1966/"
   },
   {
+    "title": "Better Call Saul",
+    "year": 2015,
+    "genres": "Crime, Drama",
+    "studio": "Sony Pictures Television",
+    "plot": "Before Saul Goodman, he was Jimmy McGill. And if you're calling Jimmy, you're in real trouble. The prequel to \"Breaking Bad\" follows small-time attorney, Jimmy McGill, as he transforms into Walter White's morally challenged lawyer, Saul Goodman.",
+    "cast": "Bob Odenkirk, Jonathan Banks, Rhea Seehorn",
+    "original_air_date": "2015-02-08",
+    "runtime_minutes": 45,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 29685,
+    "added_at": "2026-05-09",
+    "media_type": "tv",
+    "tmdb_id": "60059",
+    "imdb_id": "tt3032476",
+    "tvdb_id": "273181",
+    "letterboxd_url": "https://letterboxd.com/search/films/Better+Call+Saul+2015/"
+  },
+  {
     "title": "Black Mirror",
     "year": 2011,
     "genres": "Sci-Fi & Fantasy, Drama, Mystery",
@@ -1746,6 +1765,25 @@
     "imdb_id": "tt8146760",
     "tvdb_id": "338738",
     "letterboxd_url": "https://letterboxd.com/search/films/Summer+Camp+Island+2018/"
+  },
+  {
+    "title": "Summer Heights High",
+    "year": 2007,
+    "genres": "Comedy",
+    "studio": "Princess Pictures",
+    "plot": "Follows the journeys of multiple characters over one term in an average Australian high school. Starring writer and performer Chris Lilley, the series documents the daily lives of teachers, students and staff. The characters take us through the seemingly huge traumas of friendship, staff politics, schoolwork and relationships that are the fabric of life in the school universe.",
+    "cast": "Chris Lilley, David Lennie, Asolima Tauati",
+    "original_air_date": "2007-09-05",
+    "runtime_minutes": 28,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 29674,
+    "added_at": "2026-05-09",
+    "media_type": "tv",
+    "tmdb_id": "15082",
+    "imdb_id": "tt0934320",
+    "tvdb_id": "80506",
+    "letterboxd_url": "https://letterboxd.com/search/films/Summer+Heights+High+2007/"
   },
   {
     "title": "ted",
