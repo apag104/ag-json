@@ -171,6 +171,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Arthur+1996/"
   },
   {
+    "title": "Avatar: The Last Airbender (2024)",
+    "year": 2024,
+    "genres": "Action & Adventure, Drama, Family, Sci-Fi & Fantasy",
+    "studio": "Nickelodeon Productions",
+    "plot": "A young boy known as the Avatar must master the four elemental powers to save the world, and fight against an enemy bent on stopping him.",
+    "cast": "Gordon Cormier, Kiawentiio, Ian Ousley",
+    "original_air_date": "2024-02-22",
+    "runtime_minutes": 55,
+    "content_rating": "TV-PG",
+    "plex_rating": "",
+    "plex_guid": 29907,
+    "added_at": "2026-05-14",
+    "media_type": "tv",
+    "tmdb_id": "82452",
+    "imdb_id": "tt9018736",
+    "tvdb_id": "385925",
+    "letterboxd_url": "https://letterboxd.com/search/films/Avatar:+The+Last+Airbender+(2024)+2024/"
+  },
+  {
     "title": "Baby Reindeer",
     "year": 2024,
     "genres": "Drama",
@@ -568,6 +587,25 @@
     "imdb_id": "tt32493765",
     "tvdb_id": "473613",
     "letterboxd_url": "https://letterboxd.com/search/films/The+Dinosaurs+2026/"
+  },
+  {
+    "title": "Don't F**k with Cats: Hunting an Internet Killer",
+    "year": 2019,
+    "genres": "Crime, Documentary",
+    "studio": "RAW",
+    "plot": "A group of online justice seekers track down a guy who posted a video of himself killing kittens.",
+    "cast": "Deanna Thompson, John Green, Benjamin Xu",
+    "original_air_date": "2019-12-18",
+    "runtime_minutes": 62,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 29922,
+    "added_at": "2026-05-14",
+    "media_type": "tv",
+    "tmdb_id": "96129",
+    "imdb_id": "tt11318602",
+    "tvdb_id": "372566",
+    "letterboxd_url": "https://letterboxd.com/search/films/Don't+F**k+with+Cats:+Hunting+an+Internet+Killer+2019/"
   },
   {
     "title": "The Drew Carey Show",
@@ -1005,6 +1043,25 @@
     "imdb_id": "tt27497448",
     "tvdb_id": "433631",
     "letterboxd_url": "https://letterboxd.com/search/films/A+Knight+of+the+Seven+Kingdoms+2026/"
+  },
+  {
+    "title": "The Last Dance",
+    "year": 2020,
+    "genres": "Documentary",
+    "studio": "ESPN Films",
+    "plot": "A 10-part documentary chronicling the untold story of Michael Jordan and the Chicago Bulls dynasty with rare, never-before-seen footage and sound from the 1997-98 championship season – plus over 100 interviews with famous figures and basketball’s biggest names.",
+    "cast": "Michael Jordan, Scottie Pippen, Dennis Rodman",
+    "original_air_date": "2020-04-19",
+    "runtime_minutes": 50,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 29892,
+    "added_at": "2026-05-14",
+    "media_type": "tv",
+    "tmdb_id": "79525",
+    "imdb_id": "tt8420184",
+    "tvdb_id": "347721",
+    "letterboxd_url": "https://letterboxd.com/search/films/The+Last+Dance+2020/"
   },
   {
     "title": "Leaving Neverland",
