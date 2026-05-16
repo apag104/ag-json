@@ -5330,7 +5330,7 @@
     "runtime_minutes": 117,
     "content_rating": "R",
     "plex_rating": "",
-    "plex_guid": 29351,
+    "plex_guid": 30018,
     "added_at": "2026-02-12",
     "media_type": "movie",
     "tmdb_id": "445",
@@ -7809,6 +7809,25 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Curtains+1983/"
   },
   {
+    "title": "Cutter's Way",
+    "year": 1981,
+    "genres": "Drama, Mystery, Thriller, Crime",
+    "studio": "United Artists",
+    "plot": "Alex Cutter is a boozy, belligerent and deeply cynical Vietnam veteran whose encounter with a landmine during the war has left him minus an eye, a leg and an arm. When his drifter playboy friend Richard Bone is falsely accused of murder, Cutter sets out for revenge in his own inimitable style.",
+    "cast": "Jeff Bridges, John Heard, Lisa Eichhorn",
+    "original_air_date": "1981-03-19",
+    "runtime_minutes": 109,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 29986,
+    "added_at": "2026-05-15",
+    "media_type": "movie",
+    "tmdb_id": "31593",
+    "imdb_id": "tt0082220",
+    "tvdb_id": "17440",
+    "letterboxd_url": "https://letterboxd.com/search/films/Cutter's+Way+1981/"
+  },
+  {
     "title": "Cyborg",
     "year": 1989,
     "genres": "Science Fiction, Action, Thriller, Adventure",
@@ -8934,7 +8953,7 @@
     "year": 2006,
     "genres": "Drama, Comedy",
     "studio": "Fox 2000 Pictures",
-    "plot": "With an aspiration to become a journalist, Andy, a smart but sensible young graduate, travels to New York. She starts working as an assistant to one of the city's biggest high fashion magazine editors, the cynical Miranda Priestly.",
+    "plot": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
     "cast": "Meryl Streep, Anne Hathaway, Emily Blunt",
     "original_air_date": "2006-06-29",
     "runtime_minutes": 109,
@@ -13032,6 +13051,25 @@
     "imdb_id": "tt0106977",
     "tvdb_id": "1054",
     "letterboxd_url": "https://letterboxd.com/search/films/The+Fugitive+1993/"
+  },
+  {
+    "title": "The Funeral",
+    "year": 1996,
+    "genres": "Crime, Drama",
+    "studio": "C&P Productions",
+    "plot": "After the funeral of one of their own, a criminal family decides to embark on an emotionally unnerving journey in an attempt to exact bloody revenge.",
+    "cast": "Christopher Walken, Chris Penn, Annabella Sciorra",
+    "original_air_date": "1996-10-10",
+    "runtime_minutes": 95,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 30008,
+    "added_at": "2026-05-15",
+    "media_type": "movie",
+    "tmdb_id": "21612",
+    "imdb_id": "tt0116378",
+    "tvdb_id": "16016",
+    "letterboxd_url": "https://letterboxd.com/search/films/The+Funeral+1996/"
   },
   {
     "title": "Funny Games",
@@ -27541,8 +27579,8 @@
     "runtime_minutes": 156,
     "content_rating": "PG-13",
     "plex_rating": "",
-    "plex_guid": 29406,
-    "added_at": "2026-04-28",
+    "plex_guid": 29989,
+    "added_at": "2026-05-15",
     "media_type": "movie",
     "tmdb_id": "687163",
     "imdb_id": "tt12042730",
@@ -28447,7 +28485,7 @@
     "year": 2026,
     "genres": "Horror, Comedy",
     "studio": "Searchlight Pictures",
-    "plot": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+    "plot": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she's reached the next level of the nightmarish game -- and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
     "cast": "Samara Weaving, Kathryn Newton, Elijah Wood",
     "original_air_date": "2026-03-19",
     "runtime_minutes": 107,
@@ -33212,25 +33250,6 @@
     "letterboxd_url": "https://letterboxd.com/search/films/Star+Wars:+Episode+VI+-+Return+of+the+Jedi+1983/"
   },
   {
-    "title": "Star Wars: Episode VII - The Force Awakens",
-    "year": 2015,
-    "genres": "Adventure, Action, Science Fiction",
-    "studio": "Lucasfilm Ltd.",
-    "plot": "30 years after the defeat of Darth Vader and the Empire, Rey, a scavenger from the planet Jakku, finds a BB-8 droid that knows the whereabouts of the long lost Luke Skywalker. Rey, as well as a rogue stormtrooper and two smugglers, are thrown into the middle of a battle between the Resistance and the daunting legions of the First Order.",
-    "cast": "Daisy Ridley, John Boyega, Oscar Isaac",
-    "original_air_date": "2015-12-16",
-    "runtime_minutes": 138,
-    "content_rating": "PG-13",
-    "plex_rating": "",
-    "plex_guid": 27164,
-    "added_at": "2026-04-03",
-    "media_type": "movie",
-    "tmdb_id": "140607",
-    "imdb_id": "tt2488496",
-    "tvdb_id": "213",
-    "letterboxd_url": "https://letterboxd.com/search/films/Star+Wars:+Episode+VII+-+The+Force+Awakens+2015/"
-  },
-  {
     "title": "Star Wars: Episode VIII - The Last Jedi",
     "year": 2017,
     "genres": "Adventure, Action, Science Fiction",
@@ -37563,7 +37582,7 @@
     "letterboxd_url": "https://letterboxd.com/search/films/What+About+Bob?+1991/"
   },
   {
-    "title": "What Is Plex",
+    "title": "What Is Plex?",
     "year": 2026,
     "genres": "",
     "studio": "",
@@ -37579,7 +37598,7 @@
     "tmdb_id": "",
     "imdb_id": "",
     "tvdb_id": "",
-    "letterboxd_url": "https://letterboxd.com/search/films/What+Is+Plex+2026/"
+    "letterboxd_url": "https://letterboxd.com/search/films/What+Is+Plex?+2026/"
   },
   {
     "title": "What Lies Beneath",
