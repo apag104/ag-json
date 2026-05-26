@@ -23,7 +23,7 @@
     "writers": "",
     "countries": "",
     "collections": "AG PLEXclusives B, Laugh at THIS AG TV, Sci-Fi Oh-My AG TV",
-    "labels": "Agregarr-stale",
+    "labels": "",
     "tagline": "There's a new family in town. They're not from another city... They're from another planet."
   },
   {
@@ -103,7 +103,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Horror AG TV, DRAMA! AG TV, Sci-Fi Oh-My AG TV",
+    "collections": "Horror AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "In 2120, Mother Earth is expecting."
   },
@@ -157,7 +157,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Crime. Is it any good? AG TV, Classics on AG TV, Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV",
+    "collections": "Classics on AG TV, Crime. Is it any good? AG TV, Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV",
     "labels": "",
     "tagline": "The world's favorite adventure super hero in live-action!"
   },
@@ -184,7 +184,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "DRAMA! AG TV, Crime. Is it any good? AG TV, Laugh at THIS AG TV",
+    "collections": "Crime. Is it any good? AG TV, Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": ""
   },
@@ -238,7 +238,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Softy-Core (SafeForWork) AG TV, Toonsville AG TV, Sometimes a Fantasy AG TV, Laugh at THIS AG TV, DRAMA! AG TV",
+    "collections": "Softy-Core (SafeForWork) AG TV, Sometimes a Fantasy AG TV, Toonsville AG TV, Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": ""
   },
@@ -292,7 +292,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Miniature Series AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
+    "collections": "DRAMA! AG TV, Miniature Series AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "a captivating true story"
   },
@@ -346,7 +346,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "HBO on AG TV, Crime. Is it any good? AG TV, Laugh at THIS AG TV, DRAMA! AG TV",
+    "collections": "HBO on AG TV, Laugh at THIS AG TV, Crime. Is it any good? AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "A hitman searching for some direction. (Season 1)"
   },
@@ -400,7 +400,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Crime. Is it any good? AG TV, Classics on AG TV, Sci-Fi Oh-My AG TV, Sometimes a Fantasy AG TV, Laugh at THIS AG TV",
+    "collections": "Classics on AG TV, Sci-Fi Oh-My AG TV, Crime. Is it any good? AG TV, Laugh at THIS AG TV, Sometimes a Fantasy AG TV",
     "labels": "",
     "tagline": "Batman comes to life tonight! Watch master criminals like The Riddler try to outwit those legendary crime fighters Batman and Robin in TWO spine-tingling episodes each week! (season 1)"
   },
@@ -427,7 +427,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Crime. Is it any good? AG TV, DRAMA! AG TV",
+    "collections": "DRAMA! AG TV, Crime. Is it any good? AG TV",
     "labels": "",
     "tagline": "Make the call"
   },
@@ -481,7 +481,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "DRAMA! AG TV, Laugh at THIS AG TV, Toonsville AG TV",
+    "collections": "Toonsville AG TV, Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "Don't look back. You're not going that way."
   },
@@ -508,7 +508,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Sometimes a Fantasy AG TV, Crime. Is it any good? AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
+    "collections": "Crime. Is it any good? AG TV, Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV, Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "Never Meet Your Heroes"
   },
@@ -562,7 +562,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Softy-Core (SafeForWork) AG TV, Laugh at THIS AG TV, Toonsville AG TV, DRAMA! AG TV",
+    "collections": "Softy-Core (SafeForWork) AG TV, Toonsville AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": ""
   },
@@ -643,7 +643,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Laugh at THIS AG TV, DRAMA! AG TV",
+    "collections": "DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "What could go wrong?"
   },
@@ -697,7 +697,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Toonsville AG TV, Laugh at THIS AG TV, DRAMA! AG TV",
+    "collections": "Toonsville AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Talks Slow, Thinks Fast"
   },
@@ -945,6 +945,33 @@
     "tagline": "The world deserves a better ending."
   },
   {
+    "title": "Fleabag",
+    "year": 2016,
+    "genres": "Comedy, Drama",
+    "studio": "Two Brothers Pictures",
+    "plot": "A dry-witted woman, known only as Fleabag, has no filter as she navigates life and love in London while trying to cope with tragedy. The angry, grief-riddled woman tries to heal while rejecting anyone who tries to help her, but Fleabag continues to keep up her bravado through it all. Comic actress Phoebe Waller-Bridge stars as the titular character on the series, which is based on Waller-Bridge's 2013 one-woman show of the same name.",
+    "cast": "Phoebe Waller-Bridge, Sian Clifford, Jenny Rainsford",
+    "original_air_date": "2016-07-21",
+    "runtime_minutes": 30,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 30458,
+    "added_at": "2026-05-25",
+    "media_type": "tv",
+    "tmdb_id": "67070",
+    "imdb_id": "tt5687612",
+    "tvdb_id": "314614",
+    "letterboxd_url": "https://letterboxd.com/search/films/Fleabag+2016/",
+    "audience_rating": 8.3,
+    "audience_rating_image": "themoviedb://image.rating",
+    "directors": "",
+    "writers": "",
+    "countries": "",
+    "collections": "",
+    "labels": "",
+    "tagline": ""
+  },
+  {
     "title": "Freaks and Geeks",
     "year": 1999,
     "genres": "Drama, Comedy",
@@ -967,7 +994,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Laugh at THIS AG TV, DRAMA! AG TV",
+    "collections": "DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "It's 1980 and this is what high school was like for the rest of us."
   },
@@ -1048,7 +1075,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Sci-Fi Oh-My AG TV, Brit Wits AG TV, Horror AG TV, Laugh at THIS AG TV, Sometimes a Fantasy AG TV",
+    "collections": "Sci-Fi Oh-My AG TV, Horror AG TV, Brit Wits AG TV, Sometimes a Fantasy AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "From the best-selling master of darkness"
   },
@@ -1078,6 +1105,33 @@
     "collections": "Miniature Series AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": ""
+  },
+  {
+    "title": "Guillermo del Toro's Cabinet of Curiosities",
+    "year": 2022,
+    "genres": "Drama, Mystery, Sci-Fi & Fantasy",
+    "studio": "Double Dare You",
+    "plot": "Bizarre nightmares unfold in eight tales of terror in a visually stunning, spine-tingling horror collection curated by Guillermo del Toro.",
+    "cast": "Guillermo del Toro, Lize Johnston, Kevin Keppy",
+    "original_air_date": "2022-10-25",
+    "runtime_minutes": 60,
+    "content_rating": "TV-MA",
+    "plex_rating": "",
+    "plex_guid": 30474,
+    "added_at": "2026-05-25",
+    "media_type": "tv",
+    "tmdb_id": "83659",
+    "imdb_id": "tt8415836",
+    "tvdb_id": "409559",
+    "letterboxd_url": "https://letterboxd.com/search/films/Guillermo+del+Toro's+Cabinet+of+Curiosities+2022/",
+    "audience_rating": 7.5,
+    "audience_rating_image": "themoviedb://image.rating",
+    "directors": "",
+    "writers": "",
+    "countries": "",
+    "collections": "",
+    "labels": "",
+    "tagline": "Open your mind to fear."
   },
   {
     "title": "Heated Rivalry",
@@ -1237,7 +1291,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Sometimes a Fantasy AG TV, DRAMA! AG TV, Sci-Fi Oh-My AG TV, Laugh at THIS AG TV",
+    "collections": "Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": ""
   },
@@ -1291,7 +1345,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "AG PLEXclusives B, Classics on AG TV, Laugh at THIS AG TV",
+    "collections": "AG PLEXclusives B, Laugh at THIS AG TV, Classics on AG TV",
     "labels": "",
     "tagline": "The legend comes to life."
   },
@@ -1318,7 +1372,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Horror AG TV, Toonsville AG TV, Laugh at THIS AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV",
+    "collections": "Laugh at THIS AG TV, Horror AG TV, Toonsville AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "Bow down and prepare for DOOM!"
   },
@@ -1345,7 +1399,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Sci-Fi Oh-My AG TV, Toonsville AG TV, DRAMA! AG TV",
+    "collections": "Sci-Fi Oh-My AG TV, DRAMA! AG TV, Toonsville AG TV",
     "labels": "",
     "tagline": "Locked down but not out ... Allen the alien."
   },
@@ -1453,7 +1507,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Laugh at THIS AG TV, Classics on AG TV",
+    "collections": "Classics on AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": ""
   },
@@ -1561,7 +1615,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "HBO on AG TV, Miniature Series AG TV, Crime. Is it any good? AG TV",
+    "collections": "Miniature Series AG TV, Crime. Is it any good? AG TV, HBO on AG TV",
     "labels": "",
     "tagline": ""
   },
@@ -1696,7 +1750,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Laugh at THIS AG TV, Sometimes a Fantasy AG TV",
+    "collections": "Sometimes a Fantasy AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Love is strange."
   },
@@ -1723,7 +1777,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Sometimes a Fantasy AG TV, Crime. Is it any good? AG TV, DRAMA! AG TV",
+    "collections": "Crime. Is it any good? AG TV, Sometimes a Fantasy AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "The man without fear"
   },
@@ -1804,7 +1858,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV, Toonsville AG TV",
+    "collections": "Toonsville AG TV, Sci-Fi Oh-My AG TV, Sometimes a Fantasy AG TV",
     "labels": "",
     "tagline": ""
   },
@@ -1858,7 +1912,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Toonsville AG TV, DRAMA! AG TV, Sci-Fi Oh-My AG TV",
+    "collections": "DRAMA! AG TV, Toonsville AG TV, Sci-Fi Oh-My AG TV",
     "labels": "",
     "tagline": "The introduction into society, from child to adult"
   },
@@ -1912,7 +1966,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "DRAMA! AG TV, Laugh at THIS AG TV",
+    "collections": "Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "We're so back."
   },
@@ -1966,7 +2020,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Toonsville AG TV, Horror AG TV, Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV",
+    "collections": "Horror AG TV, Sometimes a Fantasy AG TV, Toonsville AG TV, Sci-Fi Oh-My AG TV",
     "labels": "",
     "tagline": "Will you take a peek?"
   },
@@ -1993,7 +2047,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Laugh at THIS AG TV, DRAMA! AG TV",
+    "collections": "DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": ""
   },
@@ -2020,7 +2074,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "DRAMA! AG TV, Toonsville AG TV, Sci-Fi Oh-My AG TV",
+    "collections": "Toonsville AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": ""
   },
@@ -2074,7 +2128,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "DRAMA! AG TV, Laugh at THIS AG TV",
+    "collections": "Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": ""
   },
@@ -2290,7 +2344,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
+    "collections": "Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV, Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "life. death. and life again."
   },
@@ -2425,7 +2479,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Laugh at THIS AG TV, Brit Wits AG TV",
+    "collections": "Brit Wits AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "sky"
   },
@@ -2452,7 +2506,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Toonsville AG TV, HBO on AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV",
+    "collections": "HBO on AG TV, Toonsville AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "Don't Go Alone"
   },
@@ -2479,7 +2533,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Laugh at THIS AG TV, DRAMA! AG TV",
+    "collections": "DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": ""
   },
@@ -2533,7 +2587,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "DRAMA! AG TV, Sci-Fi Oh-My AG TV",
+    "collections": "Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "The truth will surface."
   },
@@ -2560,7 +2614,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Sci-Fi Oh-My AG TV, Toonsville AG TV, Laugh at THIS AG TV",
+    "collections": "Laugh at THIS AG TV, Sci-Fi Oh-My AG TV, Toonsville AG TV",
     "labels": "",
     "tagline": "For Dirty Harry Fans only"
   },
@@ -2695,7 +2749,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "DRAMA! AG TV, Laugh at THIS AG TV",
+    "collections": "Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "Out of His League"
   },
@@ -2830,7 +2884,7 @@
     "directors": "",
     "writers": "",
     "countries": "",
-    "collections": "Horror AG TV, Sometimes a Fantasy AG TV, Classics on AG TV, Crime. Is it any good? AG TV, DRAMA! AG TV",
+    "collections": "Horror AG TV, Classics on AG TV, Crime. Is it any good? AG TV, Sometimes a Fantasy AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "A town where everyone knows everyone and nothing is what it seems."
   },
