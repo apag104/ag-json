@@ -1534,7 +1534,7 @@
     "directors": "Ridley Scott",
     "writers": "Ronald Shusett, Dan O'Bannon",
     "countries": "United States of America, United Kingdom",
-    "collections": "Alien Collection, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Space is big. Really big., No Need to Rent These Movies, Old School Horror Collection, Scifi Throwbacks AG Movies",
+    "collections": "Alien Collection, Written by Dan O'Bannon, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Space is big. Really big., No Need to Rent These Movies, Old School Horror Collection, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "In space no one can hear you scream."
   },
@@ -1588,7 +1588,7 @@
     "directors": "Paul W. S. Anderson",
     "writers": "Ronald Shusett, Dan O'Bannon, Paul W. S. Anderson, Jim Thomas, John Thomas",
     "countries": "Czech Republic, Germany, United Kingdom, United States of America",
-    "collections": "Post 2000 Scifi AG Movies",
+    "collections": "Written by Dan O'Bannon, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Whoever wins...we lose."
   },
@@ -1615,7 +1615,7 @@
     "directors": "Ridley Scott",
     "writers": "Dante Harper, Dan O'Bannon, Ronald Shusett, Michael Green, Jack Paglen",
     "countries": "United States of America",
-    "collections": "Modern Horror AG Movies, Post 2000 Scifi AG Movies",
+    "collections": "Written by Dan O'Bannon, Modern Horror AG Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "The path to paradise begins in hell."
   },
@@ -1696,7 +1696,7 @@
     "directors": "David Fincher",
     "writers": "Dan O'Bannon, Ronald Shusett, Vincent Ward, David Giler, Walter Hill",
     "countries": "United States of America",
-    "collections": "Alien Collection, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "Alien Collection, Scifi Throwbacks AG Movies, Written by Dan O'Bannon, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "3 times the suspense. 3 times the danger. 3 times the terror"
   },
@@ -1723,7 +1723,7 @@
     "directors": "James Cameron",
     "writers": "James Cameron, Ronald Shusett, Dan O'Bannon, David Giler, Walter Hill",
     "countries": "United States of America",
-    "collections": "Alien Collection, Space is big. Really big., Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "Alien Collection, Written by Dan O'Bannon, Space is big. Really big., Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "This time it's war."
   },
@@ -1750,7 +1750,7 @@
     "directors": "Colin Strause, Greg Strause",
     "writers": "John Thomas, Dan O'Bannon, Ronald Shusett, Jim Thomas, Shane Salerno",
     "countries": "United States of America",
-    "collections": "So Booo 👎 it's Gooo 👍 Collection, Post 2000 Scifi AG Movies",
+    "collections": "Written by Dan O'Bannon, So Booo 👎 it's Gooo 👍 Collection, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "On Earth everyone can hear you scream."
   },
@@ -3500,10 +3500,10 @@
     "imdb_id": "tt1757678",
     "tvdb_id": "30126",
     "letterboxd_url": "https://letterboxd.com/search/films/Avatar:+Fire+and+Ash+2025/",
-    "audience_rating": 7.3,
+    "audience_rating": 7.2,
     "audience_rating_image": "imdb://image.rating",
     "directors": "James Cameron",
-    "writers": "James Cameron, Shane Salerno, Josh Friedman, Rick Jaffa, Amanda Silver",
+    "writers": "James Cameron, Shane Salerno, Rick Jaffa, Josh Friedman, Amanda Silver",
     "countries": "United States of America",
     "collections": "Avatar Collection, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
@@ -4178,7 +4178,7 @@
     "audience_rating": 7.8,
     "audience_rating_image": "imdb://image.rating",
     "directors": "Matt Reeves",
-    "writers": "Peter Craig, Matt Reeves, Mattson Tomlin",
+    "writers": "Peter Craig, Matt Reeves",
     "countries": "United States of America",
     "collections": "",
     "labels": "Agregarr-stale",
@@ -5746,7 +5746,7 @@
     "directors": "Scott Derrickson",
     "writers": "Scott Derrickson, C. Robert Cargill, Joe Hill",
     "countries": "United States of America",
-    "collections": "The Black Phone Collection, Modern Horror AG Movies",
+    "collections": "The Black Phone Collection, Blumhouse on the Plex, Modern Horror AG Movies",
     "labels": "Horror",
     "tagline": "Never talk to strangers."
   },
@@ -5773,7 +5773,7 @@
     "directors": "Scott Derrickson",
     "writers": "Scott Derrickson, C. Robert Cargill",
     "countries": "United States of America",
-    "collections": "The Black Phone Collection, Modern Horror AG Movies",
+    "collections": "The Black Phone Collection, Blumhouse on the Plex, Modern Horror AG Movies",
     "labels": "Horror",
     "tagline": "Dead is just a word."
   },
@@ -6421,8 +6421,8 @@
     "directors": "John Badham",
     "writers": "Dan O'Bannon, Don Jakoby",
     "countries": "United States of America",
-    "collections": "",
-    "labels": "Agregarr-stale",
+    "collections": "Written by Dan O'Bannon",
+    "labels": "",
     "tagline": "He's out there…"
   },
   {
@@ -6772,7 +6772,7 @@
     "directors": "Doug Liman",
     "writers": "William Blake Herron, Tony Gilroy, Robert Ludlum",
     "countries": "United States of America, Germany, Czech Republic",
-    "collections": "The Bourne Collection, No Need to Rent These Movies",
+    "collections": "The Bourne Collection, Written by Tony Gilroy, No Need to Rent These Movies",
     "labels": "",
     "tagline": "He was the perfect weapon until he became the target."
   },
@@ -6799,7 +6799,7 @@
     "directors": "Tony Gilroy",
     "writers": "Tony Gilroy, Dan Gilroy, Robert Ludlum",
     "countries": "United States of America",
-    "collections": "The Bourne Collection, No Need to Rent These Movies",
+    "collections": "The Bourne Collection, Written by Tony Gilroy, No Need to Rent These Movies",
     "labels": "",
     "tagline": "There Was Never Just One"
   },
@@ -6826,7 +6826,7 @@
     "directors": "Paul Greengrass",
     "writers": "Robert Ludlum, Tony Gilroy",
     "countries": "United States of America",
-    "collections": "The Bourne Collection, No Need to Rent These Movies",
+    "collections": "The Bourne Collection, Written by Tony Gilroy, No Need to Rent These Movies",
     "labels": "",
     "tagline": "They should have left him alone."
   },
@@ -6853,7 +6853,7 @@
     "directors": "Paul Greengrass",
     "writers": "George Nolfi, Scott Z. Burns, Tony Gilroy, Robert Ludlum",
     "countries": "United States of America, United Kingdom",
-    "collections": "The Bourne Collection, No Need to Rent These Movies",
+    "collections": "The Bourne Collection, Written by Tony Gilroy, No Need to Rent These Movies",
     "labels": "",
     "tagline": "Remember everything. Forgive nothing."
   },
@@ -11578,7 +11578,7 @@
     "directors": "Christopher Nolan",
     "writers": "Bob Kane, Jonathan Nolan, Christopher Nolan, David S. Goyer",
     "countries": "United Kingdom, United States of America",
-    "collections": "The Dark Knight Collection",
+    "collections": "The Dark Knight Collection, Directed by Christopher Nolan",
     "labels": "Agregarr-stale",
     "tagline": "The legend ends."
   },
@@ -12901,7 +12901,7 @@
     "directors": "Taylor Hackford",
     "writers": "Andrew Neiderman, Tony Gilroy, Jonathan Lemkin",
     "countries": "Germany, United States of America",
-    "collections": "No Need to Rent These Movies",
+    "collections": "Written by Tony Gilroy, No Need to Rent These Movies",
     "labels": "",
     "tagline": "The newest attorney at the world's most powerful law firm has never lost a case. But he's about to lose his soul."
   },
@@ -14003,7 +14003,7 @@
     "imdb_id": "tt33071426",
     "tvdb_id": "359067",
     "letterboxd_url": "https://letterboxd.com/search/films/The+Drama+2026/",
-    "audience_rating": 7.3,
+    "audience_rating": 7.2,
     "audience_rating_image": "imdb://image.rating",
     "directors": "Kristoffer Borgli",
     "writers": "Kristoffer Borgli",
@@ -14143,7 +14143,7 @@
     "directors": "Christopher Landon",
     "writers": "Jillian Jacobs, Christopher Roach",
     "countries": "United States of America, Ireland",
-    "collections": "",
+    "collections": "Blumhouse on the Plex",
     "labels": "Agregarr-stale",
     "tagline": "Everyone's a suspect."
   },
@@ -14494,7 +14494,7 @@
     "directors": "Tony Gilroy",
     "writers": "Tony Gilroy",
     "countries": "Germany, United States of America",
-    "collections": "Just 4 Laughs AG Movies, The Romantic Romance Collection, No Need to Rent These Movies",
+    "collections": "Written by Tony Gilroy, Just 4 Laughs AG Movies, The Romantic Romance Collection, No Need to Rent These Movies",
     "labels": "Comedy",
     "tagline": "She's ex-CIA. He's ex-MI6. Together they're stealing a fortune."
   },
@@ -15331,7 +15331,7 @@
     "directors": "John Carpenter",
     "writers": "John Carpenter, Debra Hill, Kurt Russell, Nick Castle",
     "countries": "United States of America",
-    "collections": "Escape From ... Collection, John Carpenter's Collection, Scifi Throwbacks AG Movies",
+    "collections": "Escape From ... Collection, Written by Debra Hill, John Carpenter's Collection, Scifi Throwbacks AG Movies",
     "labels": "Directors",
     "tagline": "Snake is back."
   },
@@ -17356,7 +17356,7 @@
     "directors": "John Carpenter",
     "writers": "Debra Hill, John Carpenter",
     "countries": "United States of America",
-    "collections": "John Carpenter's Collection, 80s Horror Collection",
+    "collections": "Written by Debra Hill, John Carpenter's Collection, 80s Horror Collection",
     "labels": "Directors",
     "tagline": "What you can't see won't hurt you...it'll kill you!"
   },
@@ -19958,7 +19958,7 @@
     "genres": "Horror",
     "studio": "What’s Wrong with Your Dog?",
     "plot": "A loyal dog moves to a rural family home with his owner, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
-    "cast": "Indy, Shane Jensen, Arielle Friedman",
+    "cast": "Shane Jensen, Arielle Friedman, Larry Fessenden",
     "original_air_date": "2025-10-01",
     "runtime_minutes": 73,
     "content_rating": "PG-13",
@@ -21028,7 +21028,7 @@
     "directors": "John Carpenter",
     "writers": "Debra Hill, John Carpenter",
     "countries": "United States of America",
-    "collections": "Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, John Carpenter's Collection, Old School Horror Collection, Thrillers with No Filler (< 90 minute Thrillers)",
+    "collections": "Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, John Carpenter's Collection, Written by Debra Hill, Old School Horror Collection, Thrillers with No Filler (< 90 minute Thrillers)",
     "labels": "Directors",
     "tagline": "The night he came home!"
   },
@@ -21055,7 +21055,7 @@
     "directors": "Rob Zombie",
     "writers": "Rob Zombie, John Carpenter, Debra Hill",
     "countries": "United States of America",
-    "collections": "Robert Zombie's Halloween Crap, Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends",
+    "collections": "Robert Zombie's Halloween Crap, Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, Written by Debra Hill",
     "labels": "",
     "tagline": "Evil has a destiny."
   },
@@ -21136,7 +21136,7 @@
     "directors": "Dominique Othenin-Girard",
     "writers": "Shem Bitterman, Dominique Othenin-Girard, Michael Jacobs, Debra Hill, John Carpenter",
     "countries": "United States of America",
-    "collections": "Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, 80s Horror Collection",
+    "collections": "Written by Debra Hill, Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, 80s Horror Collection",
     "labels": "Horror",
     "tagline": "Michael lives. AND THIS TIME THEY'RE READY!"
   },
@@ -21190,7 +21190,7 @@
     "directors": "Steve Miner",
     "writers": "Matt Greenberg, Robert Zappia, Debra Hill, John Carpenter",
     "countries": "United States of America",
-    "collections": "Glossy 90s/00s Horror Slop, Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, Thrillers with No Filler (< 90 minute Thrillers)",
+    "collections": "Glossy 90s/00s Horror Slop, Written by Debra Hill, Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, Thrillers with No Filler (< 90 minute Thrillers)",
     "labels": "",
     "tagline": "This summer, terror won't be taking a vacation."
   },
@@ -21217,7 +21217,7 @@
     "directors": "Rick Rosenthal",
     "writers": "John Carpenter, Debra Hill",
     "countries": "United States of America",
-    "collections": "Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, 80s Horror Collection, No Need to Rent These Movies",
+    "collections": "Written by Debra Hill, Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, 80s Horror Collection, No Need to Rent These Movies",
     "labels": "Horror",
     "tagline": "More of the night he came home."
   },
@@ -21298,7 +21298,7 @@
     "directors": "David Gordon Green",
     "writers": "David Gordon Green, Danny McBride, Scott Teems",
     "countries": "United States of America",
-    "collections": "Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, Modern Horror AG Movies, No Need to Rent These Movies",
+    "collections": "Blumhouse on the Plex, Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, Modern Horror AG Movies, No Need to Rent These Movies",
     "labels": "Horror",
     "tagline": "Evil dies tonight."
   },
@@ -21352,7 +21352,7 @@
     "directors": "Rick Rosenthal",
     "writers": "Larry Brand, Sean Hood, Debra Hill, John Carpenter",
     "countries": "United States of America, Canada",
-    "collections": "Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, Thrillers with No Filler (< 90 minute Thrillers)",
+    "collections": "Written by Debra Hill, Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, Thrillers with No Filler (< 90 minute Thrillers)",
     "labels": "",
     "tagline": "Evil finds its way home."
   },
@@ -22270,7 +22270,7 @@
     "directors": "Gerald Potterton, John Bruno, John Halas, Julian Harris, Jimmy T. Murakami, Barrie Nelson, Paul Sabella, Jack Stokes, Pino Van Lamsweerde, Harold Whitaker",
     "writers": "Len Blum, Daniel Goldberg, Jean Giraud, Dan O'Bannon, Richard Corben",
     "countries": "Canada, United States of America",
-    "collections": "Music to Your Ears Collection, Scifi Throwbacks AG Movies",
+    "collections": "Written by Dan O'Bannon, Music to Your Ears Collection, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction, Music",
     "tagline": "A step beyond science fiction."
   },
@@ -24597,6 +24597,33 @@
     "tagline": "Everything you know about desire is dead wrong."
   },
   {
+    "title": "In the Grey",
+    "year": 2026,
+    "genres": "Action, Thriller",
+    "studio": "C2 Motion Picture Group",
+    "plot": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back-an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+    "cast": "Henry Cavill, Jake Gyllenhaal, Eiza González",
+    "original_air_date": "2026-04-10",
+    "runtime_minutes": 96,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 30903,
+    "added_at": "2026-06-02",
+    "media_type": "movie",
+    "tmdb_id": "1122573",
+    "imdb_id": "tt27681354",
+    "tvdb_id": "356348",
+    "letterboxd_url": "https://letterboxd.com/search/films/In+the+Grey+2026/",
+    "audience_rating": 6.6,
+    "audience_rating_image": "imdb://image.rating",
+    "directors": "Guy Ritchie",
+    "writers": "Guy Ritchie",
+    "countries": "United Kingdom, United States of America",
+    "collections": "",
+    "labels": "",
+    "tagline": "When billions get stolen, they are the pros who steal it back."
+  },
+  {
     "title": "In the Mouth of Madness",
     "year": 1994,
     "genres": "Horror, Mystery",
@@ -25105,7 +25132,7 @@
     "directors": "James Wan",
     "writers": "Leigh Whannell, James Wan",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies",
+    "collections": "Blumhouse on the Plex, No Need to Rent These Movies",
     "labels": "",
     "tagline": "It will take what you love most."
   },
@@ -25429,7 +25456,7 @@
     "directors": "Leigh Whannell",
     "writers": "Leigh Whannell, H. G. Wells",
     "countries": "Australia, United States of America",
-    "collections": "Post 2000 Scifi AG Movies, Modern Horror AG Movies",
+    "collections": "Post 2000 Scifi AG Movies, Blumhouse on the Plex, Modern Horror AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "What you can't see can hurt you."
   },
@@ -30262,7 +30289,7 @@
     "directors": "Gerard Johnstone",
     "writers": "Gerard Johnstone",
     "countries": "United States of America",
-    "collections": "Post 2000 Scifi AG Movies",
+    "collections": "Blumhouse on the Plex, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Miss me?"
   },
@@ -32071,7 +32098,7 @@
     "directors": "Tony Gilroy",
     "writers": "Tony Gilroy",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies",
+    "collections": "Written by Tony Gilroy, No Need to Rent These Movies",
     "labels": "",
     "tagline": "The truth can be adjusted."
   },
@@ -37093,7 +37120,7 @@
     "directors": "Carter Smith",
     "writers": "Jack Stanley",
     "countries": "United States of America",
-    "collections": "",
+    "collections": "Blumhouse on the Plex",
     "labels": "Agregarr-stale",
     "tagline": "Ride or die."
   },
@@ -41305,7 +41332,7 @@
     "directors": "Dan O'Bannon",
     "writers": "Dan O'Bannon, John A. Russo, Rudy Ricci, Russell Streiner",
     "countries": "United Kingdom, United States of America",
-    "collections": "80s Horror Collection, Scifi Throwbacks AG Movies",
+    "collections": "Written by Dan O'Bannon, 80s Horror Collection, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "They're Back From The Grave and Ready To Party!"
   },
@@ -41872,7 +41899,7 @@
     "directors": "Gareth Edwards",
     "writers": "Chris Weitz, Gary Whitta, John Knoll, George Lucas, Tony Gilroy",
     "countries": "United States of America",
-    "collections": "Star Wars Collection, Post 2000 Scifi AG Movies",
+    "collections": "Star Wars Collection, Post 2000 Scifi AG Movies, Written by Tony Gilroy",
     "labels": "Science Fiction",
     "tagline": "Empires are built on fear. Rebellions are built on hope."
   },
@@ -43357,7 +43384,7 @@
     "directors": "Christian Duguay",
     "writers": "Miguel Tejada-Flores, Dan O'Bannon, Philip K. Dick",
     "countries": "Canada, Japan, United States of America",
-    "collections": "War, huh (good God) Collection, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "Written by Dan O'Bannon, War, huh (good God) Collection, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "War, Science Fiction",
     "tagline": "The last scream you hear will be your own."
   },
@@ -46300,7 +46327,7 @@
     "directors": "James Watkins",
     "writers": "James Watkins",
     "countries": "United States of America",
-    "collections": "Modern Horror AG Movies",
+    "collections": "Blumhouse on the Plex, Modern Horror AG Movies",
     "labels": "Horror",
     "tagline": "Hear no evil."
   },
@@ -50755,7 +50782,7 @@
     "directors": "Paul Verhoeven",
     "writers": "Jon Povill, Dan O'Bannon, Ronald Shusett, Gary Goldman, David Rodgers",
     "countries": "United States of America",
-    "collections": "Scifi Throwbacks AG Movies",
+    "collections": "Written by Dan O'Bannon, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "They stole his mind. Now, he wants it back."
   },
@@ -54670,7 +54697,7 @@
     "directors": "Jaume Collet-Serra",
     "writers": "Sam Stefanak",
     "countries": "United States of America",
-    "collections": "",
+    "collections": "Blumhouse on the Plex",
     "labels": "Agregarr-stale",
     "tagline": "Don't let her in."
   },
