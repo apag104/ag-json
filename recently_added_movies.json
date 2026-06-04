@@ -346,7 +346,7 @@
     "directors": "Danny Boyle",
     "writers": "Alex Garland",
     "countries": "United Kingdom",
-    "collections": "28 Days/Weeks/Years Later Collection, Directed by Danny Boyle , Scifi Throwbacks AG Movies, Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "28 Days/Weeks/Years Later Collection, Directed by Danny Boyle , Post 2000 Scifi AG Movies, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Directors",
     "tagline": "The days are numbered."
   },
@@ -427,7 +427,7 @@
     "directors": "Nia DaCosta",
     "writers": "Alex Garland",
     "countries": "United Kingdom, United States of America",
-    "collections": "28 Days/Weeks/Years Later Collection, Modern Horror AG Movies, Popular from IMDb, Post 2000 Scifi AG Movies",
+    "collections": "28 Days/Weeks/Years Later Collection, Popular from IMDb, Modern Horror AG Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "Fear is the new faith."
   },
@@ -697,7 +697,7 @@
     "directors": "Steven Spielberg",
     "writers": "Steven Spielberg, Brian Aldiss, Ian Watson",
     "countries": "United Kingdom, United States of America",
-    "collections": "Directed by Steven Spielberg, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , LETTERBOXD  Top Movies of the 2000s, Post 2000 Scifi AG Movies, Scifi Throwbacks AG Movies",
+    "collections": "Directed by Steven Spielberg, Scifi Throwbacks AG Movies, Post 2000 Scifi AG Movies, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , LETTERBOXD  Top Movies of the 2000s",
     "labels": "Directors",
     "tagline": "David is 11 years old. He weighs 60 pounds. He is 4 feet, 6 inches tall. He has brown hair. His love is real. But he is not."
   },
@@ -805,7 +805,7 @@
     "directors": "Richard Curtis",
     "writers": "Richard Curtis",
     "countries": "United Kingdom, United States of America",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "What if every moment in life came with a second chance?"
   },
@@ -832,7 +832,7 @@
     "directors": "James Cameron",
     "writers": "James Cameron",
     "countries": "United States of America",
-    "collections": "Scifi Throwbacks AG Movies, Empire Magazine's \"50 Greatest Sci-Fi Movies\" ",
+    "collections": "Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "When you get there, you will understand."
   },
@@ -994,7 +994,7 @@
     "directors": "Barry Sonnenfeld",
     "writers": "Larry Wilson, Caroline Thompson, Charles Addams",
     "countries": "United States of America",
-    "collections": "Addams Family Collection, How Mysterious Collection, Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Addams Family Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "Weird is relative."
   },
@@ -1021,7 +1021,7 @@
     "directors": "Barry Sonnenfeld",
     "writers": "Paul Rudnick, Charles Addams",
     "countries": "United States of America",
-    "collections": "Addams Family Collection, How Mysterious Collection, Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Addams Family Collection, Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "The family just got a little stranger."
   },
@@ -1048,7 +1048,7 @@
     "directors": "Casper Kelly",
     "writers": "Casper Kelly",
     "countries": "United States of America",
-    "collections": "Modern Horror AG Movies, AG PLEXclusives, Post 2000 Scifi AG Movies",
+    "collections": "AG PLEXclusives, Post 2000 Scifi AG Movies, Modern Horror AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": ""
   },
@@ -1264,7 +1264,7 @@
     "directors": "Hirokazu Kore-eda",
     "writers": "Hirokazu Kore-eda",
     "countries": "Japan",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "What is the one memory you would take with you?"
   },
@@ -1534,7 +1534,7 @@
     "directors": "Ridley Scott",
     "writers": "Ronald Shusett, Dan O'Bannon",
     "countries": "United States of America, United Kingdom",
-    "collections": "Alien Collection, Written by Dan O'Bannon, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Space is big. Really big., No Need to Rent These Movies, Old School Horror Collection, Scifi Throwbacks AG Movies",
+    "collections": "Alien Collection, Written by Dan O'Bannon, Space is big. Really big., Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Old School Horror Collection, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "In space no one can hear you scream."
   },
@@ -1615,7 +1615,7 @@
     "directors": "Ridley Scott",
     "writers": "Dante Harper, Dan O'Bannon, Ronald Shusett, Michael Green, Jack Paglen",
     "countries": "United States of America",
-    "collections": "Written by Dan O'Bannon, Modern Horror AG Movies, Post 2000 Scifi AG Movies",
+    "collections": "Post 2000 Scifi AG Movies, Written by Dan O'Bannon, Modern Horror AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "The path to paradise begins in hell."
   },
@@ -1696,7 +1696,7 @@
     "directors": "David Fincher",
     "writers": "Dan O'Bannon, Ronald Shusett, Vincent Ward, David Giler, Walter Hill",
     "countries": "United States of America",
-    "collections": "Alien Collection, Scifi Throwbacks AG Movies, Written by Dan O'Bannon, No Need to Rent These Movies",
+    "collections": "Alien Collection, Written by Dan O'Bannon, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "3 times the suspense. 3 times the danger. 3 times the terror"
   },
@@ -1723,7 +1723,7 @@
     "directors": "James Cameron",
     "writers": "James Cameron, Ronald Shusett, Dan O'Bannon, David Giler, Walter Hill",
     "countries": "United States of America",
-    "collections": "Alien Collection, Written by Dan O'Bannon, Space is big. Really big., Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "Alien Collection, Written by Dan O'Bannon, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Space is big. Really big., No Need to Rent These Movies, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "This time it's war."
   },
@@ -1939,7 +1939,7 @@
     "directors": "Bruno Bozzetto",
     "writers": "Bruno Bozzetto, Guido Manuli, Maurizio Nichetti",
     "countries": "Italy",
-    "collections": "AG PLEXclusives, How Mysterious Collection, Music to Your Ears Collection, Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Music to Your Ears Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, Just 4 Laughs AG Movies, AG PLEXclusives",
     "labels": "Comedy, Fantasy, Mystery, Music",
     "tagline": "An animated medley of satire, surrealism, spoofery, and general nonsense - set to superb music by Vivaldi, Debussy, Stravinsky, Dvorak, Ravel, and Sibelius..."
   },
@@ -2614,7 +2614,7 @@
     "directors": "Mamoru Oshii",
     "writers": "Mamoru Oshii, Yoshitaka Amano",
     "countries": "Japan",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Under a sky where clouds make sound as they move."
   },
@@ -2722,7 +2722,7 @@
     "directors": "Alex Garland",
     "writers": "Jeff VanderMeer, Alex Garland",
     "countries": "United Kingdom, United States of America",
-    "collections": "Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Post 2000 Scifi AG Movies, Modern Horror AG Movies, No Need to Rent These Movies",
+    "collections": "Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Modern Horror AG Movies, Post 2000 Scifi AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "Fear what's inside."
   },
@@ -3046,7 +3046,7 @@
     "directors": "Elizabeth Allen Rosenbaum",
     "writers": "Alice Hoffman, Jessica Bendinger, John Quaintance",
     "countries": "Australia, United States of America",
-    "collections": "How Mysterious Collection, Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "A Fish-Out-Of-Water Comedy."
   },
@@ -3289,7 +3289,7 @@
     "directors": "Andrew Dominik",
     "writers": "Ron Hansen, Andrew Dominik",
     "countries": "Canada, United Kingdom, United States of America",
-    "collections": "Wild Wild Westerns Collection, LETTERBOXD  Top Movies of the 2000s, No Need to Rent These Movies",
+    "collections": "LETTERBOXD  Top Movies of the 2000s, Wild Wild Westerns Collection, No Need to Rent These Movies",
     "labels": "Western",
     "tagline": "Beyond the myth lies America's greatest betrayal"
   },
@@ -3559,7 +3559,7 @@
     "directors": "Jeremiah S. Chechik",
     "writers": "Don MacPherson",
     "countries": "United States of America",
-    "collections": "Thrillers with No Filler (< 90 minute Thrillers), No Need to Rent These Movies, Scifi Throwbacks AG Movies",
+    "collections": "Thrillers with No Filler (< 90 minute Thrillers), Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "She's Peel. He's Steed. Their world is a dangerous place. And they love it."
   },
@@ -3613,7 +3613,7 @@
     "directors": "Chris Noonan",
     "writers": "George Miller, Chris Noonan, Dick King-Smith",
     "countries": "Australia, United States of America",
-    "collections": "Babe Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
+    "collections": "Babe Collection, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "A little pig goes a long way."
   },
@@ -3883,7 +3883,7 @@
     "directors": "Andrew Fleming",
     "writers": "Andrew Fleming, Yuri Zeltser, P.J. Pettiette, Michael Dick, Steven E. de Souza",
     "countries": "United States of America",
-    "collections": "Thrillers with No Filler (< 90 minute Thrillers), 80s Horror Collection, AG PLEXclusives",
+    "collections": "AG PLEXclusives, Thrillers with No Filler (< 90 minute Thrillers), 80s Horror Collection",
     "labels": "Horror",
     "tagline": "When Cynthia wakes up, she'll wish she were dead..."
   },
@@ -4234,8 +4234,8 @@
     "directors": "Christopher Nolan",
     "writers": "Christopher Nolan, Bob Kane, David S. Goyer",
     "countries": "United Kingdom, United States of America",
-    "collections": "The Dark Knight Collection, LETTERBOXD  Top Movies of the 2000s",
-    "labels": "Agregarr-stale",
+    "collections": "The Dark Knight Collection, Directed by Christopher Nolan, LETTERBOXD  Top Movies of the 2000s",
+    "labels": "",
     "tagline": "Evil fears the knight."
   },
   {
@@ -4369,7 +4369,7 @@
     "directors": "J. Lee Thompson",
     "writers": "Joyce Hooper Corrington, John William Corrington, Pierre Boulle, Paul Dehn",
     "countries": "United States of America",
-    "collections": "Planet of the Apes (Original) Collection, No Need to Rent These Movies, Scifi Throwbacks AG Movies",
+    "collections": "Planet of the Apes (Original) Collection, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "The final chapter in the incredible Apes saga. The most suspenseful showdown ever filmed as two civilizations battle for the right to inherit what's left of the earth!"
   },
@@ -4396,7 +4396,7 @@
     "directors": "Barry Levinson",
     "writers": "Michael Wallach",
     "countries": "United States of America",
-    "collections": "Thrillers with No Filler (< 90 minute Thrillers), Modern Horror AG Movies, Post 2000 Scifi AG Movies",
+    "collections": "Post 2000 Scifi AG Movies, Modern Horror AG Movies, Thrillers with No Filler (< 90 minute Thrillers)",
     "labels": "Science Fiction, Horror",
     "tagline": "Panic feeds on fear."
   },
@@ -4504,7 +4504,7 @@
     "directors": "Don Coscarelli",
     "writers": "Don Coscarelli, Paul Pepperman",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Born with the courage of an eagle, the strength of a black tiger, and the power of a god."
   },
@@ -4531,7 +4531,7 @@
     "directors": "Ari Aster",
     "writers": "Ari Aster",
     "countries": "United States of America, Finland",
-    "collections": "A24 (4U), Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "A24 (4U), How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery, A24",
     "tagline": "From his darkest fears comes the greatest adventure."
   },
@@ -4612,7 +4612,7 @@
     "directors": "Stanley Donen",
     "writers": "Dudley Moore, Peter Cook",
     "countries": "United Kingdom",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "An irreverent romp that raises hell"
   },
@@ -4639,7 +4639,7 @@
     "directors": "Harold Ramis",
     "writers": "Peter Tolan, Harold Ramis, Larry Gelbart",
     "countries": "Germany, United States of America",
-    "collections": "Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
+    "collections": "How Mysterious Collection, Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "Meet the Devil. She's giving Elliott seven wishes. But not a chance in Hell."
   },
@@ -4693,7 +4693,7 @@
     "directors": "Tim Burton",
     "writers": "Michael McDowell, Larry Wilson, Warren Skaaren",
     "countries": "United States of America",
-    "collections": "Beetlejuice Collection, Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies",
+    "collections": "Beetlejuice Collection, Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies, How Mysterious Collection",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "In this house... if you've seen one ghost... you haven't seen them all."
   },
@@ -4963,7 +4963,7 @@
     "directors": "Spike Jonze",
     "writers": "Charlie Kaufman",
     "countries": "United States of America",
-    "collections": "Written by Charlie Kaufman, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Written by Charlie Kaufman, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Ever wanted to be someone else? Now you can."
   },
@@ -5287,7 +5287,7 @@
     "directors": "Panos Cosmatos",
     "writers": "Panos Cosmatos",
     "countries": "Canada",
-    "collections": "",
+    "collections": "Post 2000 Scifi AG Movies",
     "labels": "",
     "tagline": "Beyond Science. Beyond Sanity. Beyond Control."
   },
@@ -5395,7 +5395,7 @@
     "directors": "Tim Burton",
     "writers": "John August, Daniel Wallace",
     "countries": "United States of America",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "An adventure as big as life itself."
   },
@@ -5449,7 +5449,7 @@
     "directors": "Stanley Tucci, Campbell Scott",
     "writers": "Joseph Tropiano, Stanley Tucci",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies, The Romantic Romance Collection",
+    "collections": "The Romantic Romance Collection, No Need to Rent These Movies",
     "labels": "",
     "tagline": "In love and life, one big night can change everything."
   },
@@ -5476,7 +5476,7 @@
     "directors": "John Carpenter",
     "writers": "David Z. Weinstein, W.D. Richter, Gary Goldman",
     "countries": "United States of America",
-    "collections": "John Carpenter's Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "John Carpenter's Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Directors",
     "tagline": "Jack Burton's in for some serious trouble and you're in for some serious fun."
   },
@@ -5638,7 +5638,7 @@
     "directors": "Ted Berman, Richard Rich",
     "writers": "Roy Edward Disney, Lloyd Alexander, Peter Young, David Jonas, Al Wilson",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Hidden by darkness. Guarded by witches. Discovered by a boy. Stolen by a king. Whoever owns it will rule the world. Or destroy it."
   },
@@ -5800,7 +5800,7 @@
     "directors": "Jeff Bleckner",
     "writers": "Dean R. Koontz",
     "countries": "United States of America",
-    "collections": "Thrillers with No Filler (< 90 minute Thrillers), Scifi Throwbacks AG Movies, AG PLEXclusives, Post 2000 Scifi AG Movies",
+    "collections": "AG PLEXclusives, Thrillers with No Filler (< 90 minute Thrillers), Scifi Throwbacks AG Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Remote. Controlled."
   },
@@ -6043,7 +6043,7 @@
     "directors": "David S. Goyer",
     "writers": "David S. Goyer",
     "countries": "United States of America",
-    "collections": "Blade Collection, So Booo 👎 it's Gooo 👍 Collection, Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "Blade Collection, So Booo 👎 it's Gooo 👍 Collection, No Need to Rent These Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "The final hunt begins."
   },
@@ -6070,7 +6070,7 @@
     "directors": "Hugh Wilson",
     "writers": "Hugh Wilson, Bill Kelly",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies, The Romantic Romance Collection",
+    "collections": "The Romantic Romance Collection, No Need to Rent These Movies",
     "labels": "",
     "tagline": "She'd never met anyone like him. He's never met anyone... Period."
   },
@@ -6151,7 +6151,7 @@
     "directors": "Chuck Russell",
     "writers": "Chuck Russell, Frank Darabont",
     "countries": "United States of America",
-    "collections": "80s Horror Collection, No Need to Rent These Movies, Scifi Throwbacks AG Movies",
+    "collections": "Scifi Throwbacks AG Movies, 80s Horror Collection, No Need to Rent These Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "Terror has no shape."
   },
@@ -6610,7 +6610,7 @@
     "directors": "Luca Guadagnino",
     "writers": "Camille DeAngelis, David Kajganich",
     "countries": "Italy, United States of America",
-    "collections": "Directed by Luca Guadagnino, Modern Horror AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Directed by Luca Guadagnino, Modern Horror AG Movies",
     "labels": "Directors",
     "tagline": "You can’t run from who you are."
   },
@@ -6691,7 +6691,7 @@
     "directors": "Wes Anderson",
     "writers": "Owen Wilson, Wes Anderson",
     "countries": "United States of America",
-    "collections": "Directed by Wes Anderson, Just 4 Laughs AG Movies, AG PLEXclusives",
+    "collections": "Directed by Wes Anderson, AG PLEXclusives, Just 4 Laughs AG Movies",
     "labels": "Directors",
     "tagline": "They're not criminals, but everybody's got to have a dream."
   },
@@ -7015,7 +7015,7 @@
     "directors": "John Flynn",
     "writers": "Brian Owens, Andrew Kevin Walker",
     "countries": "United Kingdom, United States of America",
-    "collections": "Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "Wanna play? I dare you."
   },
@@ -7285,7 +7285,7 @@
     "directors": "David Yarovesky",
     "writers": "Mark Gunn, Brian Gunn",
     "countries": "United States of America",
-    "collections": "Modern Horror AG Movies, Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "Post 2000 Scifi AG Movies, Modern Horror AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "He's not here to save the world."
   },
@@ -7555,7 +7555,7 @@
     "directors": "Jamie Babbit",
     "writers": "Brian Peterson, Jamie Babbit",
     "countries": "United States of America",
-    "collections": "The Romantic Romance Collection, Just 4 Laughs AG Movies",
+    "collections": "Just 4 Laughs AG Movies, The Romantic Romance Collection",
     "labels": "Comedy",
     "tagline": "A comedy of sexual disorientation."
   },
@@ -8068,7 +8068,7 @@
     "directors": "Brad Silberling",
     "writers": "Deanna Oliver, Sherri Stoner",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies, No Need to Rent These Movies",
+    "collections": "How Mysterious Collection, No Need to Rent These Movies, Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "Seeing is believing."
   },
@@ -8122,7 +8122,7 @@
     "directors": "Hayao Miyazaki",
     "writers": "Hayao Miyazaki",
     "countries": "Japan",
-    "collections": "Studio Ghibli on AG MOVIES, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Studio Ghibli on AG MOVIES, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Animated, Mystery",
     "tagline": "One day, a girl came down from the sky…"
   },
@@ -8149,7 +8149,7 @@
     "directors": "Lam Nai-Choi",
     "writers": "Chan Hing-Kai, Gordon Chan, Ni Kuang",
     "countries": "Hong Kong",
-    "collections": "AG PLEXclusives, Scifi Throwbacks AG Movies",
+    "collections": "Scifi Throwbacks AG Movies, AG PLEXclusives",
     "labels": "Science Fiction",
     "tagline": "Come see what the cat dragged in"
   },
@@ -8176,7 +8176,7 @@
     "directors": "Hiroyuki Morita",
     "writers": "Reiko Yoshida, Aoi Hiiragi, Hayao Miyazaki",
     "countries": "Japan",
-    "collections": "Studio Ghibli on AG MOVIES, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Studio Ghibli on AG MOVIES, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Animated, Mystery",
     "tagline": "It's not so bad being a cat, now is it?"
   },
@@ -8365,7 +8365,7 @@
     "directors": "Tarsem Singh",
     "writers": "Mark Protosevich",
     "countries": "United States of America, Germany, Namibia",
-    "collections": "Post 2000 Scifi AG Movies, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "Scifi Throwbacks AG Movies, Post 2000 Scifi AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "Enter the mind of a killer."
   },
@@ -9337,7 +9337,7 @@
     "directors": "Steven Spielberg",
     "writers": "Steven Spielberg",
     "countries": "United Kingdom, United States of America",
-    "collections": "Directed by Steven Spielberg, Scifi Throwbacks AG Movies, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , No Need to Rent These Movies",
+    "collections": "Directed by Steven Spielberg, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Directors",
     "tagline": "We are not alone."
   },
@@ -9526,7 +9526,7 @@
     "directors": "Matt Reeves",
     "writers": "Drew Goddard",
     "countries": "United States of America",
-    "collections": "Post 2000 Scifi AG Movies, Thrillers with No Filler (< 90 minute Thrillers), No Need to Rent These Movies",
+    "collections": "Thrillers with No Filler (< 90 minute Thrillers), Post 2000 Scifi AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "Some thing has found us."
   },
@@ -9742,7 +9742,7 @@
     "directors": "Richard Stanley",
     "writers": "Richard Stanley, H.P. Lovecraft, Scarlett Amaris",
     "countries": "United States of America, Portugal, Malaysia",
-    "collections": "Space is big. Really big., Post 2000 Scifi AG Movies, Modern Horror AG Movies",
+    "collections": "Space is big. Really big., Modern Horror AG Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "It will consume you."
   },
@@ -10390,7 +10390,7 @@
     "directors": "Henry Selick",
     "writers": "Henry Selick, Neil Gaiman, Ovi Nedelcu",
     "countries": "United States of America",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Be careful what you wish for."
   },
@@ -10525,7 +10525,7 @@
     "directors": "Jack Arnold",
     "writers": "Harry Essex, Arthur A. Ross, William Alland, Maurice Zimm",
     "countries": "United States of America",
-    "collections": "Old School Horror Collection, Scifi Throwbacks AG Movies",
+    "collections": "Scifi Throwbacks AG Movies, Old School Horror Collection",
     "labels": "Science Fiction, Horror",
     "tagline": "From the Amazon's forbidden depths came the Creature from the Black Lagoon."
   },
@@ -10552,7 +10552,7 @@
     "directors": "George A. Romero",
     "writers": "Stephen King",
     "countries": "United States of America",
-    "collections": "80s Horror Collection, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, 80s Horror Collection",
     "labels": "Horror",
     "tagline": "The Most Fun You'll Ever Have BEING SCARED!"
   },
@@ -10957,7 +10957,7 @@
     "directors": "Alex Proyas",
     "writers": "David J. Schow, John Shirley, James O'Barr",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, No Need to Rent These Movies",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "Believe in angels."
   },
@@ -11416,7 +11416,7 @@
     "directors": "Karen Disher, Guy Moore",
     "writers": "Glenn Eichler, Peggy Nicoll",
     "countries": "United States of America",
-    "collections": "Daria Collection, Thrillers with No Filler (< 90 minute Thrillers), AG PLEXclusives",
+    "collections": "Daria Collection, AG PLEXclusives, Thrillers with No Filler (< 90 minute Thrillers)",
     "labels": "",
     "tagline": ""
   },
@@ -11524,7 +11524,7 @@
     "directors": "Jim Henson, Frank Oz",
     "writers": "David Odell, Jim Henson",
     "countries": "United Kingdom, United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Another world, another time... in the age of wonder."
   },
@@ -11551,8 +11551,8 @@
     "directors": "Christopher Nolan",
     "writers": "Jonathan Nolan, Christopher Nolan, David S. Goyer, Bob Kane",
     "countries": "United Kingdom, United States of America",
-    "collections": "LETTERBOXD  Top Movies of the 2000s",
-    "labels": "Agregarr-stale",
+    "collections": "Directed by Christopher Nolan, LETTERBOXD  Top Movies of the 2000s",
+    "labels": "",
     "tagline": "Welcome to a world without rules."
   },
   {
@@ -11579,7 +11579,7 @@
     "writers": "Bob Kane, Jonathan Nolan, Christopher Nolan, David S. Goyer",
     "countries": "United Kingdom, United States of America",
     "collections": "The Dark Knight Collection, Directed by Christopher Nolan",
-    "labels": "Agregarr-stale",
+    "labels": "",
     "tagline": "The legend ends."
   },
   {
@@ -12118,7 +12118,7 @@
     "directors": "David Cronenberg",
     "writers": "Stephen King, Jeffrey Boam",
     "countries": "United States of America, Canada",
-    "collections": "Scifi Throwbacks AG Movies, 80s Horror Collection",
+    "collections": "80s Horror Collection, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "In his mind, he has the power to see the future. In his hands, he has the power to change it."
   },
@@ -12334,7 +12334,7 @@
     "directors": "Michael Fischa",
     "writers": "Mitch Paradise, James Bartruff",
     "countries": "United States of America",
-    "collections": "So Booo 👎 it's Gooo 👍 Collection, 80s Horror Collection",
+    "collections": "80s Horror Collection, So Booo 👎 it's Gooo 👍 Collection",
     "labels": "Horror",
     "tagline": "You’ll sweat blood!"
   },
@@ -12469,7 +12469,7 @@
     "directors": "Stephen Sommers",
     "writers": "Stephen Sommers",
     "countries": "Canada, United States of America",
-    "collections": "Glossy 90s/00s Horror Slop, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "Glossy 90s/00s Horror Slop, No Need to Rent These Movies, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "Full scream ahead."
   },
@@ -12523,7 +12523,7 @@
     "directors": "Sean S. Cunningham",
     "writers": "Lewis Abernathy, Geof Miller",
     "countries": "United States of America",
-    "collections": "80s Horror Collection, No Need to Rent These Movies, Scifi Throwbacks AG Movies",
+    "collections": "80s Horror Collection, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "Not All Aliens Come From Space. Save Your Last Breath... To Scream."
   },
@@ -12658,7 +12658,7 @@
     "directors": "Haruo Sotozaki",
     "writers": "Koyoharu Gotouge, Hikaru Kondô",
     "countries": "Japan",
-    "collections": "AG PLEXclusives, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, AG PLEXclusives",
     "labels": "Fantasy, Mystery",
     "tagline": "It's time to have some fun."
   },
@@ -13117,7 +13117,7 @@
     "directors": "Mamoru Hosoda, Shigeyasu Yamauchi",
     "writers": "Akiyoshi Hongo, Bob Buchholz, Jeff Nimoy",
     "countries": "Japan, United States of America",
-    "collections": "AG PLEXclusives, Post 2000 Scifi AG Movies, Scifi Throwbacks AG Movies",
+    "collections": "AG PLEXclusives, Scifi Throwbacks AG Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "New monsters. New battles. Now on the big screen."
   },
@@ -13225,7 +13225,7 @@
     "directors": "Nobuhiko Obayashi",
     "writers": "Shin'ichi Ichikawa, Taichi Yamada",
     "countries": "Japan",
-    "collections": "AG PLEXclusives, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "AG PLEXclusives, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Bizarre love for the undead, Driven ever closer to the brink of doom."
   },
@@ -13279,7 +13279,7 @@
     "directors": "Neill Blomkamp",
     "writers": "Neill Blomkamp, Terri Tatchell",
     "countries": "New Zealand, South Africa, United States of America",
-    "collections": "Empire Magazine's \"50 Greatest Sci-Fi Movies\" , LETTERBOXD  Top Movies of the 2000s, Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "Empire Magazine's \"50 Greatest Sci-Fi Movies\" , LETTERBOXD  Top Movies of the 2000s, No Need to Rent These Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "You are not welcome here."
   },
@@ -13306,7 +13306,7 @@
     "directors": "Quentin Tarantino",
     "writers": "Quentin Tarantino",
     "countries": "United States of America",
-    "collections": "Directed by Quentin Tarantino, Wild Wild Westerns Collection",
+    "collections": "Wild Wild Westerns Collection, Directed by Quentin Tarantino",
     "labels": "Directors",
     "tagline": "Life, liberty, and the pursuit of vengeance."
   },
@@ -13387,7 +13387,7 @@
     "directors": "Mike Flanagan",
     "writers": "Mike Flanagan, Stephen King",
     "countries": "United States of America",
-    "collections": "Modern Horror AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Modern Horror AG Movies",
     "labels": "Horror",
     "tagline": "Return to the Overlook."
   },
@@ -13414,7 +13414,7 @@
     "directors": "Scott Derrickson",
     "writers": "Jon Spaihts, Scott Derrickson, C. Robert Cargill",
     "countries": "United States of America",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "The impossibilities are endless."
   },
@@ -13441,7 +13441,7 @@
     "directors": "Sam Raimi",
     "writers": "Michael Waldron",
     "countries": "United States of America",
-    "collections": "How Mysterious Collection, Directed by Sam Raimi, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Directed by Sam Raimi, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Directors",
     "tagline": "Enter a new dimension of Strange."
   },
@@ -13495,7 +13495,7 @@
     "directors": "Stan Brakhage",
     "writers": "Stan Brakhage",
     "countries": "United States of America",
-    "collections": "AG PLEXclusives, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "AG PLEXclusives, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": ""
   },
@@ -13549,7 +13549,7 @@
     "directors": "Kevin Smith",
     "writers": "Kevin Smith",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, No Need to Rent These Movies",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "Get \"touched\" by an angel."
   },
@@ -14008,7 +14008,7 @@
     "directors": "Kristoffer Borgli",
     "writers": "Kristoffer Borgli",
     "countries": "United States of America",
-    "collections": "A24 (4U), The Romantic Romance Collection, No Need to Rent These Movies",
+    "collections": "A24 (4U), No Need to Rent These Movies, The Romantic Romance Collection",
     "labels": "A24",
     "tagline": "Witness the wedding of the year."
   },
@@ -14035,7 +14035,7 @@
     "directors": "Kristoffer Borgli",
     "writers": "Kristoffer Borgli",
     "countries": "United States of America",
-    "collections": "A24 (4U), Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, No Need to Rent These Movies",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, A24 (4U), Just 4 Laughs AG Movies, How Mysterious Collection, No Need to Rent These Movies",
     "labels": "Comedy, Fantasy, Mystery, A24",
     "tagline": "Meet the man of your dreams."
   },
@@ -14062,7 +14062,7 @@
     "directors": "Bernardo Bertolucci",
     "writers": "Gilbert Adair",
     "countries": "France, Italy, United Kingdom, United States of America",
-    "collections": "The Romantic Romance Collection, AG PLEXclusives",
+    "collections": "AG PLEXclusives, The Romantic Romance Collection",
     "labels": "",
     "tagline": "Together nothing is impossible. Together nothing is forbidden."
   },
@@ -14144,7 +14144,7 @@
     "writers": "Jillian Jacobs, Christopher Roach",
     "countries": "United States of America, Ireland",
     "collections": "Blumhouse on the Plex",
-    "labels": "Agregarr-stale",
+    "labels": "",
     "tagline": "Everyone's a suspect."
   },
   {
@@ -14305,7 +14305,7 @@
     "directors": "David Lynch",
     "writers": "David Lynch, Frank Herbert",
     "countries": "United States of America",
-    "collections": "Feature Films of David Lynch, Scifi Throwbacks AG Movies, Space is big. Really big., No Need to Rent These Movies",
+    "collections": "Feature Films of David Lynch, Space is big. Really big., Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Directors",
     "tagline": "A world beyond your experience, beyond your imagination."
   },
@@ -14386,7 +14386,7 @@
     "directors": "Courtney Solomon",
     "writers": "Topper Lilien, Carroll Cartwright",
     "countries": "Czech Republic, United States of America",
-    "collections": "So Booo 👎 it's Gooo 👍 Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "How Mysterious Collection, So Booo 👎 it's Gooo 👍 Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "This is no game"
   },
@@ -14413,7 +14413,7 @@
     "directors": "John Francis Daley, Jonathan Goldstein",
     "writers": "Michael Gilio, Chris McKay, Jonathan Goldstein, John Francis Daley",
     "countries": "Canada, United States of America",
-    "collections": "Heist Movies Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, Heist Movies Collection, How Mysterious Collection",
     "labels": "Fantasy, Heist, Mystery",
     "tagline": "No experience necessary."
   },
@@ -14440,7 +14440,7 @@
     "directors": "Christopher Nolan",
     "writers": "Christopher Nolan",
     "countries": "United Kingdom, United States of America",
-    "collections": "War, huh (good God) Collection",
+    "collections": "Directed by Christopher Nolan, War, huh (good God) Collection",
     "labels": "War",
     "tagline": "When 400,000 men couldn't get home, home came for them."
   },
@@ -14494,7 +14494,7 @@
     "directors": "Tony Gilroy",
     "writers": "Tony Gilroy",
     "countries": "Germany, United States of America",
-    "collections": "Written by Tony Gilroy, Just 4 Laughs AG Movies, The Romantic Romance Collection, No Need to Rent These Movies",
+    "collections": "Written by Tony Gilroy, No Need to Rent These Movies, Just 4 Laughs AG Movies, The Romantic Romance Collection",
     "labels": "Comedy",
     "tagline": "She's ex-CIA. He's ex-MI6. Together they're stealing a fortune."
   },
@@ -14764,7 +14764,7 @@
     "directors": "Ari Aster",
     "writers": "Ari Aster",
     "countries": "United States of America, Finland",
-    "collections": "A24 (4U), Wild Wild Westerns Collection, Just 4 Laughs AG Movies",
+    "collections": "Wild Wild Westerns Collection, A24 (4U), Just 4 Laughs AG Movies",
     "labels": "Comedy, Western, A24",
     "tagline": "Hindsight is 2020."
   },
@@ -15034,7 +15034,7 @@
     "directors": "Jon Favreau",
     "writers": "David Berenbaum",
     "countries": "United States of America",
-    "collections": "AG PLEXMAS, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, Just 4 Laughs AG Movies",
+    "collections": "AG PLEXMAS, Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies, How Mysterious Collection",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "Discover your inner elf."
   },
@@ -15250,7 +15250,7 @@
     "directors": "Sidney J. Furie",
     "writers": "Frank De Felitta",
     "countries": "United States of America",
-    "collections": "80s Horror Collection, AG PLEXclusives",
+    "collections": "AG PLEXclusives, 80s Horror Collection",
     "labels": "Horror",
     "tagline": "There is no escape from something you cannot see."
   },
@@ -15385,7 +15385,7 @@
     "directors": "Don Taylor",
     "writers": "Paul Dehn, Pierre Boulle",
     "countries": "United States of America",
-    "collections": "Planet of the Apes (Original) Collection, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "Planet of the Apes (Original) Collection, No Need to Rent These Movies, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "Meet baby Milo who has Washington terrified."
   },
@@ -15412,7 +15412,7 @@
     "directors": "Michel Gondry",
     "writers": "Pierre Bismuth, Charlie Kaufman, Michel Gondry",
     "countries": "United States of America",
-    "collections": "Written by Charlie Kaufman, LETTERBOXD  Top Movies of the 2000s, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "Written by Charlie Kaufman, LETTERBOXD  Top Movies of the 2000s, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , No Need to Rent These Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "You can erase someone from your mind. Getting them out of your heart is another story."
   },
@@ -15439,7 +15439,7 @@
     "directors": "David Freyne",
     "writers": "David Freyne, Pat Cunnane",
     "countries": "United States of America",
-    "collections": "A24 (4U), The Romantic Romance Collection",
+    "collections": "The Romantic Romance Collection, A24 (4U)",
     "labels": "A24",
     "tagline": "You can only choose one."
   },
@@ -15736,7 +15736,7 @@
     "directors": "Ivan Reitman",
     "writers": "Don Jakoby, David Weissman, David Diamond, David J. Negron Sr.",
     "countries": "United States of America",
-    "collections": "Post 2000 Scifi AG Movies, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Scifi Throwbacks AG Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Coming to wipe that silly smile off your planet."
   },
@@ -15790,7 +15790,7 @@
     "directors": "John Boorman",
     "writers": "Thomas Malory, John Boorman, Rospo Pallenberg",
     "countries": "United Kingdom, United States of America",
-    "collections": "No Need to Rent These Movies, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "Forged by a god. Foretold by a wizard. Found by a king."
   },
@@ -16384,7 +16384,7 @@
     "directors": "Janeen Damian",
     "writers": "Jeff Bonnett, Ron Oliver",
     "countries": "United States of America",
-    "collections": "AG PLEXMAS, Just 4 Laughs AG Movies, The Romantic Romance Collection",
+    "collections": "AG PLEXMAS, The Romantic Romance Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy",
     "tagline": "This holiday season, fall for the unexpected."
   },
@@ -16438,7 +16438,7 @@
     "directors": "Art Names",
     "writers": "John T. Wilson, Art Names",
     "countries": "United States of America",
-    "collections": "AG PLEXclusives, Old School Horror Collection",
+    "collections": "Old School Horror Collection, AG PLEXclusives",
     "labels": "Horror",
     "tagline": "Biggest bite since Jaws."
   },
@@ -16465,7 +16465,7 @@
     "directors": "Ingmar Bergman",
     "writers": "Ingmar Bergman",
     "countries": "Sweden, Germany, France",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "En film av Ingmar Bergman"
   },
@@ -17113,7 +17113,7 @@
     "directors": "Richie Keen",
     "writers": "Max Greenfield, Evan Susser, Van Robichaux",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies, Just 4 Laughs AG Movies",
+    "collections": "Just 4 Laughs AG Movies, No Need to Rent These Movies",
     "labels": "Comedy",
     "tagline": "After school. Parking lot. It's on."
   },
@@ -17194,7 +17194,7 @@
     "directors": "Jules Bass, Arthur Rankin, Jr.",
     "writers": "Peter Dickinson, Gordon R. Dickson, Romeo Muller, Jules Bass, Wayne Anderson",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "The ultimate war between magic and science is about to begin."
   },
@@ -17221,7 +17221,7 @@
     "directors": "Gints Zilbalodis",
     "writers": "Matīss Kaža, Gints Zilbalodis, Ron Dyens",
     "countries": "Latvia, Belgium, France",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Disaster tore their world apart. Friendship will bring them together."
   },
@@ -17275,7 +17275,7 @@
     "directors": "David Cronenberg",
     "writers": "David Cronenberg, Charles Edward Pogue, George Langelaan",
     "countries": "Canada, United States of America",
-    "collections": "The Fly (1986) Collection, 80s Horror Collection, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "The Fly (1986) Collection, Scifi Throwbacks AG Movies, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , 80s Horror Collection, No Need to Rent These Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "Be afraid. Be very afraid."
   },
@@ -17302,7 +17302,7 @@
     "directors": "Chris Walas",
     "writers": "Jim Wheat, Mick Garris, Ken Wheat, Frank Darabont, George Langelaan",
     "countries": "Canada, United States of America",
-    "collections": "The Fly (1986) Collection, AG PLEXclusives, 80s Horror Collection, Scifi Throwbacks AG Movies",
+    "collections": "The Fly (1986) Collection, AG PLEXclusives, Scifi Throwbacks AG Movies, 80s Horror Collection",
     "labels": "Science Fiction, Horror",
     "tagline": "Like Father Like Son"
   },
@@ -17329,7 +17329,7 @@
     "directors": "John Coats",
     "writers": "John Coats",
     "countries": "United States of America",
-    "collections": "Scifi Throwbacks AG Movies, Old School Horror Collection, AG PLEXclusives",
+    "collections": "AG PLEXclusives, Scifi Throwbacks AG Movies, Old School Horror Collection",
     "labels": "Science Fiction, Horror",
     "tagline": "A chilling tale of alien terror."
   },
@@ -17491,7 +17491,7 @@
     "directors": "Meredith Alloway",
     "writers": "Meredith Alloway, Lily Houghton",
     "countries": "United States of America, Canada",
-    "collections": "Modern Horror AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Modern Horror AG Movies",
     "labels": "Horror",
     "tagline": "The coven just clocked in."
   },
@@ -17572,7 +17572,7 @@
     "directors": "Billy Wilder",
     "writers": "Charles Brackett, Robert Harari, Richard L. Breen, Billy Wilder, David Shaw",
     "countries": "United States of America",
-    "collections": "Just 4 Laughs AG Movies, The Romantic Romance Collection, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Just 4 Laughs AG Movies, The Romantic Romance Collection",
     "labels": "Comedy",
     "tagline": "\"A Foreign Affair\" is a funny affair!"
   },
@@ -17653,7 +17653,7 @@
     "directors": "Darren Aronofsky",
     "writers": "Darren Aronofsky, Ari Handel",
     "countries": "United States of America",
-    "collections": "LETTERBOXD  Top Movies of the 2000s, Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "LETTERBOXD  Top Movies of the 2000s, No Need to Rent These Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "What if you could live forever?"
   },
@@ -17680,7 +17680,7 @@
     "directors": "Olatunde Osunsanmi",
     "writers": "Olatunde Osunsanmi",
     "countries": "Belgium, United States of America",
-    "collections": "Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "There are four kinds of alien encounters. The fourth kind is abduction."
   },
@@ -17815,7 +17815,7 @@
     "directors": "Alex Winter, Tom Stern",
     "writers": "Alex Winter, Tim Burns, Tom Stern",
     "countries": "United States of America",
-    "collections": "Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "Butt ugly. But funny."
   },
@@ -17842,7 +17842,7 @@
     "directors": "Nisha Ganatra",
     "writers": "Jordan Weiss, Elyse Hollander, Mary Rodgers",
     "countries": "United States of America",
-    "collections": "How Mysterious Collection, Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "Here we go again."
   },
@@ -17869,7 +17869,7 @@
     "directors": "Mark Waters",
     "writers": "Leslie Dixon, Heather Hach, Mary Rodgers",
     "countries": "United States of America",
-    "collections": "Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Just 4 Laughs AG Movies, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "Mondays are manic. Wednesdays are wild. And Fridays are about to get a little freaky."
   },
@@ -18112,7 +18112,7 @@
     "directors": "Claire Denis",
     "writers": "Claire Denis, Emmanuèle Bernheim",
     "countries": "France",
-    "collections": "AG PLEXclusives, The Romantic Romance Collection",
+    "collections": "The Romantic Romance Collection, AG PLEXclusives",
     "labels": "",
     "tagline": "This could be any evening in any place."
   },
@@ -18139,7 +18139,7 @@
     "directors": "Sean S. Cunningham",
     "writers": "Arch McCoy",
     "countries": "United States of America",
-    "collections": "Friday the 13th Collection, Popular from IMDb, 80s Horror Collection",
+    "collections": "Friday the 13th Collection, 80s Horror Collection, Popular from IMDb",
     "labels": "Horror",
     "tagline": "They were warned...They are doomed...And on Friday the 13th, nothing will save them."
   },
@@ -18193,7 +18193,7 @@
     "directors": "Tom McLoughlin",
     "writers": "Tom McLoughlin",
     "countries": "United States of America",
-    "collections": "Friday the 13th Collection, Thrillers with No Filler (< 90 minute Thrillers), 80s Horror Collection",
+    "collections": "Friday the 13th Collection, 80s Horror Collection, Thrillers with No Filler (< 90 minute Thrillers)",
     "labels": "Horror",
     "tagline": "Kill or be killed."
   },
@@ -18274,7 +18274,7 @@
     "directors": "Steve Miner",
     "writers": "Ron Kurz, Arch McCoy",
     "countries": "United States of America",
-    "collections": "Friday the 13th Collection, 80s Horror Collection, Thrillers with No Filler (< 90 minute Thrillers)",
+    "collections": "Friday the 13th Collection, Thrillers with No Filler (< 90 minute Thrillers), 80s Horror Collection",
     "labels": "Horror",
     "tagline": "The body count continues..."
   },
@@ -18517,7 +18517,7 @@
     "directors": "Stuart Gordon",
     "writers": "Dennis Paoli, H.P. Lovecraft, Brian Yuzna, Stuart Gordon",
     "countries": "United States of America, Italy",
-    "collections": "Scifi Throwbacks AG Movies, 80s Horror Collection",
+    "collections": "80s Horror Collection, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "Humans are such easy prey."
   },
@@ -18760,7 +18760,7 @@
     "directors": "George Miller",
     "writers": "George Miller, Nico Lathouris",
     "countries": "Australia, United States of America",
-    "collections": "Mad Max Collection, Post 2000 Scifi AG Movies, Directed by George Miller",
+    "collections": "Mad Max Collection, Directed by George Miller, Post 2000 Scifi AG Movies",
     "labels": "Directors",
     "tagline": "Fury is born."
   },
@@ -19057,7 +19057,7 @@
     "directors": "Andrew Niccol",
     "writers": "Andrew Niccol",
     "countries": "United States of America",
-    "collections": "Space is big. Really big., No Need to Rent These Movies, Scifi Throwbacks AG Movies",
+    "collections": "Space is big. Really big., Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "There is no gene for the human spirit."
   },
@@ -19354,7 +19354,7 @@
     "directors": "David Lowery",
     "writers": "David Lowery",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "It's all about time."
   },
@@ -19435,7 +19435,7 @@
     "directors": "Vincente Minnelli",
     "writers": "Niven Busch",
     "countries": "United States of America",
-    "collections": "The Romantic Romance Collection, Just 4 Laughs AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Just 4 Laughs AG Movies, The Romantic Romance Collection",
     "labels": "Comedy",
     "tagline": "Thank heaven for Gigi"
   },
@@ -20002,7 +20002,7 @@
     "directors": "Aziz Ansari",
     "writers": "Aziz Ansari",
     "countries": "United States of America",
-    "collections": "How Mysterious Collection, Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Just 4 Laughs AG Movies, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "Need a miracle?"
   },
@@ -20029,7 +20029,7 @@
     "directors": "Gore Verbinski",
     "writers": "Matthew Robinson",
     "countries": "United States of America, Germany",
-    "collections": "No Need to Rent These Movies, Post 2000 Scifi AG Movies",
+    "collections": "Post 2000 Scifi AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "Time is running out. Are you ready to join the revolution?"
   },
@@ -20407,7 +20407,7 @@
     "directors": "Jim Henson",
     "writers": "Jerry Juhl, Jay Tarses, Tom Patchett, Jack Rose",
     "countries": "United Kingdom, United States of America",
-    "collections": "Muppet Films Collection, Just 4 Laughs AG Movies, The Romantic Romance Collection",
+    "collections": "Muppet Films Collection, The Romantic Romance Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy",
     "tagline": "The Muppets... Scotland Yard... jewel thieves... lead to high adventure in London."
   },
@@ -20434,7 +20434,7 @@
     "directors": "David Lowery",
     "writers": "David Lowery",
     "countries": "Canada, Ireland, United States of America",
-    "collections": "A24 (4U), Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "A24 (4U), How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery, A24",
     "tagline": "When honor was everything."
   },
@@ -20569,7 +20569,7 @@
     "directors": "Tsui Hark",
     "writers": "Lilian Lee Bik-Wah, Tsui Hark",
     "countries": "Hong Kong",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, AG PLEXclusives, How Mysterious Collection",
+    "collections": "AG PLEXclusives, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Demons have never looked this good!"
   },
@@ -20974,7 +20974,7 @@
     "directors": "John Waters",
     "writers": "John Waters",
     "countries": "United States of America",
-    "collections": "Music to Your Ears Collection, Just 4 Laughs AG Movies, The Romantic Romance Collection, No Need to Rent These Movies",
+    "collections": "Music to Your Ears Collection, The Romantic Romance Collection, Just 4 Laughs AG Movies, No Need to Rent These Movies",
     "labels": "Comedy, Music",
     "tagline": "The world was in a mess... but their hair was perfect!!"
   },
@@ -21217,7 +21217,7 @@
     "directors": "Rick Rosenthal",
     "writers": "John Carpenter, Debra Hill",
     "countries": "United States of America",
-    "collections": "Written by Debra Hill, Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, 80s Horror Collection, No Need to Rent These Movies",
+    "collections": "Written by Debra Hill, Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, No Need to Rent These Movies, 80s Horror Collection",
     "labels": "Horror",
     "tagline": "More of the night he came home."
   },
@@ -21271,7 +21271,7 @@
     "directors": "Tommy Lee Wallace",
     "writers": "John Carpenter",
     "countries": "United States of America",
-    "collections": "Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, 80s Horror Collection, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "Halloween, Halloween, Halloween, Halloween II, Halloween II, Halloween III, Halloween Kills, Halloween IV, Halloween V, Halloween the Curse of Michael Meyers, Halloween H20: 20 Years Later, Halloween: Resurrection, Halloween Ends, Scifi Throwbacks AG Movies, No Need to Rent These Movies, 80s Horror Collection",
     "labels": "Science Fiction, Horror",
     "tagline": "The night no one comes home."
   },
@@ -21595,7 +21595,7 @@
     "directors": "M. Night Shyamalan",
     "writers": "M. Night Shyamalan",
     "countries": "United States of America, India",
-    "collections": "Thrillers with No Filler (< 90 minute Thrillers), No Need to Rent These Movies, Post 2000 Scifi AG Movies",
+    "collections": "Thrillers with No Filler (< 90 minute Thrillers), Post 2000 Scifi AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "We've sensed it. We've seen the signs. Now...it's happening."
   },
@@ -21811,7 +21811,7 @@
     "directors": "Richard Lester",
     "writers": "Alun Owen",
     "countries": "United Kingdom",
-    "collections": "Just 4 Laughs AG Movies, Music to Your Ears Collection",
+    "collections": "Music to Your Ears Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy, Music",
     "tagline": "The Beatles, starring in their first full-length, hilarious, action-packed film!"
   },
@@ -22081,7 +22081,7 @@
     "directors": "Elaine May",
     "writers": "Bruce Jay Friedman, Neil Simon",
     "countries": "United States of America",
-    "collections": "AG PLEXclusives, Just 4 Laughs AG Movies, The Romantic Romance Collection",
+    "collections": "AG PLEXclusives, The Romantic Romance Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy",
     "tagline": "A hip, hot and sexy lesson in love."
   },
@@ -22135,7 +22135,7 @@
     "directors": "David Mirkin",
     "writers": "Paul Guay, Stephen Mazur, Robert Dunn",
     "countries": "United States of America, United Kingdom",
-    "collections": "The Romantic Romance Collection, Just 4 Laughs AG Movies",
+    "collections": "Just 4 Laughs AG Movies, The Romantic Romance Collection",
     "labels": "Comedy",
     "tagline": "Meet the mother and daughter who'll love you for richer...and leave you for poorer."
   },
@@ -22243,7 +22243,7 @@
     "directors": "Peter Jackson",
     "writers": "Fran Walsh, Peter Jackson",
     "countries": "New Zealand, United States of America, Germany",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, AG PLEXclusives, How Mysterious Collection",
+    "collections": "AG PLEXclusives, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Not all angels are innocent."
   },
@@ -22270,7 +22270,7 @@
     "directors": "Gerald Potterton, John Bruno, John Halas, Julian Harris, Jimmy T. Murakami, Barrie Nelson, Paul Sabella, Jack Stokes, Pino Van Lamsweerde, Harold Whitaker",
     "writers": "Len Blum, Daniel Goldberg, Jean Giraud, Dan O'Bannon, Richard Corben",
     "countries": "Canada, United States of America",
-    "collections": "Written by Dan O'Bannon, Music to Your Ears Collection, Scifi Throwbacks AG Movies",
+    "collections": "Written by Dan O'Bannon, Scifi Throwbacks AG Movies, Music to Your Ears Collection",
     "labels": "Science Fiction, Music",
     "tagline": "A step beyond science fiction."
   },
@@ -22324,7 +22324,7 @@
     "directors": "Brian Taylor",
     "writers": "Mike Mignola, Christopher Golden, Brian Taylor",
     "countries": "United States of America, Germany, Bulgaria",
-    "collections": "No Need to Rent These Movies, Modern Horror AG Movies",
+    "collections": "Modern Horror AG Movies, No Need to Rent These Movies",
     "labels": "Horror",
     "tagline": "Something crooked this way comes."
   },
@@ -22702,7 +22702,7 @@
     "directors": "David Cronenberg",
     "writers": "Josh Olson, John Wagner, Vince Locke",
     "countries": "Germany, United States of America",
-    "collections": "LETTERBOXD  Top Movies of the 2000s, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, LETTERBOXD  Top Movies of the 2000s",
     "labels": "",
     "tagline": "Tom Stall had the perfect life...until he became a hero."
   },
@@ -22729,7 +22729,7 @@
     "directors": "Richard Linklater",
     "writers": "Richard Linklater, Glen Powell, Skip Hollandsworth",
     "countries": "United States of America",
-    "collections": "The Romantic Romance Collection, Just 4 Laughs AG Movies",
+    "collections": "Just 4 Laughs AG Movies, The Romantic Romance Collection",
     "labels": "Comedy",
     "tagline": "He's not a killer, but he can pretend."
   },
@@ -22783,7 +22783,7 @@
     "directors": "Kenny Ortega",
     "writers": "Neil Cuthbert, David Kirschner, Mick Garris",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies",
+    "collections": "Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "It's just a bunch of Hocus Pocus."
   },
@@ -22810,7 +22810,7 @@
     "directors": "Damian McCarthy",
     "writers": "Damian McCarthy",
     "countries": "United States of America, Ireland, United Arab Emirates, Hong Kong",
-    "collections": "",
+    "collections": "Modern Horror AG Movies",
     "labels": "",
     "tagline": "We've been expecting you."
   },
@@ -22864,7 +22864,7 @@
     "directors": "Nancy Meyers",
     "writers": "Nancy Meyers",
     "countries": "United States of America",
-    "collections": "Just 4 Laughs AG Movies, The Romantic Romance Collection, No Need to Rent These Movies",
+    "collections": "The Romantic Romance Collection, Just 4 Laughs AG Movies, No Need to Rent These Movies",
     "labels": "Comedy",
     "tagline": "It's Christmas Eve and we are going to go celebrate being young and being alive."
   },
@@ -22945,7 +22945,7 @@
     "directors": "Leos Carax",
     "writers": "Leos Carax",
     "countries": "Germany, France",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": ""
   },
@@ -23350,7 +23350,7 @@
     "directors": "Wes Anderson",
     "writers": "Wes Anderson",
     "countries": "France, United States of America",
-    "collections": "Directed by Wes Anderson, AG PLEXclusives, The Romantic Romance Collection",
+    "collections": "Directed by Wes Anderson, The Romantic Romance Collection, AG PLEXclusives",
     "labels": "Directors",
     "tagline": ""
   },
@@ -23458,7 +23458,7 @@
     "directors": "Fred Wolf",
     "writers": "Karen McCullah, Kirsten Smith",
     "countries": "United States of America",
-    "collections": "Just 4 Laughs AG Movies, The Romantic Romance Collection",
+    "collections": "The Romantic Romance Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy",
     "tagline": "For the girls of ZETA house college life was no party, until Shelley showed up."
   },
@@ -23674,7 +23674,7 @@
     "directors": "Ron Howard",
     "writers": "Peter S. Seaman, Jeffrey Price, Dr. Seuss",
     "countries": "United States of America, Germany",
-    "collections": "AG PLEXMAS, Just 4 Laughs AG Movies, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
+    "collections": "AG PLEXMAS, Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies, How Mysterious Collection, No Need to Rent These Movies",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "You better watch out!"
   },
@@ -23809,7 +23809,7 @@
     "directors": "Hayao Miyazaki",
     "writers": "Hayao Miyazaki, Diana Wynne Jones",
     "countries": "Japan",
-    "collections": "How Mysterious Collection, Studio Ghibli on AG MOVIES, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Studio Ghibli on AG MOVIES, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Animated, Mystery",
     "tagline": "The two lived there."
   },
@@ -23917,7 +23917,7 @@
     "directors": "Barbara Peeters",
     "writers": "William Martin",
     "countries": "United States of America",
-    "collections": "80s Horror Collection, Scifi Throwbacks AG Movies",
+    "collections": "Scifi Throwbacks AG Movies, 80s Horror Collection",
     "labels": "Science Fiction, Horror",
     "tagline": "From the Ocean Depths They Strike...To Terrorize...To Mate...And To Kill!"
   },
@@ -24322,7 +24322,7 @@
     "directors": "Mary Bronstein",
     "writers": "Mary Bronstein",
     "countries": "United States of America",
-    "collections": "Popular from IMDb, A24 (4U)",
+    "collections": "A24 (4U), Popular from IMDb",
     "labels": "A24",
     "tagline": "Everything is under control."
   },
@@ -24376,7 +24376,7 @@
     "directors": "Neil Burger",
     "writers": "Neil Burger, Steven Millhauser",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Nothing is what it seems"
   },
@@ -24403,7 +24403,7 @@
     "directors": "Robert Altman",
     "writers": "Robert Altman",
     "countries": "United States of America, United Kingdom",
-    "collections": "Directed by Robert Altman, No Need to Rent These Movies, Old School Horror Collection",
+    "collections": "Old School Horror Collection, Directed by Robert Altman, No Need to Rent These Movies",
     "labels": "Directors",
     "tagline": "A motion picture of the extra senses."
   },
@@ -24619,7 +24619,7 @@
     "directors": "Guy Ritchie",
     "writers": "Guy Ritchie",
     "countries": "United Kingdom, United States of America",
-    "collections": "",
+    "collections": "Heist Movies Collection",
     "labels": "",
     "tagline": "When billions get stolen, they are the pros who steal it back."
   },
@@ -24727,7 +24727,7 @@
     "directors": "Christopher Nolan",
     "writers": "Christopher Nolan",
     "countries": "United Kingdom, United States of America",
-    "collections": "Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "Directed by Christopher Nolan, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , No Need to Rent These Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Your mind is the scene of the crime."
   },
@@ -24889,7 +24889,7 @@
     "directors": "David Lynch",
     "writers": "Angelo Badalamenti, David Lynch",
     "countries": "United States of America",
-    "collections": "Feature Films of David Lynch, AG PLEXclusives, Music to Your Ears Collection",
+    "collections": "Music to Your Ears Collection, Feature Films of David Lynch, AG PLEXclusives",
     "labels": "Directors",
     "tagline": ""
   },
@@ -25078,7 +25078,7 @@
     "directors": "Joel Coen, Ethan Coen",
     "writers": "Joel Coen, Ethan Coen",
     "countries": "France, United Kingdom, United States of America",
-    "collections": "No Need to Rent These Movies, Music to Your Ears Collection",
+    "collections": "Music to Your Ears Collection, No Need to Rent These Movies",
     "labels": "Music",
     "tagline": ""
   },
@@ -25159,7 +25159,7 @@
     "directors": "Christopher Nolan",
     "writers": "Hillary Seitz, Erik Skjoldbjærg, Nikolaj Frobenius",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies",
+    "collections": "Directed by Christopher Nolan, No Need to Rent These Movies",
     "labels": "",
     "tagline": "A tough cop. A brilliant killer. An unspeakable crime."
   },
@@ -25240,7 +25240,7 @@
     "directors": "Kazuhisa Takenouchi, Leiji Matsumoto, Hirotoshi Rissen, Daisuke Nishio",
     "writers": "Thomas Bangalter, Cédric Hervet, Guy-Manuel de Homem-Christo",
     "countries": "France, Japan",
-    "collections": "Post 2000 Scifi AG Movies, Music to Your Ears Collection, AG PLEXclusives",
+    "collections": "AG PLEXclusives, Post 2000 Scifi AG Movies, Music to Your Ears Collection",
     "labels": "Science Fiction, Music",
     "tagline": "The animated House Musical."
   },
@@ -25267,7 +25267,7 @@
     "directors": "Christopher Nolan",
     "writers": "Jonathan Nolan, Christopher Nolan",
     "countries": "United Kingdom, United States of America",
-    "collections": "Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Post 2000 Scifi AG Movies",
+    "collections": "Directed by Christopher Nolan, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Mankind was born on Earth. It was never meant to die here."
   },
@@ -25321,7 +25321,7 @@
     "directors": "Rob Marshall",
     "writers": "James Lapine, Stephen Sondheim",
     "countries": "United States of America",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies",
+    "collections": "How Mysterious Collection, Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "Be careful what you wish for..."
   },
@@ -25402,7 +25402,7 @@
     "directors": "Philip Kaufman",
     "writers": "W.D. Richter, Jack Finney",
     "countries": "United States of America",
-    "collections": "Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Old School Horror Collection, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "Old School Horror Collection, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "The seed is planted... terror grows."
   },
@@ -25456,7 +25456,7 @@
     "directors": "Leigh Whannell",
     "writers": "Leigh Whannell, H. G. Wells",
     "countries": "Australia, United States of America",
-    "collections": "Post 2000 Scifi AG Movies, Blumhouse on the Plex, Modern Horror AG Movies",
+    "collections": "Blumhouse on the Plex, Post 2000 Scifi AG Movies, Modern Horror AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "What you can't see can hurt you."
   },
@@ -25645,7 +25645,7 @@
     "directors": "Erle C. Kenton",
     "writers": "H. G. Wells, Waldemar Young, Philip Wylie",
     "countries": "United States of America",
-    "collections": "Old School Horror Collection, No Need to Rent These Movies, Scifi Throwbacks AG Movies",
+    "collections": "Old School Horror Collection, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "TERROR! Stalked the Brush-Choked Island...Where Men Who Were Animals Sought the Girl Who Was All-Human!"
   },
@@ -26509,7 +26509,7 @@
     "directors": "Deborah Kaplan, Harry Elfont",
     "writers": "Harry Elfont, Deborah Kaplan",
     "countries": "United States of America",
-    "collections": "Just 4 Laughs AG Movies, Music to Your Ears Collection",
+    "collections": "Music to Your Ears Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy, Music",
     "tagline": "Here kitty, kitty, kitty..."
   },
@@ -26590,7 +26590,7 @@
     "directors": "Ivan Reitman",
     "writers": "Kevin Wade, Chris Conrad",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies, Scifi Throwbacks AG Movies",
+    "collections": "Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "Nothing is inconceivable."
   },
@@ -26779,7 +26779,7 @@
     "directors": "Jeff Lieberman",
     "writers": "Jeff Lieberman, Mark Arywitz, Jonas Middleton",
     "countries": "United States of America",
-    "collections": "AG PLEXclusives, 80s Horror Collection",
+    "collections": "80s Horror Collection, AG PLEXclusives",
     "labels": "Horror",
     "tagline": "Will Anyone Survive Those Hours Just Before Dawn?"
   },
@@ -26860,7 +26860,7 @@
     "directors": "Paul Michael Glaser",
     "writers": "Christian Ford, Roger Soffer, Paul Michael Glaser",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies, How Mysterious Collection",
+    "collections": "Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "The world's most powerful genie has just met his match."
   },
@@ -27238,7 +27238,7 @@
     "directors": "Stephen Chiodo",
     "writers": "Stephen Chiodo, Edward Chiodo, Charles Chiodo",
     "countries": "United States of America",
-    "collections": "Space is big. Really big., So Booo 👎 it's Gooo 👍 Collection, 80s Horror Collection, Scifi Throwbacks AG Movies",
+    "collections": "80s Horror Collection, Space is big. Really big., So Booo 👎 it's Gooo 👍 Collection, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "It’s craazzy!"
   },
@@ -27643,7 +27643,7 @@
     "directors": "Chris Appelhans, Maggie Kang",
     "writers": "Bo Yeon Kim, Erika Lippoldt",
     "countries": "United States of America",
-    "collections": "Just 4 Laughs AG Movies, Music to Your Ears Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Music to Your Ears Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy, Fantasy, Mystery, Music",
     "tagline": "They sing. They dance. They battle demons."
   },
@@ -27859,7 +27859,7 @@
     "directors": "M. Night Shyamalan",
     "writers": "M. Night Shyamalan",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Time is running out for a happy ending."
   },
@@ -27940,7 +27940,7 @@
     "directors": "H. Tjut Djalil",
     "writers": "Karr Kruinowz",
     "countries": "Indonesia",
-    "collections": "So Booo 👎 it's Gooo 👍 Collection, 80s Horror Collection, AG PLEXclusives, Scifi Throwbacks AG Movies",
+    "collections": "So Booo 👎 it's Gooo 👍 Collection, Scifi Throwbacks AG Movies, 80s Horror Collection, AG PLEXclusives",
     "labels": "Science Fiction, Horror",
     "tagline": "She Mates... Then She Terminates"
   },
@@ -27994,7 +27994,7 @@
     "directors": "Richard Donner",
     "writers": "Edward Khmara, Michael Thomas, Tom Mankiewicz, David Webb Peoples",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "No force in Heaven will release them. No power on Earth can save them."
   },
@@ -28642,7 +28642,7 @@
     "directors": "David Lean",
     "writers": "Michael Wilson, Robert Bolt",
     "countries": "United Kingdom",
-    "collections": "No Need to Rent These Movies, War, huh (good God) Collection",
+    "collections": "War, huh (good God) Collection, No Need to Rent These Movies",
     "labels": "War",
     "tagline": "Nothing is written."
   },
@@ -28912,7 +28912,7 @@
     "directors": "George P. Cosmatos",
     "writers": "David Webb Peoples, Jeb Stuart",
     "countries": "Italy, United States of America",
-    "collections": "80s Horror Collection, Scifi Throwbacks AG Movies",
+    "collections": "Scifi Throwbacks AG Movies, 80s Horror Collection",
     "labels": "Science Fiction, Horror",
     "tagline": "How long can you hold your breath?"
   },
@@ -29155,7 +29155,7 @@
     "directors": "Robert Eggers",
     "writers": "Max Eggers, Robert Eggers",
     "countries": "Brazil, United States of America",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "There is enchantment in the light."
   },
@@ -29344,7 +29344,7 @@
     "directors": "Florian Henckel von Donnersmarck",
     "writers": "Florian Henckel von Donnersmarck",
     "countries": "Germany, France",
-    "collections": "LETTERBOXD  Top Movies of the 2000s, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, LETTERBOXD  Top Movies of the 2000s",
     "labels": "",
     "tagline": "Before the Fall of the Berlin Wall, East Germany's Secret Police Listened to Your Secrets."
   },
@@ -29452,7 +29452,7 @@
     "directors": "Matt Farley",
     "writers": "Matt Farley",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies, Music to Your Ears Collection, Just 4 Laughs AG Movies",
+    "collections": "Music to Your Ears Collection, No Need to Rent These Movies, Just 4 Laughs AG Movies",
     "labels": "Comedy, Music",
     "tagline": "This is the New Hampshire comedy scene."
   },
@@ -29506,7 +29506,7 @@
     "directors": "Steven Soderbergh",
     "writers": "Jules Asner",
     "countries": "United States of America",
-    "collections": "Directed by Steven Soderbergh, Heist Movies Collection, No Need to Rent These Movies",
+    "collections": "Heist Movies Collection, Directed by Steven Soderbergh, No Need to Rent These Movies",
     "labels": "Directors",
     "tagline": "See how the other half steals."
   },
@@ -29722,7 +29722,7 @@
     "directors": "Rian Johnson",
     "writers": "Rian Johnson",
     "countries": "United States of America",
-    "collections": "Post 2000 Scifi AG Movies, Empire Magazine's \"50 Greatest Sci-Fi Movies\" ",
+    "collections": "Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Hunted by your future, haunted by your past."
   },
@@ -29749,7 +29749,7 @@
     "directors": "Ralph Bakshi",
     "writers": "J. R. R. Tolkien, Chris Conkling, Peter S. Beagle",
     "countries": "United Kingdom, United States of America, Spain",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Fantasy...beyond your imagination."
   },
@@ -29803,7 +29803,7 @@
     "directors": "Peter Jackson",
     "writers": "J. R. R. Tolkien, Fran Walsh, Peter Jackson, Philippa Boyens",
     "countries": "New Zealand, United States of America",
-    "collections": "How Mysterious Collection, LETTERBOXD  Top Movies of the 2000s, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, LETTERBOXD  Top Movies of the 2000s",
     "labels": "Fantasy, Mystery",
     "tagline": "The eye of the enemy is moving."
   },
@@ -29830,7 +29830,7 @@
     "directors": "Peter Jackson",
     "writers": "Philippa Boyens, Fran Walsh, J. R. R. Tolkien, Stephen Sinclair, Peter Jackson",
     "countries": "New Zealand, United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, LETTERBOXD  Top Movies of the 2000s",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, LETTERBOXD  Top Movies of the 2000s",
     "labels": "Fantasy, Mystery",
     "tagline": "The journey continues."
   },
@@ -29911,7 +29911,7 @@
     "directors": "Sofia Coppola",
     "writers": "Sofia Coppola",
     "countries": "United Kingdom, United States of America",
-    "collections": "Directed by ‎Sofia Coppola, No Need to Rent These Movies, LETTERBOXD  Top Movies of the 2000s, The Romantic Romance Collection",
+    "collections": "Directed by ‎Sofia Coppola, The Romantic Romance Collection, LETTERBOXD  Top Movies of the 2000s, No Need to Rent These Movies",
     "labels": "Directors",
     "tagline": "Everyone wants to be found."
   },
@@ -29992,7 +29992,7 @@
     "directors": "Marco Schnabel",
     "writers": "Graham Gordy, Mike Myers",
     "countries": "Germany, United States of America, United Kingdom",
-    "collections": "No Need to Rent These Movies, The Romantic Romance Collection, Just 4 Laughs AG Movies",
+    "collections": "The Romantic Romance Collection, No Need to Rent These Movies, Just 4 Laughs AG Movies",
     "labels": "Comedy",
     "tagline": "His karma is huge."
   },
@@ -30208,7 +30208,7 @@
     "directors": "David Cronenberg",
     "writers": "David Henry Hwang",
     "countries": "United States of America",
-    "collections": "The Romantic Romance Collection, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, The Romantic Romance Collection",
     "labels": "",
     "tagline": "Passion. Power. Revenge. In All Their Majesty."
   },
@@ -30397,7 +30397,7 @@
     "directors": "George Miller",
     "writers": "George Miller, Nico Lathouris, Brendan McCarthy",
     "countries": "Australia, United States of America",
-    "collections": "Mad Max Collection, Directed by George Miller, Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "Mad Max Collection, Directed by George Miller, No Need to Rent These Movies, Post 2000 Scifi AG Movies",
     "labels": "Directors",
     "tagline": "The future belongs to the mad."
   },
@@ -31369,7 +31369,7 @@
     "directors": "Danny DeVito",
     "writers": "Nicholas Kazan, Roald Dahl, Robin Swicord",
     "countries": "United States of America",
-    "collections": "Just 4 Laughs AG Movies, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "Somewhere inside all of us is the power to change the world."
   },
@@ -31423,7 +31423,7 @@
     "directors": "Lana Wachowski, Lilly Wachowski",
     "writers": "Lana Wachowski, Lilly Wachowski",
     "countries": "United States of America",
-    "collections": "The Matrix Collection, Directed by the Wachowskis, Feeling Paranoid? Collection, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , No Need to Rent These Movies, Scifi Throwbacks AG Movies",
+    "collections": "The Matrix Collection, Directed by the Wachowskis, Feeling Paranoid? Collection, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Directors",
     "tagline": "Believe the unbelievable."
   },
@@ -31666,7 +31666,7 @@
     "directors": "Francis Ford Coppola",
     "writers": "Francis Ford Coppola",
     "countries": "United States of America",
-    "collections": "Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "If you can't see a better future, build one."
   },
@@ -31801,7 +31801,7 @@
     "directors": "Alex Garland",
     "writers": "Alex Garland",
     "countries": "United Kingdom, United States of America",
-    "collections": "Modern Horror AG Movies, A24 (4U)",
+    "collections": "A24 (4U), Modern Horror AG Movies",
     "labels": "Horror, A24",
     "tagline": "What haunts you will find you."
   },
@@ -32044,7 +32044,7 @@
     "directors": "Richard Park Wu-sang, Y.K. Kim",
     "writers": "Joseph Diamand, Y.K. Kim, Richard Park Wu-sang",
     "countries": "United States of America, Hong Kong",
-    "collections": "Music to Your Ears Collection, So Booo 👎 it's Gooo 👍 Collection",
+    "collections": "So Booo 👎 it's Gooo 👍 Collection, Music to Your Ears Collection",
     "labels": "Music",
     "tagline": "Greetings from the most dangerous jungle in the world: the streets of Miami."
   },
@@ -32125,7 +32125,7 @@
     "directors": "Bong Joon Ho",
     "writers": "Bong Joon Ho",
     "countries": "United States of America, United Kingdom",
-    "collections": "Post 2000 Scifi AG Movies, Space is big. Really big.",
+    "collections": "Space is big. Really big., Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "He's dying to save mankind."
   },
@@ -32260,7 +32260,7 @@
     "directors": "Christopher Guest",
     "writers": "Christopher Guest, Eugene Levy",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies, Just 4 Laughs AG Movies, Music to Your Ears Collection",
+    "collections": "Music to Your Ears Collection, Just 4 Laughs AG Movies, No Need to Rent These Movies",
     "labels": "Comedy, Music",
     "tagline": "Back together for the first time, again."
   },
@@ -32908,7 +32908,7 @@
     "directors": "George A. Romero",
     "writers": "George A. Romero, Michael Stewart",
     "countries": "United States of America",
-    "collections": "Scifi Throwbacks AG Movies, 80s Horror Collection",
+    "collections": "80s Horror Collection, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "Once there was a man whose prison was a chair. The man had a monkey, they made the strangest pair. The monkey ruled the man, it climbed inside his head. And now as fate would have it, one of them is dead."
   },
@@ -32935,7 +32935,7 @@
     "directors": "Kenji Nakamura, Kiyotaka Suzuki",
     "writers": "Yasumi Atarashi",
     "countries": "Japan",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Unforgivable."
   },
@@ -32962,7 +32962,7 @@
     "directors": "Kenji Nakamura",
     "writers": "Kenji Nakamura, Koji Yamamoto",
     "countries": "Japan",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Form, Truth, and Reason."
   },
@@ -33016,7 +33016,7 @@
     "directors": "Terry Gilliam, Terry Jones",
     "writers": "Graham Chapman, John Cleese, Eric Idle, Terry Gilliam, Terry Jones, Michael Palin, Thomas Malory",
     "countries": "United Kingdom",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "And now! At Last! Another film completely different from some of the other films which aren't quite the same as this one is."
   },
@@ -33205,7 +33205,7 @@
     "directors": "Simon McQuoid",
     "writers": "Greg Russo, Oren Uziel, David Callaham",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Get over here!"
   },
@@ -33232,7 +33232,7 @@
     "directors": "Simon McQuoid",
     "writers": "Jeremy Slater",
     "countries": "United States of America",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "How Mysterious Collection, AG PLEXclusives, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "",
     "tagline": "Finish the fight."
   },
@@ -33556,7 +33556,7 @@
     "directors": "Brian Henson",
     "writers": "Charles Dickens, Jerry Juhl, Jim Henson",
     "countries": "United States of America",
-    "collections": "Music to Your Ears Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Music to Your Ears Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery, Music",
     "tagline": "A timeless tale, a muppet twist, and a holiday full of heart."
   },
@@ -33988,7 +33988,7 @@
     "directors": "Nick Corirossi",
     "writers": "Armen Weitzman, Nick Corirossi",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies, Just 4 Laughs AG Movies",
+    "collections": "Just 4 Laughs AG Movies, No Need to Rent These Movies",
     "labels": "Comedy",
     "tagline": "Life has its highs and its merlots."
   },
@@ -34096,7 +34096,7 @@
     "directors": "Hayao Miyazaki",
     "writers": "Hayao Miyazaki",
     "countries": "Japan",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "A young girl's love called forth miracles…"
   },
@@ -34123,7 +34123,7 @@
     "directors": "Jiao Zi",
     "writers": "Jiao Zi, Yi Qiao, Wei Yunyun",
     "countries": "China",
-    "collections": "Ne Zha Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Ne Zha Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Fight your fate"
   },
@@ -34150,7 +34150,7 @@
     "directors": "Jiao Zi",
     "writers": "Jiao Zi",
     "countries": "China",
-    "collections": "Ne Zha Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Ne Zha Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Witness a hero reborn."
   },
@@ -34366,7 +34366,7 @@
     "directors": "Elaine May",
     "writers": "Elaine May",
     "countries": "United States of America",
-    "collections": "The Romantic Romance Collection, Just 4 Laughs AG Movies",
+    "collections": "Just 4 Laughs AG Movies, The Romantic Romance Collection",
     "labels": "Comedy",
     "tagline": "Henry & Henrietta… the love couple of the seventies... and the laugh riot of the year."
   },
@@ -34555,7 +34555,7 @@
     "directors": "Masaaki Yuasa",
     "writers": "Tomihiko Morimi, Makoto Ueda",
     "countries": "Japan",
-    "collections": "How Mysterious Collection, Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "An epic night out on the town filled with chance encounters and strange romance."
   },
@@ -34609,7 +34609,7 @@
     "directors": "Fred Dekker",
     "writers": "Fred Dekker",
     "countries": "United States of America",
-    "collections": "80s Horror Collection, No Need to Rent These Movies, Scifi Throwbacks AG Movies",
+    "collections": "Scifi Throwbacks AG Movies, 80s Horror Collection, No Need to Rent These Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "The good news is your date is here. The bad news is...He's dead."
   },
@@ -34636,7 +34636,7 @@
     "directors": "Kevin Tenney",
     "writers": "Joe Augustyn",
     "countries": "United States of America",
-    "collections": "80s Horror Collection, So Booo 👎 it's Gooo 👍 Collection",
+    "collections": "So Booo 👎 it's Gooo 👍 Collection, 80s Horror Collection",
     "labels": "Horror",
     "tagline": "Angela is having a party, Jason and Freddy are too scared to come... But You'll have a hell of a time."
   },
@@ -34852,7 +34852,7 @@
     "directors": "Chuck Russell",
     "writers": "Frank Darabont, Chuck Russell, Wes Craven, Bruce Wagner",
     "countries": "United Kingdom, United States of America",
-    "collections": "A Nightmare on Elm Street Collection, 80s Horror Collection, No Need to Rent These Movies",
+    "collections": "A Nightmare on Elm Street Collection, No Need to Rent These Movies, 80s Horror Collection",
     "labels": "Horror",
     "tagline": "If you think you'll get out alive, you must be dreaming."
   },
@@ -35284,7 +35284,7 @@
     "directors": "Timo Tjahjanto",
     "writers": "Derek Kolstad, Aaron Rabin",
     "countries": "United States of America",
-    "collections": "Popular from IMDb, Thrillers with No Filler (< 90 minute Thrillers)",
+    "collections": "Thrillers with No Filler (< 90 minute Thrillers), Popular from IMDb",
     "labels": "",
     "tagline": "Nobody ruins his vacation."
   },
@@ -35392,7 +35392,7 @@
     "directors": "Jordan Peele",
     "writers": "Jordan Peele",
     "countries": "United States of America",
-    "collections": "Post 2000 Scifi AG Movies, Modern Horror AG Movies",
+    "collections": "Modern Horror AG Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "What’s a bad miracle?"
   },
@@ -35500,7 +35500,7 @@
     "directors": "Robert Eggers",
     "writers": "Robert Eggers, Sjón",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Conquer your fate."
   },
@@ -35959,7 +35959,7 @@
     "directors": "Steven Soderbergh",
     "writers": "George Nolfi",
     "countries": "United States of America",
-    "collections": "Ocean's Collection, Heist Movies Collection, Directed by Steven Soderbergh",
+    "collections": "Ocean's Collection, Directed by Steven Soderbergh, Heist Movies Collection",
     "labels": "Directors",
     "tagline": "Twelve is the new eleven."
   },
@@ -36423,6 +36423,33 @@
     "tagline": "When Francis Ford Coppola makes a love story… don't expect hearts and flowers."
   },
   {
+    "title": "One Hour Photo",
+    "year": 2002,
+    "genres": "Drama, Thriller",
+    "studio": "Fox Searchlight Pictures",
+    "plot": "Sy Parrish has lovingly developed photographs for the Yorkin family since their son was a baby. But as the Yorkins' lives become fuller, Sy's only seems lonelier, until he eventually convinces himself he's part of their family. When Sy's picture-perfect fantasy collides with an ugly dose of reality, a bizarre and thrilling confrontation ensues.",
+    "cast": "Robin Williams, Connie Nielsen, Michael Vartan",
+    "original_air_date": "2002-08-23",
+    "runtime_minutes": 96,
+    "content_rating": "R",
+    "plex_rating": "",
+    "plex_guid": 30923,
+    "added_at": "2026-06-03",
+    "media_type": "movie",
+    "tmdb_id": "9357",
+    "imdb_id": "tt0265459",
+    "tvdb_id": "7686",
+    "letterboxd_url": "https://letterboxd.com/search/films/One+Hour+Photo+2002/",
+    "audience_rating": 6.8,
+    "audience_rating_image": "imdb://image.rating",
+    "directors": "Mark Romanek",
+    "writers": "Mark Romanek",
+    "countries": "United States of America",
+    "collections": "",
+    "labels": "",
+    "tagline": "The things that we fear the most have already happened to us..."
+  },
+  {
     "title": "One of Them Days",
     "year": 2025,
     "genres": "Comedy",
@@ -36553,7 +36580,7 @@
     "directors": "Christopher Nolan",
     "writers": "Christopher Nolan",
     "countries": "United Kingdom, United States of America",
-    "collections": "No Need to Rent These Movies",
+    "collections": "Directed by Christopher Nolan, No Need to Rent These Movies",
     "labels": "",
     "tagline": "The world forever changes."
   },
@@ -36715,7 +36742,7 @@
     "directors": "Robbie Banfitch",
     "writers": "Robbie Banfitch",
     "countries": "United States of America",
-    "collections": "Modern Horror AG Movies, Post 2000 Scifi AG Movies",
+    "collections": "Post 2000 Scifi AG Movies, Modern Horror AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "Close your eyes. We dare you."
   },
@@ -37121,7 +37148,7 @@
     "writers": "Jack Stanley",
     "countries": "United States of America",
     "collections": "Blumhouse on the Plex",
-    "labels": "Agregarr-stale",
+    "labels": "",
     "tagline": "Ride or die."
   },
   {
@@ -37633,7 +37660,7 @@
     "directors": "George Cukor",
     "writers": "Philip Barry, Donald Ogden Stewart, Waldo Salt",
     "countries": "United States of America",
-    "collections": "The Romantic Romance Collection, Just 4 Laughs AG Movies",
+    "collections": "Just 4 Laughs AG Movies, The Romantic Romance Collection",
     "labels": "Comedy",
     "tagline": "Broadway's howling year-run comedy hit of the snooty society beauty who slipped and fell - IN LOVE!"
   },
@@ -37741,7 +37768,7 @@
     "directors": "Roman Polanski",
     "writers": "Ronald Harwood, Władysław Szpilman",
     "countries": "France, Germany, Poland, United Kingdom",
-    "collections": "LETTERBOXD  Top Movies of the 2000s, War, huh (good God) Collection",
+    "collections": "War, huh (good God) Collection, LETTERBOXD  Top Movies of the 2000s",
     "labels": "War",
     "tagline": "Music was his passion. Survival was his masterpiece."
   },
@@ -37768,7 +37795,7 @@
     "directors": "Jane Campion",
     "writers": "Jane Campion",
     "countries": "Australia, France",
-    "collections": "Directed by Jane Campion, AG PLEXclusives, The Romantic Romance Collection",
+    "collections": "Directed by Jane Campion, The Romantic Romance Collection, AG PLEXclusives",
     "labels": "Directors",
     "tagline": "Silence affects everyone in the end."
   },
@@ -37984,7 +38011,7 @@
     "directors": "Espen Sandberg, Joachim Rønning",
     "writers": "Jeff Nathanson, Terry Rossio, Ted Elliott, Stuart Beattie, Jay Wolpert",
     "countries": "United States of America",
-    "collections": "Pirates of the Caribbean Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Pirates of the Caribbean Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "All pirates must die."
   },
@@ -38011,7 +38038,7 @@
     "directors": "Rob Marshall",
     "writers": "Terry Rossio, Ted Elliott, Tim Powers",
     "countries": "United Kingdom, United States of America",
-    "collections": "Pirates of the Caribbean Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Pirates of the Caribbean Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Live forever or die trying."
   },
@@ -38119,7 +38146,7 @@
     "directors": "Hernán Sáez, Pablo Parés",
     "writers": "Hernán Sáez, Pablo Parés",
     "countries": "Argentina",
-    "collections": "Scifi Throwbacks AG Movies, Post 2000 Scifi AG Movies",
+    "collections": "Post 2000 Scifi AG Movies, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "They lost a battle, but the war continues"
   },
@@ -38335,7 +38362,7 @@
     "directors": "Kunihiko Yuyama",
     "writers": "Takeshi Shudo, Kunihiko Yuyama, Satoshi Tajiri",
     "countries": "Japan",
-    "collections": "Pokémon Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, No Need to Rent These Movies",
+    "collections": "Pokémon Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "This spring the Unown spells adventure."
   },
@@ -38497,7 +38524,7 @@
     "directors": "Isao Takahata",
     "writers": "Isao Takahata",
     "countries": "Japan",
-    "collections": "Studio Ghibli on AG MOVIES, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Studio Ghibli on AG MOVIES, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Animated, Mystery",
     "tagline": "A Fantastic Tale Of Survival"
   },
@@ -38551,7 +38578,7 @@
     "directors": "Hayao Miyazaki",
     "writers": "Hayao Miyazaki",
     "countries": "Japan",
-    "collections": "Studio Ghibli on AG MOVIES, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Studio Ghibli on AG MOVIES, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Animated, Mystery",
     "tagline": "Welcome to a world where anything is possible."
   },
@@ -38605,7 +38632,7 @@
     "directors": "Akiva Schaffer, Jorma Taccone",
     "writers": "Andy Samberg, Akiva Schaffer, Jorma Taccone",
     "countries": "United States of America",
-    "collections": "Just 4 Laughs AG Movies, Music to Your Ears Collection, No Need to Rent These Movies",
+    "collections": "Music to Your Ears Collection, No Need to Rent These Movies, Just 4 Laughs AG Movies",
     "labels": "Comedy, Music",
     "tagline": "Ever since I was born, I was dope."
   },
@@ -38686,7 +38713,7 @@
     "directors": "Céline Sciamma",
     "writers": "Céline Sciamma",
     "countries": "France",
-    "collections": "No Need to Rent These Movies, The Romantic Romance Collection",
+    "collections": "The Romantic Romance Collection, No Need to Rent These Movies",
     "labels": "",
     "tagline": "Don't regret. Remember."
   },
@@ -38821,7 +38848,7 @@
     "directors": "Dean Israelite",
     "writers": "Haim Saban, Matt Sazama, Michele Mulroney, Kieran Mulroney, Burk Sharpless",
     "countries": "United States of America, Hong Kong",
-    "collections": "Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Together we are more."
   },
@@ -38848,7 +38875,7 @@
     "directors": "Griffin Dunne",
     "writers": "Robin Swicord, Adam Brooks, Akiva Goldsman, Alice Hoffman",
     "countries": "United States of America",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "For two sisters from a family of witches, falling in love is the trickiest spell of all."
   },
@@ -38956,7 +38983,7 @@
     "directors": "Dan Trachtenberg",
     "writers": "John Thomas, Jim Thomas, Patrick Aison, Dan Trachtenberg",
     "countries": "United States of America",
-    "collections": "Predator Collection, Post 2000 Scifi AG Movies, Popular from IMDb",
+    "collections": "Predator Collection, Popular from IMDb, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "First hunt. Last chance."
   },
@@ -38983,7 +39010,7 @@
     "directors": "Dan Trachtenberg",
     "writers": "Jim Thomas, John Thomas, Dan Trachtenberg, Micho Rutare",
     "countries": "United States of America",
-    "collections": "Thrillers with No Filler (< 90 minute Thrillers), Post 2000 Scifi AG Movies",
+    "collections": "Post 2000 Scifi AG Movies, Thrillers with No Filler (< 90 minute Thrillers)",
     "labels": "Science Fiction",
     "tagline": "The hunt begins."
   },
@@ -39091,7 +39118,7 @@
     "directors": "Christopher Nolan",
     "writers": "Christopher Nolan, Jonathan Nolan, Christopher Priest",
     "countries": "United Kingdom, United States of America",
-    "collections": "LETTERBOXD  Top Movies of the 2000s, Post 2000 Scifi AG Movies",
+    "collections": "Directed by Christopher Nolan, LETTERBOXD  Top Movies of the 2000s, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Are You Watching Closely?"
   },
@@ -39307,7 +39334,7 @@
     "directors": "Rob Reiner",
     "writers": "William Goldman",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Heroes. Giants. Villains. Wizards. True Love."
   },
@@ -39334,7 +39361,7 @@
     "directors": "Hayao Miyazaki",
     "writers": "Hayao Miyazaki",
     "countries": "Japan",
-    "collections": "Studio Ghibli on AG MOVIES, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Studio Ghibli on AG MOVIES, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Animated, Mystery",
     "tagline": "The fate of the world rests on the courage of one warrior."
   },
@@ -39523,7 +39550,7 @@
     "directors": "Ridley Scott",
     "writers": "Jon Spaihts, Damon Lindelof",
     "countries": "United States of America, United Kingdom",
-    "collections": "Modern Horror AG Movies, Post 2000 Scifi AG Movies",
+    "collections": "Post 2000 Scifi AG Movies, Modern Horror AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "The search for our beginning could lead to our end."
   },
@@ -39955,7 +39982,7 @@
     "directors": "Joel Crawford",
     "writers": "Tommy Swerdlow, Tom Wheeler, Paul Fisher, Heidi Jo Gilbert, Matt Flynn",
     "countries": "United States of America",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Say hola to his little friends."
   },
@@ -40063,7 +40090,7 @@
     "directors": "Sam Raimi",
     "writers": "Simon Moore",
     "countries": "United States of America, Japan",
-    "collections": "Wild Wild Westerns Collection, Directed by Sam Raimi, No Need to Rent These Movies",
+    "collections": "Directed by Sam Raimi, Wild Wild Westerns Collection, No Need to Rent These Movies",
     "labels": "Directors",
     "tagline": "Think you're quick enough?"
   },
@@ -40306,7 +40333,7 @@
     "directors": "Rebecca Charles",
     "writers": "Rebecca Charles",
     "countries": "Mexico, United States of America",
-    "collections": "AG PLEXclusives, Scifi Throwbacks AG Movies",
+    "collections": "Scifi Throwbacks AG Movies, AG PLEXclusives",
     "labels": "Science Fiction",
     "tagline": "Meet Phillip and Marlowe, the post-nuclear private eyes. They're looking for good times and fast women. Their first case could be the world's last."
   },
@@ -40576,7 +40603,7 @@
     "directors": "Brad Bird",
     "writers": "Jan Pinkava, Brad Bird, Jim Capobianco, Kevin O'Brien, Ronnie del Carmen",
     "countries": "United States of America",
-    "collections": "How Mysterious Collection, Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Just 4 Laughs AG Movies, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "He's dying to become a chef."
   },
@@ -40927,7 +40954,7 @@
     "directors": "Jake Kasdan",
     "writers": "Hiram Garcia, Chris Morgan",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "The mission to save Christmas is on."
   },
@@ -41035,7 +41062,7 @@
     "directors": "Rob Bowman",
     "writers": "Gregg Chabot",
     "countries": "Ireland, United Kingdom, United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "They're extremely intelligent. Highly evolved. And they don't like sharing the planet."
   },
@@ -41440,7 +41467,7 @@
     "directors": "Jeff Kanew",
     "writers": "Steve Zacharias, Jeff Buhai, Miguel Tejada-Flores, Tim Metcalfe",
     "countries": "United States of America",
-    "collections": "AG PLEXclusives, Just 4 Laughs AG Movies",
+    "collections": "Just 4 Laughs AG Movies, AG PLEXclusives",
     "labels": "Comedy",
     "tagline": "They've been laughed at, picked on and put down. But now it's time for the odd to get even!"
   },
@@ -41602,7 +41629,7 @@
     "directors": "Rupert Wyatt",
     "writers": "Rick Jaffa, Amanda Silver",
     "countries": "United Kingdom, United States of America",
-    "collections": "Reboot of the Apes, Thrillers with No Filler (< 90 minute Thrillers), Post 2000 Scifi AG Movies",
+    "collections": "Reboot of the Apes, Post 2000 Scifi AG Movies, Thrillers with No Filler (< 90 minute Thrillers)",
     "labels": "Science Fiction",
     "tagline": "Evolution Becomes Revolution."
   },
@@ -41899,7 +41926,7 @@
     "directors": "Gareth Edwards",
     "writers": "Chris Weitz, Gary Whitta, John Knoll, George Lucas, Tony Gilroy",
     "countries": "United States of America",
-    "collections": "Star Wars Collection, Post 2000 Scifi AG Movies, Written by Tony Gilroy",
+    "collections": "Star Wars Collection, Written by Tony Gilroy, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Empires are built on fear. Rebellions are built on hope."
   },
@@ -41953,7 +41980,7 @@
     "directors": "John McTiernan",
     "writers": "John Pogue, Larry Ferguson, William Harrison",
     "countries": "Germany, Japan, United States of America",
-    "collections": "Scifi Throwbacks AG Movies, Post 2000 Scifi AG Movies",
+    "collections": "Post 2000 Scifi AG Movies, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "Get in the game."
   },
@@ -42250,7 +42277,7 @@
     "directors": "Arthur Rankin, Jr., Jules Bass",
     "writers": "Romeo Muller",
     "countries": "United States of America, Japan",
-    "collections": "How Mysterious Collection, No Need to Rent These Movies, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "A magical, musical fun-filled fantasy!"
   },
@@ -42277,7 +42304,7 @@
     "directors": "Larry Roemer",
     "writers": "Romeo Muller",
     "countries": "United States of America",
-    "collections": "AG PLEXMAS, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "AG PLEXMAS, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "You might even say it glows!"
   },
@@ -42601,7 +42628,7 @@
     "directors": "Lucie Guest",
     "writers": "Russell Hainline",
     "countries": "Canada",
-    "collections": "AG PLEXMAS, The Romantic Romance Collection, Just 4 Laughs AG Movies",
+    "collections": "AG PLEXMAS, Just 4 Laughs AG Movies, The Romantic Romance Collection",
     "labels": "Comedy",
     "tagline": "A crash course in Christmas"
   },
@@ -42628,7 +42655,7 @@
     "directors": "Arthur Rankin, Jr., Jules Bass",
     "writers": "Romeo Muller, Jules Bass",
     "countries": "United States of America",
-    "collections": "AG PLEXMAS, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, No Need to Rent These Movies",
+    "collections": "AG PLEXMAS, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "You better watch out!"
   },
@@ -42655,7 +42682,7 @@
     "directors": "John Pasquin",
     "writers": "Leo Benvenuti, Steve Rudnick",
     "countries": "United States of America",
-    "collections": "The Santa Clause Collection, AG PLEXMAS, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "The Santa Clause Collection, AG PLEXMAS, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "This Christmas, the snow hits the fan."
   },
@@ -42682,7 +42709,7 @@
     "directors": "Michael Lembeck",
     "writers": "Steve Rudnick, Don Rhymer, Cinco Paul, Ken Daurio, Ed Decter",
     "countries": "United States of America, Canada",
-    "collections": "The Santa Clause Collection, AG PLEXMAS, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies",
+    "collections": "The Santa Clause Collection, AG PLEXMAS, Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies, How Mysterious Collection",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "What's Christmas Fun without some Reindeer Games?"
   },
@@ -42763,7 +42790,7 @@
     "directors": "Steven Spielberg",
     "writers": "Robert Rodat",
     "countries": "United States of America",
-    "collections": "War, huh (good God) Collection, Directed by Steven Spielberg",
+    "collections": "Directed by Steven Spielberg, War, huh (good God) Collection",
     "labels": "Directors",
     "tagline": "The mission is a man."
   },
@@ -43006,7 +43033,7 @@
     "directors": "Richard Linklater",
     "writers": "Richard Linklater, Philip K. Dick",
     "countries": "United States of America",
-    "collections": "Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Everything is not going to be OK."
   },
@@ -43033,7 +43060,7 @@
     "directors": "David Cronenberg",
     "writers": "David Cronenberg",
     "countries": "Canada",
-    "collections": "Scanners Collection, 80s Horror Collection, Scifi Throwbacks AG Movies",
+    "collections": "Scanners Collection, Scifi Throwbacks AG Movies, 80s Horror Collection",
     "labels": "Science Fiction, Horror",
     "tagline": "10 Seconds: The Pain Begins. 15 Seconds: You Can’t Breathe. 20 Seconds: You Explode."
   },
@@ -43330,7 +43357,7 @@
     "directors": "Michael Winner",
     "writers": "Tom Holland",
     "countries": "United Kingdom, United States of America",
-    "collections": "Thrillers with No Filler (< 90 minute Thrillers), No Need to Rent These Movies, 80s Horror Collection",
+    "collections": "80s Horror Collection, Thrillers with No Filler (< 90 minute Thrillers), No Need to Rent These Movies",
     "labels": "Horror",
     "tagline": "Alone and afraid... Was she imagining or was it real..."
   },
@@ -43384,7 +43411,7 @@
     "directors": "Christian Duguay",
     "writers": "Miguel Tejada-Flores, Dan O'Bannon, Philip K. Dick",
     "countries": "Canada, Japan, United States of America",
-    "collections": "Written by Dan O'Bannon, War, huh (good God) Collection, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "Written by Dan O'Bannon, Scifi Throwbacks AG Movies, War, huh (good God) Collection, No Need to Rent These Movies",
     "labels": "War, Science Fiction",
     "tagline": "The last scream you hear will be your own."
   },
@@ -43411,7 +43438,7 @@
     "directors": "Richard Donner",
     "writers": "Mitch Glazer, Michael O'Donoghue",
     "countries": "United States of America",
-    "collections": "AG PLEXMAS, How Mysterious Collection, No Need to Rent These Movies, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "AG PLEXMAS, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "The spirits will move you in odd and hysterical ways."
   },
@@ -43519,7 +43546,7 @@
     "directors": "John Frankenheimer",
     "writers": "Lewis John Carlino, David Ely",
     "countries": "United States of America",
-    "collections": "Old School Horror Collection, No Need to Rent These Movies, Scifi Throwbacks AG Movies",
+    "collections": "Old School Horror Collection, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "Who are SECONDS? The answer is almost too terrifying for words!"
   },
@@ -43600,7 +43627,7 @@
     "directors": "Norman Z. McLeod",
     "writers": "Philip Rapp",
     "countries": "United States of America",
-    "collections": "Just 4 Laughs AG Movies, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, Just 4 Laughs AG Movies, How Mysterious Collection",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "A dream world of comedy, color and Goldwyn-Girl loveliness!"
   },
@@ -43627,7 +43654,7 @@
     "directors": "Tomm Moore",
     "writers": "Fabrice Ziolkowski",
     "countries": "Ireland, France, Belgium",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "Turn the darkness into light"
   },
@@ -43654,7 +43681,7 @@
     "directors": "Hiromasa Yonebayashi",
     "writers": "Hayao Miyazaki, Keiko Niwa, Mary Norton",
     "countries": "France, Japan, United States of America",
-    "collections": "Studio Ghibli on AG MOVIES, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Studio Ghibli on AG MOVIES, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Animated, Mystery",
     "tagline": "Do not be seen by humans. That's been the law of children of the underfloor."
   },
@@ -43708,7 +43735,7 @@
     "directors": "Sam Raimi",
     "writers": "Damian Shannon, Mark Swift",
     "countries": "United States of America",
-    "collections": "Modern Horror AG Movies, Directed by Sam Raimi",
+    "collections": "Directed by Sam Raimi, Modern Horror AG Movies",
     "labels": "Directors",
     "tagline": "Meet Linda Liddle... She's from strategy and planning. She's the boss now."
   },
@@ -44032,7 +44059,7 @@
     "directors": "Ingmar Bergman",
     "writers": "Ingmar Bergman",
     "countries": "Sweden",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "The story of a challenge to death."
   },
@@ -44248,7 +44275,7 @@
     "directors": "Spike Lee",
     "writers": "Spike Lee",
     "countries": "United States of America",
-    "collections": "Just 4 Laughs AG Movies, The Romantic Romance Collection",
+    "collections": "The Romantic Romance Collection, Just 4 Laughs AG Movies",
     "labels": "Comedy",
     "tagline": "A seriously sexy comedy."
   },
@@ -44383,7 +44410,7 @@
     "directors": "Ken Wiederhorn",
     "writers": "John Kent Harrison, Ken Pare, Ken Wiederhorn",
     "countries": "United States of America",
-    "collections": "War, huh (good God) Collection, Scifi Throwbacks AG Movies, Old School Horror Collection",
+    "collections": "War, huh (good God) Collection, Old School Horror Collection, Scifi Throwbacks AG Movies",
     "labels": "War, Science Fiction, Horror",
     "tagline": "The Deep End of Horror!"
   },
@@ -44599,7 +44626,7 @@
     "directors": "David Cronenberg",
     "writers": "David Cronenberg",
     "countries": "Canada, France",
-    "collections": "Post 2000 Scifi AG Movies, Modern Horror AG Movies",
+    "collections": "Modern Horror AG Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "How dark are you willing to go?"
   },
@@ -44788,7 +44815,7 @@
     "directors": "Douglas Trumbull",
     "writers": "Deric Washburn, Michael Cimino, Steven Bochco",
     "countries": "United States of America",
-    "collections": "Space is big. Really big., Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "Space is big. Really big., Empire Magazine's \"50 Greatest Sci-Fi Movies\" , No Need to Rent These Movies, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "Amazing companions on an incredible adventure... that journeys beyond imagination!"
   },
@@ -44815,7 +44842,7 @@
     "directors": "Dan Attias",
     "writers": "Stephen King",
     "countries": "Italy, Netherlands, United States of America",
-    "collections": "So Booo 👎 it's Gooo 👍 Collection, No Need to Rent These Movies, 80s Horror Collection",
+    "collections": "So Booo 👎 it's Gooo 👍 Collection, 80s Horror Collection, No Need to Rent These Movies",
     "labels": "Horror",
     "tagline": "It started in May. In a small town. And every month after that whenever the moon was full...It came back."
   },
@@ -44923,7 +44950,7 @@
     "directors": "Michael Ritchie",
     "writers": "Jeff Rothberg",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Anabel made a wish. Murray made a mess."
   },
@@ -45274,7 +45301,7 @@
     "directors": "Scott Barley",
     "writers": "Scott Barley",
     "countries": "United Kingdom",
-    "collections": "LETTERBOXD Top Rated Documentaries, Modern Horror AG Movies, AG PLEXclusives",
+    "collections": "LETTERBOXD Top Rated Documentaries, AG PLEXclusives, Modern Horror AG Movies",
     "labels": "Horror",
     "tagline": ""
   },
@@ -45571,7 +45598,7 @@
     "directors": "Guy Ritchie",
     "writers": "Guy Ritchie",
     "countries": "United Kingdom",
-    "collections": "Just 4 Laughs AG Movies, LETTERBOXD  Top Movies of the 2000s, No Need to Rent These Movies",
+    "collections": "LETTERBOXD  Top Movies of the 2000s, Just 4 Laughs AG Movies, No Need to Rent These Movies",
     "labels": "Comedy",
     "tagline": "Stealin' stones and breakin' bones."
   },
@@ -45625,7 +45652,7 @@
     "directors": "David Gordon Green",
     "writers": "David Gordon Green, Stewart O'Nan",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies, The Romantic Romance Collection",
+    "collections": "The Romantic Romance Collection, No Need to Rent These Movies",
     "labels": "",
     "tagline": "Some will fall. Some will fly."
   },
@@ -45652,7 +45679,7 @@
     "directors": "David Hand, Ben Sharpsteen, William Cottrell, Larry Morey, Perce Pearce, Wilfred Jackson",
     "writers": "Merrill De Maris, Earl Hurd, Dick Rickard, Ted Sears, Webb Smith",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "The Happiest, Dopiest, Grumpiest, Sneeziest movie of the year."
   },
@@ -45814,7 +45841,7 @@
     "directors": "Thom Eberhardt",
     "writers": "Thom Eberhardt",
     "countries": "United States of America",
-    "collections": "80s Horror Collection, Thrillers with No Filler (< 90 minute Thrillers)",
+    "collections": "Thrillers with No Filler (< 90 minute Thrillers), 80s Horror Collection",
     "labels": "Horror",
     "tagline": "It wants her...It's waiting...It won't be long now."
   },
@@ -45868,7 +45895,7 @@
     "directors": "Justin Benson, Aaron Moorhead",
     "writers": "Justin Benson",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies, Modern Horror AG Movies, Post 2000 Scifi AG Movies",
+    "collections": "Modern Horror AG Movies, Post 2000 Scifi AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction, Horror",
     "tagline": ""
   },
@@ -45895,7 +45922,7 @@
     "directors": "Jack Clayton",
     "writers": "Ray Bradbury",
     "countries": "United States of America",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "What would you give a man who could make your deepest dream come true?"
   },
@@ -46057,7 +46084,7 @@
     "directors": "Boots Riley",
     "writers": "Boots Riley",
     "countries": "United States of America",
-    "collections": "Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Destiny is calling."
   },
@@ -46327,7 +46354,7 @@
     "directors": "James Watkins",
     "writers": "James Watkins",
     "countries": "United States of America",
-    "collections": "Blumhouse on the Plex, Modern Horror AG Movies",
+    "collections": "Modern Horror AG Movies, Blumhouse on the Plex",
     "labels": "Horror",
     "tagline": "Hear no evil."
   },
@@ -46543,7 +46570,7 @@
     "directors": "Bob Spiers",
     "writers": "Kim Fuller",
     "countries": "United Kingdom, United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, Music to Your Ears Collection, AG PLEXclusives",
+    "collections": "Music to Your Ears Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, AG PLEXclusives",
     "labels": "Fantasy, Mystery, Music",
     "tagline": "You say you want a revolution?"
   },
@@ -46840,7 +46867,7 @@
     "directors": "Hayao Miyazaki",
     "writers": "Goro Miyazaki, Hayao Miyazaki",
     "countries": "Japan",
-    "collections": "Studio Ghibli on AG MOVIES, LETTERBOXD  Top Movies of the 2000s, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "How Mysterious Collection, Studio Ghibli on AG MOVIES, LETTERBOXD  Top Movies of the 2000s, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Animated, Mystery",
     "tagline": "Beyond the tunnel was a mysterious town."
   },
@@ -47083,7 +47110,7 @@
     "directors": "Robert Rodriguez",
     "writers": "Robert Rodriguez",
     "countries": "United States of America",
-    "collections": "Spy Kids Collection, Post 2000 Scifi AG Movies, Scifi Throwbacks AG Movies",
+    "collections": "Spy Kids Collection, Scifi Throwbacks AG Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Little spies. Big attitudes."
   },
@@ -47164,7 +47191,7 @@
     "directors": "Andrei Tarkovsky",
     "writers": "Arkadiy Strugatskiy, Boris Strugatskiy",
     "countries": "",
-    "collections": "Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Scifi Throwbacks AG Movies",
+    "collections": "Scifi Throwbacks AG Movies, Empire Magazine's \"50 Greatest Sci-Fi Movies\" ",
     "labels": "Science Fiction",
     "tagline": "There's no need to speak. You must only...concentrate and recall all your past life. When a man thinks of the past, he becomes kinder."
   },
@@ -47218,7 +47245,7 @@
     "directors": "Nicholas Meyer",
     "writers": "Jack B. Sowards, Harve Bennett, Gene Roddenberry",
     "countries": "United States of America",
-    "collections": "Star Trek: The Original Series Collection, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Scifi Throwbacks AG Movies",
+    "collections": "Star Trek: The Original Series Collection, Scifi Throwbacks AG Movies, Empire Magazine's \"50 Greatest Sci-Fi Movies\" ",
     "labels": "Science Fiction",
     "tagline": "At the end of the universe lies the beginning of vengeance."
   },
@@ -47407,7 +47434,7 @@
     "directors": "George Lucas",
     "writers": "George Lucas, Jonathan Hales",
     "countries": "United States of America",
-    "collections": "Star Wars Collection, Post 2000 Scifi AG Movies, Scifi Throwbacks AG Movies",
+    "collections": "Star Wars Collection, Scifi Throwbacks AG Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "A Jedi shall not know anger. Nor hatred. Nor love."
   },
@@ -47567,7 +47594,7 @@
     "audience_rating": 6.3,
     "audience_rating_image": "imdb://image.rating",
     "directors": "J.J. Abrams",
-    "writers": "Chris Terrio, J.J. Abrams, Colin Trevorrow, Derek Connolly, George Lucas",
+    "writers": "J.J. Abrams, Chris Terrio, Colin Trevorrow, George Lucas, Derek Connolly",
     "countries": "United States of America",
     "collections": "Star Wars Collection, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
@@ -47731,7 +47758,7 @@
     "directors": "Craig R. Baxley",
     "writers": "Walter Doniger",
     "countries": "United States of America",
-    "collections": "So Booo 👎 it's Gooo 👍 Collection, AG PLEXclusives",
+    "collections": "AG PLEXclusives, So Booo 👎 it's Gooo 👍 Collection",
     "labels": "",
     "tagline": "A cop who enforces his own brand of justice."
   },
@@ -48109,7 +48136,7 @@
     "directors": "Coralie Fargeat",
     "writers": "Coralie Fargeat",
     "countries": "France, United Kingdom, United States of America",
-    "collections": "Post 2000 Scifi AG Movies, Modern Horror AG Movies",
+    "collections": "Modern Horror AG Movies, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "Have you ever dreamt of a better version of yourself?"
   },
@@ -48325,7 +48352,7 @@
     "directors": "Danny Boyle",
     "writers": "Alex Garland",
     "countries": "United Kingdom",
-    "collections": "Directed by Danny Boyle , LETTERBOXD  Top Movies of the 2000s, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Post 2000 Scifi AG Movies, No Need to Rent These Movies",
+    "collections": "Directed by Danny Boyle , LETTERBOXD  Top Movies of the 2000s, Post 2000 Scifi AG Movies, Empire Magazine's \"50 Greatest Sci-Fi Movies\" , No Need to Rent These Movies",
     "labels": "Directors",
     "tagline": "Dark days are coming."
   },
@@ -48352,7 +48379,7 @@
     "directors": "Rocky Morton, Annabel Jankel",
     "writers": "Parker Bennett, Terry Runte, Ed Solomon",
     "countries": "United Kingdom, United States of America",
-    "collections": "So Booo 👎 it's Gooo 👍 Collection, AG PLEXclusives, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "So Booo 👎 it's Gooo 👍 Collection, AG PLEXclusives, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "This ain't no game."
   },
@@ -48541,7 +48568,7 @@
     "directors": "Hal Hartley",
     "writers": "Hal Hartley",
     "countries": "United States of America",
-    "collections": "The Romantic Romance Collection, AG PLEXclusives",
+    "collections": "AG PLEXclusives, The Romantic Romance Collection",
     "labels": "",
     "tagline": ""
   },
@@ -48811,7 +48838,7 @@
     "directors": "Isao Takahata",
     "writers": "Riko Sakaguchi, Isao Takahata",
     "countries": "Japan",
-    "collections": "Studio Ghibli on AG MOVIES, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Studio Ghibli on AG MOVIES, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Animated, Mystery",
     "tagline": "A princess's crime and punishment."
   },
@@ -49513,7 +49540,7 @@
     "directors": "Peter Bogdanovich",
     "writers": "Blaine Novak, Peter Bogdanovich",
     "countries": "United States of America",
-    "collections": "The Romantic Romance Collection, Just 4 Laughs AG Movies",
+    "collections": "Just 4 Laughs AG Movies, The Romantic Romance Collection",
     "labels": "Comedy",
     "tagline": "Some of them promised they'd never fall in love."
   },
@@ -49756,7 +49783,7 @@
     "directors": "Rob Reiner",
     "writers": "Rob Reiner, Christopher Guest, Michael McKean, Harry Shearer",
     "countries": "United States of America",
-    "collections": "Music to Your Ears Collection, Just 4 Laughs AG Movies",
+    "collections": "Just 4 Laughs AG Movies, Music to Your Ears Collection",
     "labels": "Comedy, Music",
     "tagline": "Prepare to crank those amps up to eleven."
   },
@@ -49945,7 +49972,7 @@
     "directors": "George Miller",
     "writers": "Augusta Miller, George Miller",
     "countries": "Australia, China, United Kingdom",
-    "collections": "Directed by George Miller, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Directed by George Miller, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Directors",
     "tagline": "What would you wish for?"
   },
@@ -50134,7 +50161,7 @@
     "directors": "Simon Wells",
     "writers": "John Logan, H. G. Wells, David Duncan",
     "countries": "United States of America",
-    "collections": "Scifi Throwbacks AG Movies, Post 2000 Scifi AG Movies",
+    "collections": "Post 2000 Scifi AG Movies, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "The greatest adventure THROUGH all time!"
   },
@@ -51214,7 +51241,7 @@
     "directors": "Terrence Malick",
     "writers": "Terrence Malick",
     "countries": "United States of America",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "Nothing stands still."
   },
@@ -51241,7 +51268,7 @@
     "directors": "Ron Underwood",
     "writers": "S.S. Wilson, Brent Maddock, Ron Underwood",
     "countries": "United States of America",
-    "collections": "Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "They say there's nothing new under the sun. But under the ground…"
   },
@@ -51376,7 +51403,7 @@
     "directors": "Apichatpong Weerasethakul",
     "writers": "Apichatpong Weerasethakul",
     "countries": "Thailand, France, Italy, Germany",
-    "collections": "AG PLEXclusives, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "How Mysterious Collection, AG PLEXclusives, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Love is a malady without a cure..."
   },
@@ -51538,7 +51565,7 @@
     "directors": "Catherine Hardwicke",
     "writers": "Melissa Rosenberg, Stephenie Meyer",
     "countries": "United Kingdom, United States of America",
-    "collections": "The Twilight Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "The Twilight Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "When you can live forever, what do you live for?"
   },
@@ -51565,7 +51592,7 @@
     "directors": "Bill Condon",
     "writers": "Melissa Rosenberg, Stephenie Meyer",
     "countries": "United States of America",
-    "collections": "The Twilight Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "The Twilight Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Forever is just the beginning."
   },
@@ -51592,7 +51619,7 @@
     "directors": "Bill Condon",
     "writers": "Stephenie Meyer, Melissa Rosenberg",
     "countries": "United States of America",
-    "collections": "The Twilight Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "The Twilight Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "The epic finale that will live forever."
   },
@@ -51619,7 +51646,7 @@
     "directors": "David Slade",
     "writers": "Stephenie Meyer, Melissa Rosenberg",
     "countries": "United States of America",
-    "collections": "The Twilight Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "The Twilight Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "It all begins... with a choice."
   },
@@ -51673,7 +51700,7 @@
     "directors": "John Landis, Joe Dante, Steven Spielberg, George Miller",
     "writers": "John Landis",
     "countries": "United States of America",
-    "collections": "Directed by George Miller, Directed by Steven Spielberg, 80s Horror Collection, Scifi Throwbacks AG Movies",
+    "collections": "Directed by George Miller, Directed by Steven Spielberg, Scifi Throwbacks AG Movies, 80s Horror Collection",
     "labels": "Directors",
     "tagline": "You're travelling through another dimension. A dimension, not only of sight and sound, but of mind. A journey into a wondrous land whose boundaries are that of imagination. Next stop, the Twilight Zone!"
   },
@@ -51862,7 +51889,7 @@
     "directors": "Hal Hartley",
     "writers": "Hal Hartley",
     "countries": "United States of America",
-    "collections": "The Romantic Romance Collection, AG PLEXclusives",
+    "collections": "AG PLEXclusives, The Romantic Romance Collection",
     "labels": "",
     "tagline": "Can a nice girl from Long Island find happiness with a mass murderer?"
   },
@@ -51970,7 +51997,7 @@
     "directors": "Jonathan Glazer",
     "writers": "Milo Addica",
     "countries": "United Kingdom, United States of America, Switzerland",
-    "collections": "Post 2000 Scifi AG Movies, Empire Magazine's \"50 Greatest Sci-Fi Movies\" ",
+    "collections": "Empire Magazine's \"50 Greatest Sci-Fi Movies\" , Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "Come to me."
   },
@@ -52186,7 +52213,7 @@
     "directors": "Steven Soderbergh",
     "writers": "James Greer, Jonathan Bernstein",
     "countries": "United States of America",
-    "collections": "Directed by Steven Soderbergh, No Need to Rent These Movies, Modern Horror AG Movies",
+    "collections": "Directed by Steven Soderbergh, Modern Horror AG Movies, No Need to Rent These Movies",
     "labels": "Directors",
     "tagline": "Is she or isn't she?"
   },
@@ -52456,7 +52483,7 @@
     "directors": "Yoshiaki Kawajiri",
     "writers": "Hideyuki Kikuchi, Yoshiaki Kawajiri",
     "countries": "Japan",
-    "collections": "AG PLEXclusives, Scifi Throwbacks AG Movies, Post 2000 Scifi AG Movies",
+    "collections": "Scifi Throwbacks AG Movies, AG PLEXclusives, Post 2000 Scifi AG Movies",
     "labels": "Science Fiction",
     "tagline": "When the sun sets, the hunt begins."
   },
@@ -52672,7 +52699,7 @@
     "directors": "Arlene Sanford",
     "writers": "James Berg, Sherwood Schwartz, Deborah Kaplan, Harry Elfont, Stan Zimmerman",
     "countries": "United States of America",
-    "collections": "The Brady Bunch Collection, Just 4 Laughs AG Movies, No Need to Rent These Movies",
+    "collections": "The Brady Bunch Collection, No Need to Rent These Movies, Just 4 Laughs AG Movies",
     "labels": "Comedy",
     "tagline": "The more everything changes the more they stay the same."
   },
@@ -52888,7 +52915,7 @@
     "directors": "Brett Leonard",
     "writers": "Eric Bernt",
     "countries": "United States of America",
-    "collections": "Scifi Throwbacks AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction",
     "tagline": "Justice needs a new program."
   },
@@ -52915,7 +52942,7 @@
     "directors": "John Bruno",
     "writers": "Chuck Pfarrer, Dennis Feldman",
     "countries": "United States of America, United Kingdom, Germany, Japan, France",
-    "collections": "Glossy 90s/00s Horror Slop, No Need to Rent These Movies, Scifi Throwbacks AG Movies",
+    "collections": "Glossy 90s/00s Horror Slop, Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "Life on earth is in for a shock."
   },
@@ -53023,7 +53050,7 @@
     "directors": "Rob McKittrick",
     "writers": "Rob McKittrick",
     "countries": "United States of America",
-    "collections": "The Romantic Romance Collection, Just 4 Laughs AG Movies",
+    "collections": "Just 4 Laughs AG Movies, The Romantic Romance Collection",
     "labels": "Comedy",
     "tagline": "What happens in the kitchen ends up on the plate."
   },
@@ -53239,7 +53266,7 @@
     "directors": "Matt Reeves",
     "writers": "Mark Bomback, Matt Reeves",
     "countries": "United States of America",
-    "collections": "Reboot of the Apes, Post 2000 Scifi AG Movies, War, huh (good God) Collection",
+    "collections": "Reboot of the Apes, War, huh (good God) Collection, Post 2000 Scifi AG Movies",
     "labels": "War, Science Fiction",
     "tagline": "For freedom. For family. For the planet."
   },
@@ -53401,7 +53428,7 @@
     "directors": "Steve Miner",
     "writers": "David Twohy",
     "countries": "United States of America",
-    "collections": "80s Horror Collection, So Booo 👎 it's Gooo 👍 Collection",
+    "collections": "So Booo 👎 it's Gooo 👍 Collection, 80s Horror Collection",
     "labels": "Horror",
     "tagline": "Satan also has one son."
   },
@@ -53536,7 +53563,7 @@
     "directors": "Phil Nibbelink, Simon Wells, Dick Zondag, Ralph Zondag",
     "writers": "John Patrick Shanley, Hudson Talbott",
     "countries": "United States of America",
-    "collections": "No Need to Rent These Movies, Scifi Throwbacks AG Movies",
+    "collections": "Scifi Throwbacks AG Movies, No Need to Rent These Movies",
     "labels": "Science Fiction",
     "tagline": "Wish for a dinosaur and watch all your dreams come true."
   },
@@ -53806,7 +53833,7 @@
     "directors": "Taika Waititi, Jemaine Clement",
     "writers": "Jemaine Clement, Taika Waititi",
     "countries": "New Zealand, United States of America",
-    "collections": "Modern Horror AG Movies, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Modern Horror AG Movies",
     "labels": "Horror",
     "tagline": "Some interviews with some vampires."
   },
@@ -53887,7 +53914,7 @@
     "directors": "Spike Jonze",
     "writers": "Dave Eggers, Spike Jonze, Maurice Sendak",
     "countries": "United States of America, Germany",
-    "collections": "Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection, No Need to Rent These Movies",
+    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection, No Need to Rent These Movies",
     "labels": "Fantasy, Mystery",
     "tagline": "There's one in all of us."
   },
@@ -53914,7 +53941,7 @@
     "directors": "Damien Chazelle",
     "writers": "Damien Chazelle",
     "countries": "United States of America",
-    "collections": "Music to Your Ears Collection, No Need to Rent These Movies",
+    "collections": "No Need to Rent These Movies, Music to Your Ears Collection",
     "labels": "Music",
     "tagline": "The road to greatness can take you to the edge."
   },
@@ -53968,7 +53995,7 @@
     "directors": "Samuel Fuller",
     "writers": "Curtis Hanson, Romain Gary, Samuel Fuller",
     "countries": "United States of America",
-    "collections": "AG PLEXclusives, Thrillers with No Filler (< 90 minute Thrillers), 80s Horror Collection",
+    "collections": "AG PLEXclusives, 80s Horror Collection, Thrillers with No Filler (< 90 minute Thrillers)",
     "labels": "Horror",
     "tagline": "When man’s best friend becomes his fiercest enemy…"
   },
@@ -54076,7 +54103,7 @@
     "directors": "Robert Zemeckis",
     "writers": "Jeffrey Price, Gary K. Wolf, Peter S. Seaman",
     "countries": "United States of America",
-    "collections": "Just 4 Laughs AG Movies, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Comedy, Fantasy, Mystery",
     "tagline": "It's the story of a man, a woman, and a rabbit in a triangle of trouble."
   },
@@ -54130,7 +54157,7 @@
     "directors": "Jon M. Chu",
     "writers": "Gregory Maguire, Winnie Holzman, Dana Fox, Stephen Schwartz, L. Frank Baum",
     "countries": "United States of America",
-    "collections": "Wicked Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Wicked Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "Everyone deserves the chance to fly."
   },
@@ -54157,7 +54184,7 @@
     "directors": "Jon M. Chu",
     "writers": "Stephen Schwartz, Winnie Holzman, Gregory Maguire, Dana Fox, L. Frank Baum",
     "countries": "United States of America",
-    "collections": "Wicked Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Wicked Collection, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "You will be changed."
   },
@@ -54265,7 +54292,7 @@
     "directors": "David Lynch",
     "writers": "David Lynch, Barry Gifford",
     "countries": "United States of America, Germany",
-    "collections": "Feature Films of David Lynch, No Need to Rent These Movies, The Romantic Romance Collection",
+    "collections": "Feature Films of David Lynch, The Romantic Romance Collection, No Need to Rent These Movies",
     "labels": "Directors",
     "tagline": "A wild and crazy love story."
   },
@@ -54400,7 +54427,7 @@
     "directors": "Wim Wenders",
     "writers": "Peter Handke, Richard Reitinger, Wim Wenders, Bernard Eisenschitz",
     "countries": "Germany, France",
-    "collections": "How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery",
     "tagline": "There are angels on the streets of Berlin."
   },
@@ -54535,7 +54562,7 @@
     "directors": "Sidney Lumet",
     "writers": "Joel Schumacher, L. Frank Baum, Charlie Smalls, William F. Brown",
     "countries": "United States of America",
-    "collections": "Music to Your Ears Collection, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Music to Your Ears Collection, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Fantasy, Mystery, Music",
     "tagline": "The wiz! The stars! The music! Wow!"
   },
@@ -54562,7 +54589,7 @@
     "directors": "Mike Jittlov",
     "writers": "Mike Jittlov",
     "countries": "United States of America",
-    "collections": "Music to Your Ears Collection, AG PLEXclusives, Just 4 Laughs AG Movies, Fantasy (like the song by Mariah Carey) Collection",
+    "collections": "Just 4 Laughs AG Movies, Music to Your Ears Collection, AG PLEXclusives, How Mysterious Collection, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Comedy, Fantasy, Mystery, Music",
     "tagline": ""
   },
@@ -54698,7 +54725,7 @@
     "writers": "Sam Stefanak",
     "countries": "United States of America",
     "collections": "Blumhouse on the Plex",
-    "labels": "Agregarr-stale",
+    "labels": "",
     "tagline": "Don't let her in."
   },
   {
@@ -54751,7 +54778,7 @@
     "directors": "Wes Anderson",
     "writers": "Roald Dahl, Wes Anderson",
     "countries": "United States of America",
-    "collections": "Directed by Wes Anderson, Fantasy (like the song by Mariah Carey) Collection, How Mysterious Collection",
+    "collections": "Directed by Wes Anderson, Fantasy (like the song by Mariah Carey) Collection",
     "labels": "Directors",
     "tagline": ""
   },
@@ -54832,7 +54859,7 @@
     "directors": "Darren Aronofsky",
     "writers": "Robert D. Siegel",
     "countries": "United States of America, France",
-    "collections": "LETTERBOXD  Top Movies of the 2000s, The Romantic Romance Collection, No Need to Rent These Movies",
+    "collections": "LETTERBOXD  Top Movies of the 2000s, No Need to Rent These Movies, The Romantic Romance Collection",
     "labels": "",
     "tagline": "Love. Pain. Glory."
   },
@@ -54940,7 +54967,7 @@
     "directors": "Harry Bromley Davenport",
     "writers": "Robert Smith, Iain Cassie",
     "countries": "United Kingdom",
-    "collections": "So Booo 👎 it's Gooo 👍 Collection, 80s Horror Collection, AG PLEXclusives, Scifi Throwbacks AG Movies",
+    "collections": "80s Horror Collection, So Booo 👎 it's Gooo 👍 Collection, AG PLEXclusives, Scifi Throwbacks AG Movies",
     "labels": "Science Fiction, Horror",
     "tagline": "Some extra-terrestrials aren't friendly."
   },
@@ -54967,7 +54994,7 @@
     "directors": "Kyle Mooney",
     "writers": "Evan Winter, Kyle Mooney",
     "countries": "United States of America",
-    "collections": "A24 (4U), Modern Horror AG Movies, Post 2000 Scifi AG Movies",
+    "collections": "A24 (4U), Post 2000 Scifi AG Movies, Modern Horror AG Movies",
     "labels": "Science Fiction, Horror, A24",
     "tagline": "New Years Eve, 1999. The last party before..."
   },
@@ -55156,7 +55183,7 @@
     "directors": "Raja Gosnell",
     "writers": "Melville Shavelson, Morton Lachman, Madelyn Pugh, Bob Carroll Jr.",
     "countries": "United States of America",
-    "collections": "Just 4 Laughs AG Movies, No Need to Rent These Movies, The Romantic Romance Collection",
+    "collections": "The Romantic Romance Collection, Just 4 Laughs AG Movies, No Need to Rent These Movies",
     "labels": "Comedy",
     "tagline": "18 kids, one house, no way."
   },
