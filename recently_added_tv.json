@@ -25,7 +25,7 @@
     "collections": "AG PLEXclusives B, Sci-Fi Oh-My AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "There's a new family in town. They're not from another city... They're from another planet.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -54,7 +54,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Work can be such a production.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -83,7 +83,7 @@
     "collections": "Miniature Series AG TV, Crime. Is it any good? AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "A child accused. Everyone left to answer.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -112,7 +112,7 @@
     "collections": "Horror AG TV, DRAMA! AG TV, Sci-Fi Oh-My AG TV",
     "labels": "",
     "tagline": "In 2120, Mother Earth is expecting.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -141,7 +141,7 @@
     "collections": "Miniature Series AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "All these nice people. Killing each other.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -170,7 +170,7 @@
     "collections": "Classics on AG TV, Sometimes a Fantasy AG TV, Crime. Is it any good? AG TV, Sci-Fi Oh-My AG TV",
     "labels": "",
     "tagline": "The world's favorite adventure super hero in live-action!",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -199,7 +199,7 @@
     "collections": "Crime. Is it any good? AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -228,7 +228,7 @@
     "collections": "Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "The rebellion begins.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -257,7 +257,7 @@
     "collections": "Softy-Core (SafeForWork) AG TV, Toonsville AG TV, Sometimes a Fantasy AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -286,7 +286,7 @@
     "collections": "Toonsville AG TV, Sometimes a Fantasy AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "The Avatar Returns",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -315,7 +315,7 @@
     "collections": "Miniature Series AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "a captivating true story",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -344,7 +344,7 @@
     "collections": "Brit Wits AG TV, Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "dad princess",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -373,7 +373,7 @@
     "collections": "Crime. Is it any good? AG TV, HBO on AG TV, Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "A hitman searching for some direction. (Season 1)",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -402,7 +402,7 @@
     "collections": "Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "A clown will rise.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -431,7 +431,7 @@
     "collections": "Classics on AG TV, Sci-Fi Oh-My AG TV, Crime. Is it any good? AG TV, Sometimes a Fantasy AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Batman comes to life tonight! Watch master criminals like The Riddler try to outwit those legendary crime fighters Batman and Robin in TWO spine-tingling episodes each week! (season 1)",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -460,7 +460,7 @@
     "collections": "Crime. Is it any good? AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "Make the call",
-    "audio_languages": "",
+    "audio_languages": "English, German, Spanish",
     "subtitle_languages": ""
   },
   {
@@ -489,7 +489,7 @@
     "collections": "Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": ">> The future is bright./ (season 3)",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -518,7 +518,7 @@
     "collections": "Toonsville AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Don't look back. You're not going that way.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -547,7 +547,7 @@
     "collections": "Crime. Is it any good? AG TV, Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV, Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "Never Meet Your Heroes",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -576,13 +576,13 @@
     "collections": "AG PLEXclusives B, Laugh at THIS AG TV, Brit Wits AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
     "title": "Carol & the End of the World",
     "year": 2023,
-    "genres": "Animation, Comedy",
+    "genres": "Animation, Comedy, Drama, Sci-Fi & Fantasy",
     "studio": "Bardel Entertainment",
     "plot": "Global human annihilation is impending due to a mystery planet speeding towards Earth. Among the hedonistic crowd, one quiet and perpetually uneasy woman stands out, while the majority feel free to follow their greatest desires.",
     "cast": "Martha Kelly, Shelby Young, Kimberly Hébert Gregory",
@@ -605,7 +605,7 @@
     "collections": "Softy-Core (SafeForWork) AG TV, DRAMA! AG TV, Toonsville AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -634,7 +634,7 @@
     "collections": "HBO on AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -663,7 +663,7 @@
     "collections": "HBO on AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "A star is reborn.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -692,7 +692,7 @@
     "collections": "Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "What could go wrong?",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -721,7 +721,7 @@
     "collections": "DRAMA! AG TV",
     "labels": "",
     "tagline": "The Devil's Work is Never Done",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -750,7 +750,7 @@
     "collections": "Toonsville AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Talks Slow, Thinks Fast",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -779,7 +779,7 @@
     "collections": "Sci-Fi Oh-My AG TV, Sometimes a Fantasy AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -808,7 +808,7 @@
     "collections": "AG PLEXclusives B, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "The ground-breaking news show that won an award",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -837,7 +837,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -866,7 +866,7 @@
     "collections": "DRAMA! AG TV, Crime. Is it any good? AG TV",
     "labels": "",
     "tagline": "He's alive & killing it.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -895,7 +895,7 @@
     "collections": "",
     "labels": "Agregarr-stale",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -924,7 +924,7 @@
     "collections": "Miniature Series AG TV, Crime. Is it any good? AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -953,7 +953,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "It's like real life. Just a whole lot funnier.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -982,7 +982,7 @@
     "collections": "Toonsville AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Puberty is Unforgiving.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1011,13 +1011,13 @@
     "collections": "",
     "labels": "",
     "tagline": "A comedy about a dad who just can't resist being irresistible.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
     "title": "Fallout",
     "year": 2024,
-    "genres": "Action & Adventure, Sci-Fi & Fantasy",
+    "genres": "Action & Adventure, Sci-Fi & Fantasy, Drama",
     "studio": "Kilter Films",
     "plot": "Years after a nuclear apocalypse devastates America, a violent raid by bandits on an underground fallout shelter forces one of its residents to set out into a barren wasteland filled with radiation, mutated monsters, and a lawless society of those who remained on the surface.",
     "cast": "Ella Purnell, Aaron Moten, Moisés Arias",
@@ -1040,7 +1040,7 @@
     "collections": "Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "The world deserves a better ending.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1069,7 +1069,7 @@
     "collections": "Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1098,7 +1098,7 @@
     "collections": "DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "It's 1980 and this is what high school was like for the rest of us.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1127,7 +1127,7 @@
     "collections": "Horror AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1156,7 +1156,7 @@
     "collections": "Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Time travel has never made less sense . (Season 1)",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1185,7 +1185,7 @@
     "collections": "Sci-Fi Oh-My AG TV, Brit Wits AG TV, Horror AG TV, Sometimes a Fantasy AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "From the best-selling master of darkness",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1214,7 +1214,7 @@
     "collections": "DRAMA! AG TV, Miniature Series AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1243,7 +1243,7 @@
     "collections": "Horror AG TV",
     "labels": "",
     "tagline": "Open your mind to fear.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1272,7 +1272,7 @@
     "collections": "DRAMA! AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English, Russian",
     "subtitle_languages": ""
   },
   {
@@ -1301,7 +1301,7 @@
     "collections": "DRAMA! AG TV, Toonsville AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1330,7 +1330,7 @@
     "collections": "Miniature Series AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1359,7 +1359,7 @@
     "collections": "Classics on AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1388,7 +1388,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "A Comedy Show",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1417,7 +1417,7 @@
     "collections": "Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1446,7 +1446,7 @@
     "collections": "AG PLEXclusives B, Brit Wits AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1475,13 +1475,13 @@
     "collections": "AG PLEXclusives B, Classics on AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "The legend comes to life.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
     "title": "Invader ZIM",
     "year": 2001,
-    "genres": "Animation, Sci-Fi & Fantasy, Comedy, Kids",
+    "genres": "Animation, Comedy, Sci-Fi & Fantasy, Family",
     "studio": "Nickelodeon Animation Studio",
     "plot": "An alien named Zim from the planet Irk is sent on a secret mission to conquer Earth, not realising that his leaders were just trying to get rid of him and hoped that he would die. Once there, Zim manages to disguise himself as a human child, but one boy named Dib sees through his disguise.",
     "cast": "Richard Steven Horvitz, Andy Berman, Rosearik Rikki Simons",
@@ -1504,7 +1504,7 @@
     "collections": "Laugh at THIS AG TV, Horror AG TV, Sci-Fi Oh-My AG TV, Toonsville AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "Bow down and prepare for DOOM!",
-    "audio_languages": "",
+    "audio_languages": "French, English",
     "subtitle_languages": ""
   },
   {
@@ -1533,7 +1533,7 @@
     "collections": "Sci-Fi Oh-My AG TV, Toonsville AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "Locked down but not out ... Allen the alien.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1562,7 +1562,7 @@
     "collections": "HBO on AG TV, Horror AG TV",
     "labels": "",
     "tagline": "Go back to where it all began.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1591,7 +1591,7 @@
     "collections": "Classics on AG TV, Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "Japanese",
     "subtitle_languages": ""
   },
   {
@@ -1620,7 +1620,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1649,7 +1649,7 @@
     "collections": "Classics on AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1678,7 +1678,7 @@
     "collections": "HBO on AG TV, Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "A tall tale that became legend.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1707,7 +1707,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1736,7 +1736,7 @@
     "collections": "",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1765,7 +1765,7 @@
     "collections": "Miniature Series AG TV, Crime. Is it any good? AG TV, HBO on AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1823,7 +1823,7 @@
     "collections": "Toonsville AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1852,7 +1852,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1881,7 +1881,7 @@
     "collections": "Miniature Series AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1910,7 +1910,7 @@
     "collections": "Sometimes a Fantasy AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Love is strange.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1939,7 +1939,7 @@
     "collections": "Crime. Is it any good? AG TV, Sometimes a Fantasy AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "The man without fear",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -1997,13 +1997,13 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
     "title": "The Mighty Nein",
     "year": 2025,
-    "genres": "Animation, Sci-Fi & Fantasy, Action & Adventure",
+    "genres": "Animation, Action & Adventure, Sci-Fi & Fantasy",
     "studio": "Titmouse",
     "plot": "When a powerful arcane relic known as 'The Beacon' falls into nefarious hands, a group of fugitives and outcasts, bound by secrets and scars, must learn to work together to save the realm and stop reality as they know it from unraveling.",
     "cast": "Laura Bailey, Taliesin Jaffe, Liam O'Brien",
@@ -2026,7 +2026,7 @@
     "collections": "Toonsville AG TV, Sci-Fi Oh-My AG TV, Sometimes a Fantasy AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English, German",
     "subtitle_languages": ""
   },
   {
@@ -2055,7 +2055,7 @@
     "collections": "",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2084,7 +2084,7 @@
     "collections": "Toonsville AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "The introduction into society, from child to adult",
-    "audio_languages": "",
+    "audio_languages": "Japanese",
     "subtitle_languages": ""
   },
   {
@@ -2113,7 +2113,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2142,7 +2142,7 @@
     "collections": "DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "We're so back.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2171,7 +2171,7 @@
     "collections": "Sometimes a Fantasy AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "Come on board and bring along all your hopes and dreams",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2200,7 +2200,7 @@
     "collections": "Horror AG TV, Sometimes a Fantasy AG TV, Toonsville AG TV, Sci-Fi Oh-My AG TV",
     "labels": "",
     "tagline": "Will you take a peek?",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2229,7 +2229,7 @@
     "collections": "DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2258,7 +2258,7 @@
     "collections": "Toonsville AG TV, DRAMA! AG TV, Sci-Fi Oh-My AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English, Hindi, Norwegian",
     "subtitle_languages": ""
   },
   {
@@ -2287,7 +2287,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Because parks don't grow on trees.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2316,7 +2316,7 @@
     "collections": "Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2345,7 +2345,7 @@
     "collections": "HBO on AG TV, Sci-Fi Oh-My AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Give Peace a F#cking Chance",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2374,7 +2374,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "There've Been Some Developments",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2403,7 +2403,7 @@
     "collections": "HBO on AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "15 episodes. 15 hours. 1 shift.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2432,7 +2432,7 @@
     "collections": "Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "Happiness is contagious.",
-    "audio_languages": "",
+    "audio_languages": "English, French, Quechua, Spanish",
     "subtitle_languages": ""
   },
   {
@@ -2461,7 +2461,7 @@
     "collections": "Crime. Is it any good? AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2490,7 +2490,7 @@
     "collections": "AG PLEXclusives B, Classics on AG TV, Crime. Is it any good? AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "There are 8 million stories in the Naked City. Here are six.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2519,7 +2519,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2548,7 +2548,7 @@
     "collections": "Sometimes a Fantasy AG TV, DRAMA! AG TV, Sci-Fi Oh-My AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "life. death. and life again.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2577,7 +2577,7 @@
     "collections": "",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2606,7 +2606,7 @@
     "collections": "HBO on AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Why leave life to chance?",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2635,7 +2635,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Reviewing life...even if it kills him",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2664,7 +2664,7 @@
     "collections": "Laugh at THIS AG TV, Toonsville AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2693,7 +2693,7 @@
     "collections": "Brit Wits AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "sky",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2722,7 +2722,7 @@
     "collections": "HBO on AG TV, Toonsville AG TV, Sci-Fi Oh-My AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "Don't Go Alone",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2751,7 +2751,7 @@
     "collections": "DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English, Spanish",
     "subtitle_languages": ""
   },
   {
@@ -2780,7 +2780,7 @@
     "collections": "DRAMA! AG TV, Sci-Fi Oh-My AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2809,7 +2809,7 @@
     "collections": "DRAMA! AG TV, Sci-Fi Oh-My AG TV",
     "labels": "",
     "tagline": "The truth will surface.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2838,13 +2838,13 @@
     "collections": "Sci-Fi Oh-My AG TV, Toonsville AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "For Dirty Harry Fans only",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
     "title": "Spider-Noir",
     "year": 2026,
-    "genres": "Crime, Mystery, Drama",
+    "genres": "Crime, Drama, Mystery",
     "studio": "Pascal Pictures",
     "plot": "Ben Reilly, a seasoned, down-on-his-luck private investigator in 1930s New York, is forced to grapple with his past life, following a deeply personal tragedy, as the city's one and only superhero.",
     "cast": "Nicolas Cage, Lamorne Morris, Li Jun Li",
@@ -2867,7 +2867,7 @@
     "collections": "Crime. Is it any good? AG TV",
     "labels": "",
     "tagline": "With no power comes no responsibility.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2896,7 +2896,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Think outside the box office.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2925,7 +2925,7 @@
     "collections": "Softy-Core (SafeForWork) AG TV, Laugh at THIS AG TV, Sci-Fi Oh-My AG TV, Toonsville AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English, Portuguese",
     "subtitle_languages": ""
   },
   {
@@ -2954,7 +2954,7 @@
     "collections": "Laugh at THIS AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "School is in.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -2983,7 +2983,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Going back to where it all went wrong.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -3012,7 +3012,7 @@
     "collections": "DRAMA! AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "Out of His League",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -3070,7 +3070,7 @@
     "collections": "Crime. Is it any good? AG TV, DRAMA! AG TV",
     "labels": "",
     "tagline": "The 21st century is when it all changes",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -3099,7 +3099,7 @@
     "collections": "Classics on AG TV, Toonsville AG TV",
     "labels": "",
     "tagline": "More than meets the eye!",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -3128,7 +3128,7 @@
     "collections": "DRAMA! AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -3157,7 +3157,7 @@
     "collections": "Horror AG TV, Sometimes a Fantasy AG TV, Classics on AG TV, DRAMA! AG TV, Crime. Is it any good? AG TV",
     "labels": "",
     "tagline": "A town where everyone knows everyone and nothing is what it seems.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -3186,7 +3186,7 @@
     "collections": "Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -3244,7 +3244,7 @@
     "collections": "Horror AG TV, Laugh at THIS AG TV",
     "labels": "",
     "tagline": "",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   },
   {
@@ -3273,7 +3273,7 @@
     "collections": "Sci-Fi Oh-My AG TV, Toonsville AG TV",
     "labels": "",
     "tagline": "New Episodes, New Era.",
-    "audio_languages": "",
+    "audio_languages": "English",
     "subtitle_languages": ""
   }
 ]
